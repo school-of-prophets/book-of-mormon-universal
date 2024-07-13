@@ -1,0 +1,146 @@
+title: The Book of Mormon
+
+sub-title: An Account Written by the Hand of Mormon upon Plates
+
+sub-title: Taken from the Plates of Nephi:
+
+sub-title: The Fullness of the Gospel, The New Covenant of Jesus Christ
+
+include: ../../shared/cjccf.txt
+
+author: Joseph Smith, Junior, author and proprietor
+
+author: David Ferriman, compiler and editor
+
+copyright-years: 2019-2023
+
+first-printing: 2019
+
+viewer-path: /book-of-mormon-universal/
+
+isbn: 
+
+===
+collection-of-books: Preface, etc.
+
+===
+include: title-page-1830.txt
+
+===
+include: witnesses.txt
+
+===
+book: 2020 Edition
+book-aka: The Universal Book of Mormon
+viewer-path: /book-of-mormon-universal/2020
+
+chapter: Preface
+
+viewer-path: /book-of-mormon-universal/2020/preface
+
+chapter-sum: “And I saw another angel fly in the midst of heaven, having the everlasting Gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people, saying with a loud voice, ‘Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.’” – Revelation 14: 6-7 KJV
+
+. This version of the Book of Mormon was created to help any transitioning between Latter Day Saint or Mormon denominations. The goal is to make accessing this book of scripture, with the different chaptering, versing, and sections, easier to navigate. The Book of Mormon is a sacred text for the Latter Day Saint movement. It was first published in March 1830 by Joseph Smith as “The Book of Mormon: An Account Written by the Hand of Mormon upon Plates Taken from the Plates of Nephi.” We have added “The Fullness of the Gospel, The New Covenant of Jesus Christ” to the title. Changes to the text from the original 1830 edition are in italics. In addition, as noted, differences from the King James Bible to the translation of the same books are also in italics. It is our prayer that this edition will help unify the Saints that Israel may gather, and Zion be established.
+
+
+===
+chapter: Abbreviations
+
+viewer-path: /book-of-mormon-universal/2020/abbr
+
+. AV: Authorized Version
+
+. BoC: Book of Commandments
+
+. BoM: Book of Mormon
+
+. CoC: Community of Christ/Reorganized Church of Jesus Christ of Latter Day Saints
+
+. DaC: Doctrine and Covenants
+
+. HB: Holy Bible
+
+. KJV: King James Version
+
+. JST: The Holy Scriptures or Joseph Smith Translation
+
+. LDS: The Church of Jesus Christ of Latter-day Saints
+
+. NT: New Testament
+
+. OPV: Orson Pratt Version
+
+. OT: Old Testament
+
+. PoGP: Pearl of Great Price
+
+. RAV: Revised Authorized Version
+
+
+===
+chapter: Dedication
+
+viewer-path: /book-of-mormon-universal/2020/dedication
+
+. This universal edition of the Book of Mormon is dedicated to God, the Eternal Father; to Jesus Christ, our Lord and Savior - the living Word of God; the Holy Spirit, for without whom the scriptures could not be opened up unto us; and the many prophets, presidents, and other leaders within the Latter Day Saint movement that have kept the work of the Lord, started by the prophet Joseph Smith Jr., going for the past 180 plus years.
+
+
+===1>
+collection-of-books: Small Plates of Nephi
+
+include: 1-nephi.txt
+
+===>
+include: 2-nephi.txt
+
+===>
+include: jacob.txt
+
+===>
+include: enos.txt
+
+===>
+include: jarom.txt
+
+===>
+include: omni.txt
+
+===>
+collection-of-books: Mormon's Abridgment of the Large Plates of Nephi
+
+include: lehi.txt
+
+===>
+include: words-of-mormon.txt
+
+===>
+collection-of-books: The Large Plates of Nephi
+
+include: mosiah.txt
+
+===>
+include: alma.txt
+
+===>
+include: helaman.txt
+
+===>
+include: 3-nephi.txt
+
+===>
+include: 4-nephi.txt
+
+===>
+include: mormon.txt
+
+===>
+include: ether.txt
+
+===>
+collection-of-books: Moroni's Collection of Other Writings
+
+include: moroni.txt
+
+
+
+

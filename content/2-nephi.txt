@@ -1,0 +1,2749 @@
+book: The Second Book of Nephi
+
+book-sum: An account of the death of Lehi. Nephi's brethren rebelleth against him. The Lord warns Nephi to depart into the wilderness. His journeyings in the wilderness.
+
+viewer-path: /book-of-mormon-universal/2-nephi/
+
+chapter: 2 Nephi 1
+
+viewer-path: /book-of-mormon-universal/2-nephi/1
+
+chapter-aka: [1:1-2:30 OPV]
+
+subchapter: [OPV Chapter 1]
+
+1:1 [1:1]. And now, it came to pass after I, Nephi, had made an end of teaching my brethren, our father Lehi also spake many things unto them—how great things the Lord had done for them in bringing them out of the land of Jerusalem.
+
+1:2 [1:2]. And he spake unto them concerning their rebellions upon the waters and the mercies of God in sparing their lives, that they were not swallowed up in the sea.
+
+1:3 [1:3]. And he also spake unto them concerning the land of promise which they had obtained—how merciful the Lord had been in warning us that we should flee out of the land of Jerusalem.
+
+1:4 [1:4a]. For behold, said he: I have seen a vision in which I know that Jerusalem is destroyed;
+
+1:5 [1:4b]. And had we remained in Jerusalem, we should also have perished.
+
+1:6 [1:5a]. But, said he, notwithstanding our afflictions, we have obtained a land of promise, a land which is choice above all other lands,
+
+1:7 [1:5b]. A land which the Lord God hath covenanted with me should be a land for the inheritance of my seed.
+
+1:8 [1:5c]. Yea, the Lord hath consecrated this land unto me and to my children forever,
+
+1:9 [1:5d]. And also all those who should be led out of other countries by the hand of the Lord.
+
+1:10 [1:6]. Wherefore, I, Lehi, prophesy, according to the workings of the Spirit which is in me, that there shall none come into this land, save they shall be brought by the hand of the Lord.
+
+1:11 [1:7a]. Wherefore, this land is consecrated unto him whom he shall bring.
+
+1:12 [1:7b]. And if it so be that they shall serve him according to the commandments which he hath given, it shall be a land of liberty unto them;
+
+1:13 [1:7c]. Wherefore, they shall never be brought down into captivity; if so, it shall be because of iniquity;
+
+1:14 [1:7d]. For if iniquity shall abound, cursed shall be the land for their sakes;
+
+1:15 [1:7e]. But unto the righteous, it shall be blessed forever.
+
+1:16 [1:8a]. And behold, it is wisdom that this land should be kept as yet from the knowledge of other nations;
+
+1:17 [1:8b]. For, behold, many nations would overrun the land, that there would be no place for an inheritance.
+
+1:18 [1:9a]. Wherefore, I, Lehi, have obtained a promise, that inasmuch as those whom the Lord God shall bring out of the land of Jerusalem shall keep his commandments, they shall prosper upon the face of this land;
+
+1:19 [1:9b]. And they shall be kept from all other nations, that they may possess this land unto themselves.
+
+1:20 [1:9c]. And if it so be that they shall keep his commandments, they shall be blessed upon the face of this land,
+
+1:21 [1:9d]. And there shall be none to molest them nor to take away the land of their inheritance; and they shall dwell safely forever.
+
+1:22a [1:10a]. But behold, when the time cometh that they shall dwindle in unbelief, after they have received so great blessings from the hand of the Lord—
+
+1:22b [1:10b]. Having a knowledge of the creation of the earth and all men, knowing the great and marvelous works of the Lord from the creation of the world,
+
+1:22c [1:10c]. Having power given them to do all things by faith, having all the commandments from the beginning, and having been brought by his infinite goodness into this precious land of promise—
+
+1:23 [1:10d]. Behold, I say: If the day shall come that they will reject the Holy One of Israel, the true Messiah, their Redeemer and their God, behold, the judgments of him that is just shall rest upon them.
+
+1:24 [1:11]. Yea, he will bring other nations unto them, and he will give unto them power; and he will take away from them the lands of their possessions, and he will cause them to be scattered and smitten.
+
+1:25 [1:12a]. Yea, as one generation passeth to another, there shall be bloodsheds and great visitations among them;
+
+1:26 [1:12b]. Wherefore, my sons, I would that ye would remember, yea, I would that ye would hearken unto my words.
+
+1:27 [1:13]. O, that ye would awake; awake from a deep sleep, yea, even from the sleep of hell, and shake off the awful chains by which ye are bound, which are the chains which bind the children of men, that they are carried away captive down to the eternal gulf of misery and wo!
+
+1:28 [1:14]. Awake! And rise from the dust, and hear the words of a trembling parent, whose limbs ye must soon lay down in the cold and silent grave, from whence no traveler can return; a few more days, and I go the way of all the earth.
+
+1:29 [1:15]. But behold, the Lord hath redeemed my soul from hell; I have beheld his glory, and I am encircled about eternally in the arms of his love.
+
+1:30 [1:16]. And I desire that ye should remember to observe the statutes and the judgments of the Lord; behold, this hath been the anxiety of my soul from the beginning.
+
+1:31a [1:17a]. My heart hath been weighed down with sorrow from time to time;
+
+1:31b [1:17b]. For I have feared, lest for the hardness of your hearts, the Lord, your God, should come out in the fullness of his wrath upon you, that ye be cut off and destroyed forever,
+
+1:32 [1:18]. Or that a cursing should come upon you for the space of many generations, and ye are visited by sword and by famine, and are hated, and are led according to the will and captivity of the devil.
+
+1:33 [1:19a]. O my sons, that these things might not come upon you, but that ye might be a choice and a favored people of the Lord!
+
+1:34a [1:19b]. But behold, his will be done; for his ways are righteousness forever;
+
+1:34b [1:20]. And he hath said: That inasmuch as ye shall keep my commandments, ye shall prosper in the land; but inasmuch as ye will not keep my commandments, ye shall be cut off from my presence.
+
+1:35 [1:21a]. And now, that my soul might have joy in you, and that my heart might leave this world with gladness because of you, that I might not be brought down with grief and sorrow to the grave,
+
+1:36a [1:21b]. Arise from the dust, my sons, and be men, and be determined in one mind, and in one heart united in all things, that ye may not come down into captivity,
+
+1:36b [1:22a]. That ye may not be cursed with a sore cursing;
+
+1:37 [1:22b]. And also, that ye may not incur the displeasure of a just God upon you, unto the destruction, yea, the eternal destruction of both soul and body.
+
+1:38 [1:23a]. Awake, my sons; put on the armor of righteousness.
+
+1:39 [1:23b]. Shake off the chains with which ye are bound, and come forth out of obscurity, and arise from the dust.
+
+1:40 [1:24a]. Rebel no more against your brother, whose views have been glorious, and who hath kept the commandments from the time that we left Jerusalem, and who hath been an instrument in the hands of God in bringing us forth into the land of promise;
+
+1:41 [1:24b]. For were it not for him, we must have perished with hunger in the wilderness;
+
+1:42 [1:24c]. Nevertheless, ye sought to take away his life; yea, and he hath suffered much sorrow because of you.
+
+1:43 [1:25a]. And I exceedingly fear and tremble because of you, lest he shall suffer again;
+
+1:44 [1:25b]. For behold, ye have accused him that he sought power and authority over you;
+
+1:45 [1:25c]. But I know that he hath not sought for power nor authority over you; but he hath sought the glory of God and your own eternal welfare.
+
+1:46 [1:26a]. And ye have murmured because he hath been plain unto you.
+
+1:47 [1:26b]. Ye say that he hath used sharpness; ye say that he hath been angry with you.
+
+1:48 [1:26c]. But behold, his sharpness was the sharpness of the power of the word of God, which was in him;
+
+1:49 [1:26d]. And that which ye call anger was the truth, according to that which is in God, which he could not restrain, manifesting boldly concerning your iniquities.
+
+1:50 [1:27a]. And it must needs be that the power of God must be with him, even unto his commanding you, that ye must obey.
+
+1:51 [1:27b]. But behold, it was not him, but it was the Spirit of the Lord which was in him, which opened his mouth to utterance, that he could not shut it.
+
+1:52 [1:28a]. ¶ And now, my son Laman, and also Lemuel and Sam, and also my sons who are the sons of Ishmael, behold, if ye will hearken unto the voice of Nephi, ye shall not perish.
+
+1:53 [1:28b]. And if ye will hearken unto him, I leave unto you a blessing, yea, even my first blessing.
+
+1:54 [1:29]. But if ye will not hearken unto him, I take away my first blessing, yea, even my blessing; and it shall rest upon him.
+
+1:55 [1:30]. And now, Zoram, I speak unto you: Behold, thou art the servant of Laban; nevertheless, thou hast been brought out of the land of Jerusalem, and I know that thou art a true friend unto my son Nephi forever.
+
+1:56 [1:31a]. Wherefore, because thou hast been faithful, thy seed shall be blessed with his seed, that they dwell in prosperity long upon the face of this land;
+
+1:57 [1:31b]. And nothing, save it shall be iniquity among them, shall harm or disturb their prosperity upon the face of this land forever.
+
+1:58 [1:32]. Wherefore, if ye shall keep the commandments of the Lord, the Lord hath consecrated this land for the security of thy seed with the seed of my son.
+
+subchapter: [OPV Chapter 2]
+
+1:59 [2:1a]. And now, Jacob, I speak unto you: Thou art my firstborn in the days of my tribulation in the wilderness.
+
+1:60 [2:1b]. And behold, in thy childhood thou hast suffered afflictions and much sorrow because of the rudeness of thy brethren.
+
+1:61 [2:2]. Nevertheless, Jacob, my firstborn in the wilderness, thou knowest the greatness of God; and he shall consecrate thine afflictions for thy gain.
+
+1:62 [2:3a]. Wherefore, thy soul shall be blessed, and thou shalt dwell safely with thy brother Nephi; and thy days shall be spent in the service of thy God.
+
+1:63 [2:3b]. Wherefore, I know that thou art redeemed because of the righteousness of thy Redeemer; for thou hast beheld that in the fullness of time he cometh to bring salvation unto men.
+
+1:64 [2:4a]. And thou hast beheld in thy youth his glory; wherefore, thou art blessed even as they unto whom he shall minister in the flesh.
+
+1:65 [2:4b]. For the Spirit is the same—yesterday, today, and forever.
+
+1:66 [2:4c]. And the way is prepared from the fall of man, and salvation is free.
+
+1:67 [2:5a]. And men are instructed sufficiently, that they know good from evil.
+
+1:68 [2:5b]. And the law is given unto men.
+
+1:69 [2:5c]. And by the law, no flesh is justified, or, by the law, men are cut off.
+
+1:70 [2:5d]. Yea, by the temporal law they were cut off; and also by the spiritual law they perish from that which is good and become miserable forever.
+
+1:71 [2:6]. Wherefore, redemption cometh in and through the holy Messiah; for he is full of grace and truth.
+
+1:72 [2:7]. Behold, he offereth himself a sacrifice for sin, to answer the ends of the law unto all those who have a broken heart and a contrite spirit; and unto none else can the ends of the law be answered.
+
+1:73 [2:8a]. Wherefore, how great the importance to make these things known unto the inhabitants of the earth, that they may know that there is no flesh that can dwell in the presence of God, save it be through the merits, and mercy, and grace of the holy Messiah,
+
+1:74 [2:8b]. Who layeth down his life according to the flesh and taketh it again by the power of the Spirit,
+
+1:75 [2:8c]. That he may bring to pass the resurrection of the dead, being the first that should rise.
+
+1:76 [2:9a]. Wherefore, he is the firstfruits unto God, inasmuch as he shall make intercession for all the children of men;
+
+1:77 [2:9b]. And they that believe in him shall be saved.
+
+1:78 [2:10a]. And because of the intercession for all, all men come unto God;
+
+1:79 [2:10b]. Wherefore, they stand in the presence of him, to be judged of him, according to the truth and holiness which is in him.
+
+1:80 [2:10c]. Wherefore, the ends of the law which the Holy One hath given, unto the inflicting of the punishment which is affixed, which punishment that is affixed is in opposition to that of the happiness which is affixed, to answer the ends of the atonement;
+
+1:81 [2:11a]. For it must needs be that there is an opposition in all things.
+
+1:82 [2:11b]. If not so, my firstborn in the wilderness, righteousness could not be brought to pass, neither wickedness, neither holiness nor misery, neither good nor bad.
+
+1:83 [2:11c]. Wherefore, all things must needs be a compound in one;
+
+1:84 [2:11d]. Wherefore, if it should be one body, it must needs remain as dead, having no life, neither death nor corruption, nor incorruption, happiness nor misery, neither sense nor insensibility.
+
+1:85 [2:12a]. Wherefore, it must needs have been created for a thing of naught;
+
+1:86 [2:12b]. Wherefore, there would have been no purpose in the end of its creation.
+
+1:87 [2:12c]. Wherefore, this thing must needs destroy the wisdom of God and his eternal purposes, and also the power, and the mercy, and the justice of God.
+
+1:88 [2:13a]. And if ye shall say there is no law, ye shall also say there is no sin.
+
+1:89 [2:13b]. And if ye shall say there is no sin, ye shall also say there is no righteousness.
+
+1:90 [2:13c]. And if there be no righteousness, there be no happiness.
+
+1:91 [2:13d]. And if there be no righteousness nor happiness, there be no punishment nor misery.
+
+1:92 [2:13e]. And if these things are not, there is no God.
+
+1:93 [2:13f]. And if there is no God, we are not, neither the earth; for there could have been no creation of things, neither to act nor to be acted upon; wherefore, all things must have vanished away.
+
+1:94 [2:14a]. ¶ And now, my son, I speak unto you these things for your profit and learning:
+
+1:95 [2:14b]. For there is a God; and he hath created all things, both the heavens, and the earth, and all things that in them are—
+
+1:96 [2:14c]. Both things to act and things to be acted upon.
+
+1:97 [2:15a]. And to bring about his eternal purposes in the end of man, after he had created our first parents, and the beasts of the field, and the fowls of the air, and, in fine, all things which are created, it must needs be that there was an opposition—
+
+1:98 [2:15b]. Even the forbidden fruit in opposition to the tree of life—the one being sweet and the other bitter.
+
+1:99 [2:16a]. Wherefore, the Lord God gave unto man that he should act for himself.
+
+1:100 [2:16b]. Wherefore, man could not act for himself, save it should be that he was enticed by the one or the other.
+
+1:101 [2:17a]. ¶ And I, Lehi, according to the things which I have read, must needs suppose that an angel of God, according to that which is written, had fallen from heaven;
+
+1:102 [2:17b]. Wherefore, he became a devil, having sought that which was evil before God.
+
+1:103 [2:18a]. And because he had fallen from heaven and had become miserable forever, he sought also the misery of all mankind.
+
+1:104a [2:18b]. Wherefore, he said unto Eve, yea, even that old serpent who is the devil, who is the father of all lies,
+
+1:104b [2:18c]. Wherefore, he said: Partake of the forbidden fruit, and ye shall not die; but ye shall be as God, knowing good and evil.
+
+1:105 [2:19]. And after Adam and Eve had partaken of the forbidden fruit, they were driven out of the garden of Eden to till the earth.
+
+1:106 [2:20]. And they have brought forth children, yea, even the family of all the earth.
+
+1:107 [2:21a]. And the days of the children of men were prolonged, according to the will of God, that they might repent while in the flesh;
+
+1:108 [2:21b]. Wherefore, their state became a state of probation, and their time was lengthened, according to the commandments which the Lord God gave unto the children of men.
+
+1:109 [2:21c]. For he gave commandment that all men must repent;
+
+1:110 [2:21d]. For he showed unto all men that they were lost because of the transgression of their parents.
+
+1:111 [2:22a]. And now, behold, if Adam had not transgressed, he would not have fallen; but he would have remained in the garden of Eden.
+
+1:112 [2:22b]. And all things which were created must have remained in the same state which they were after they were created; and they must have remained forever and had no end.
+
+1:113 [2:23]. And they would have had no children; wherefore, they would have remained in a state of innocence—having no joy for they knew no misery, doing no good for they knew no sin.
+
+1:114 [2:24]. But behold, all things have been done in the wisdom of him who knoweth all things.
+
+1:115 [2:25]. Adam fell, that men might be; and men are, that they might have joy.
+
+1:116 [2:26a]. And the Messiah cometh in the fullness of time, that he may redeem the children of men from the fall.
+
+1:117 [2:26b]. And because that they are redeemed from the fall, they have become free forever, knowing good from evil,
+
+1:118 [2:26c]. To act for themselves and not to be acted upon, save it be by the punishment of the Lord, at the great and last day, according to the commandments which God hath given.
+
+1:119 [2:27a]. Wherefore, men are free according to the flesh; and all things are given them which is expedient unto man.
+
+1:120 [2:27b]. And they are free to choose liberty and eternal life, through the great mediation of all men, or to choose captivity and death, according to the captivity and power of the devil;
+
+1:121 [2:27c]. For he seeketh that all men might be miserable like unto himself.
+
+1:122 [2:28a]. ¶ And now, my sons, I would that ye should look to the great Mediator, and hearken unto his great commandments,
+
+1:123 [2:28b]. And be faithful unto his words, and choose eternal life, according to the will of his Holy Spirit,
+
+1:124 [2:29a]. And not choose eternal death, according to the will of the flesh and the evil which is therein,
+
+1:125 [2:29b]. Which giveth the spirit of the devil power to captivate, to bring you down to hell, that he may reign over you in his own kingdom.
+
+1:126 [2:30a]. ¶ I have spoken these few words unto you all, my sons, in the last days of my probation;
+
+1:127 [2:30b]. And I have chosen the good part, according to the words of the prophet.
+
+1:128 [2:30c]. And I have none other object, save it be the everlasting welfare of your souls. Amen.
+
+chapter:  2 Nephi 2
+
+viewer-path: /book-of-mormon-universal/2-nephi/2
+
+chapter-aka: [3 OPV]
+
+subchapter: [OPV Chapter 3]
+
+2:1 [3:1a]. And now, I speak unto you, Joseph, my last born.
+
+2:2 [3:1b]. Thou wast born in the wilderness of mine afflictions; yea, in the days of my greatest sorrow did thy mother bear thee.
+
+2:3 [3:2]. And may the Lord consecrate also unto thee this land, which is a most precious land, for thine inheritance and the inheritance of thy seed with thy brethren, for thy security forever—if it so be that ye shall keep the commandments of the Holy One of Israel.
+
+2:4 [3:3]. And now, Joseph, my last born, whom I have brought out of the wilderness of mine afflictions, may the Lord bless thee forever, for thy seed shall not utterly be destroyed.
+
+2:5 [3:4a]. For behold, thou art the fruit of my loins; and I am a descendant of Joseph, who was carried captive into Egypt.
+
+2:6a [3:4b]. And great was the covenants of the Lord which he made unto Joseph, wherefore, Joseph truly saw our day.
+
+2:7 [3:5b]. And he obtained a promise of the Lord, that out of the fruit of his loins the Lord God would raise up a righteous branch unto the house of Israel—
+
+2:8 [3:5c]. Not the Messiah, but a branch which was to be broken off, nevertheless, to be remembered in the covenants of the Lord,
+
+2:9 [3:5d]. That the Messiah should be made manifest unto them in the latter days, in the spirit of power, unto the bringing of them out of darkness unto light, yea, out of hidden darkness and out of captivity unto freedom.
+
+2:10 [3:6]. For Joseph truly testified, saying: A seer shall the Lord, my God, raise up, who shall be a choice seer unto the fruit of my loins.
+
+2:11 [3:7a]. Yea, Joseph truly said: Thus saith the Lord unto me: A choice seer will I raise up out of the fruit of thy loins; and he shall be esteemed highly among the fruit of thy loins.
+
+2:12 [3:7b]. And unto him will I give commandment, that he shall do a work for the fruit of thy loins, his brethren, which shall be of great worth unto them, even to the bringing of them to the knowledge of the covenants which I have made with thy fathers.
+
+2:13 [3:8a]. And I will give unto him a commandment, that he shall do none other work save the work which I shall command him.
+
+2:14 [3:8b]. And I will make him great in mine eyes, for he shall do my work.
+
+2:15 [3:9]. And he shall be great like unto Moses, whom I have said I would raise up unto you to deliver my people, O house of Israel.
+
+2:16 [3:10]. And Moses will I raise up to deliver thy people out of the land of Egypt.
+
+2:17 [3:11a]. But a seer will I raise up out of the fruit of thy loins; and unto him will I give power to bring forth my word unto the seed of thy loins.
+
+2:18 [3:11b]. And not to the bringing forth my word only, saith the Lord, but to the convincing them of my word, which shall have already gone forth among them.
+
+2:19 [3:12a]. Wherefore, the fruit of thy loins shall write; and the fruit of the loins of Judah shall write;
+
+2:20 [3:12b]. And that which shall be written by the fruit of thy loins and also that which shall be written by the fruit of the loins of Judah shall grow together,
+
+2:21 [3:12c]. Unto the confounding of false doctrines, and laying down of contentions, and establishing peace among the fruit of thy loins,
+
+2:22 [3:12d]. And bringing them to the knowledge of their fathers in the latter days,
+
+2:23 [3:12e]. And also to the knowledge of my covenants, saith the Lord.
+
+2:24 [3:13a]. And out of weakness he shall be made strong, in that day when my work shall commence among all my people, unto the restoring thee, O house of Israel, saith the Lord.
+
+2:25 [3:14a]. And thus prophesied Joseph, saying: Behold, that seer will the Lord bless;
+
+2:26 [3:14b]. And they that seek to destroy him shall be confounded;
+
+2:27 [3:14c]. For this promise, of which I have obtained of the Lord of the fruit of thy loins, shall be fulfilled.
+
+2:28 [3:14d]. Behold, I am sure of the fulfilling of this promise. 
+
+2:29 [3:15a]. And his name shall be called after me; and it shall be after the name of his father.
+
+2:30 [3:15b]. And he shall be like unto me; for the thing which the Lord shall bring forth by his hand, by the power of the Lord, shall bring my people unto salvation;
+
+2:31 [3:16]. Yea, thus prophesied Joseph, I am sure of this thing, even as I am sure of the promise of Moses; for the Lord hath said unto me: I will preserve thy seed forever.
+
+2:32 [3:17a]. And the Lord hath said: I will raise up a Moses, and I will give power unto him in a rod;
+
+2:33 [3:17b]. And I will give judgment unto him in writing.
+
+2:34 [3:17c]. Yet I will not loose his tongue, that he shall speak much; for I will not make him mighty in speaking.
+
+2:35 [3:17d]. But I will write unto him my law by the finger of mine own hand; and I will make a spokesman for him.
+
+2:36 [3:18a]. And the Lord said unto me also: I will raise up unto the fruit of thy loins, and I will make for him a spokesman.
+
+2:37 [3:18b]. And I, behold, I will give unto him that he shall write the writing of the fruit of thy loins unto the fruit of thy loins; and the spokesman of thy loins shall declare it.
+
+2:38 [3:19a]. And the words which he shall write shall be the words which are expedient in my wisdom should go forth unto the fruit of thy loins.
+
+2:39 [3:19b]. And it shall be as if the fruit of thy loins had cried unto them from the dust; for I know their faith.
+
+2:40 [3:20a]. And they shall cry from the dust, yea, even repentance unto their brethren, even after many generations have gone by them.
+
+2:41 [3:20b]. And it shall come to pass that their cry shall go, even according to the simpleness of their words.
+
+2:42 [3:21a]. Because of their faith, their words shall proceed forth out of my mouth unto their brethren, who are the fruit of thy loins;
+
+2:43 [3:21b]. And the weakness of their words will I make strong in their faith, unto the remembering of my covenant which I made unto thy fathers.
+
+2:44 [3:22]. ¶ And now, behold, my son Joseph, after this manner did my father of old prophesy.
+
+2:45 [3:23]. Wherefore, because of this covenant thou art blessed, for thy seed shall not be destroyed, for they shall hearken unto the words of the book.
+
+2:46 [3:24a]. And there shall rise up one mighty among them, who shall do much good, both in word and in deed, being an instrument in the hands of God, with exceeding faith,
+
+2:47 [3:24b]. To work mighty wonders and do that thing which is great in the sight of God, unto the bringing to pass much restoration unto the house of Israel and unto the seed of thy brethren.
+
+2:48 [3:25a]. And now, blessed art thou, Joseph.
+
+2:49 [3:25b]. Behold, thou art little; wherefore, hearken unto the words of thy brother Nephi, and it shall be done unto thee, even according to the words which I have spoken.
+
+2:50 [3:25c]. Remember the words of thy dying father. Amen.
+
+chapter:  2 Nephi 3
+
+viewer-path: /book-of-mormon-universal/2-nephi/3
+
+chapter-aka: [4 OPV]
+
+subchapter: [OPV Chapter 4]
+
+3:1 [4:1]. And now, I, Nephi, speak concerning the prophecies of which my father hath spoken concerning Joseph, who was carried into Egypt:
+
+3:2 [4:2a]. For behold, he truly prophesied concerning all his seed.
+
+3:3 [4:2b]. And the prophecies which he wrote, there are not many greater.
+
+3:4 [4:2c]. And he prophesied concerning us and our future generations;
+
+3:5 [4:2d]. And they are written upon the plates of brass.
+
+3:6 [4:3a]. Wherefore, after my father had made an end of speaking concerning the prophecies of Joseph, he called the children of Laman, his sons and his daughters, and said unto them,
+
+3:7 [4:3b]. Behold, my sons and my daughters, who are the sons and the daughters of my firstborn, I would that ye should give ear unto my words;
+
+3:8 [4:4a]. For the Lord God hath said that, Inasmuch as ye shall keep my commandments, ye shall prosper in the land;
+
+3:9 [4:4b]. And inasmuch as ye will not keep my commandments, ye shall be cut off from my presence.
+
+3:10 [4:5a]. But behold, my sons and my daughters, I cannot go down to my grave, save I should leave a blessing upon you;
+
+3:11 [4:5b]. For behold, I know that if ye are brought up in the way ye should go, ye will not depart from it.
+
+3:12 [4:6]. Wherefore, if ye are cursed, behold, I leave my blessing upon you, that the cursing may be taken from you and be answered upon the heads of your parents.
+
+3:13 [4:7]. Wherefore, because of my blessing, the Lord God will not suffer that ye shall perish; wherefore, he will be merciful unto you and unto your seed forever.
+
+3:14 [4:8]. ¶ And it came to pass that after my father had made an end of speaking to the sons and daughters of Laman, he caused the sons and daughters of Lemuel to be brought before him.
+
+3:15 [4:9a]. And he spake unto them, saying, Behold, my sons and my daughters, who are the sons and the daughters of my second son,
+
+3:16 [4:9b]. Behold, I leave unto you the same blessing which I left unto the sons and daughters of Laman; wherefore, thou shalt not utterly be destroyed; but in the end thy seed shall be blessed.
+
+3:17 [4:10]. ¶ And it came to pass that when my father had made an end of speaking unto them, behold, he spake unto the sons of Ishmael, yea, and even all his household.
+
+3:18 [4:11a]. And after he had made an end of speaking unto them, he spake unto Sam, saying,
+
+3:19 [4:11b]. Blessed art thou and thy seed; for thou shalt inherit the land, like unto thy brother Nephi.
+
+3:20 [4:11c]. And thy seed shall be numbered with his seed;
+
+3:21 [4:11d]. And thou shalt be even like unto thy brother, and thy seed like unto his seed; and thou shalt be blessed in all thy days.
+
+3:22 [4:12a]. ¶ And it came to pass after my father Lehi had spoken unto all his household, according to the feelings of his heart and the Spirit of the Lord which was in him, he waxed old.
+
+3:23 [4:12b]. And it came to pass that he died and was buried.
+
+3:24 [4:13]. ¶ And it came to pass that not many days after his death, Laman, and Lemuel, and the sons of Ishmael were angry with me because of the admonitions of the Lord;
+
+3:25 [4:14a]. For I, Nephi, was constrained to speak unto them according to his word.
+
+3:26 [4:14b]. For I had spoken many things unto them, and also my father before his death,
+
+3:27 [4:14c]. Many of which sayings are written upon mine other plates; for a more history part are written upon mine other plates.
+
+3:28 [4:15a]. And upon these, I write the things of my soul and many of the scriptures which are engraven upon the plates of brass;
+
+3:29 [4:15b]. For my soul delighteth in the scriptures, and my heart pondereth them and writeth them for the learning and the profit of my children.
+
+3:30 [4:16]. Behold, my soul delighteth in the things of the Lord; and my heart pondereth continually upon the things which I have seen and heard.
+
+3:31 [4:17a]. Nevertheless, the great goodness of the Lord, in showing me his great and marvelous works, my heart exclaimeth, O wretched man that I am! Yea, my heart sorroweth because of my flesh.
+
+3:32 [4:17b]. My soul grieveth because of mine iniquities.
+
+3:33 [4:18]. I am encompassed about because of the temptations and the sins which doth so easily beset me.
+
+3:34 [4:19]. And when I desire to rejoice, my heart groaneth because of my sins; nevertheless, I know in whom I have trusted.
+
+3:35 [4:20]. My God hath been my support; he hath led me through mine afflictions in the wilderness; and he hath preserved me upon the waters of the great deep.
+
+3:36 [4:21]. He hath filled me with his love, even unto the consuming of my flesh.
+
+3:37 [4:22]. He hath confounded mine enemies unto the causing of them to quake before me.
+
+3:38 [4:23]. Behold, he hath heard my cry by day, and he hath given me knowledge by visions in the nighttime.
+
+3:39 [4:24]. And by day have I waxed bold in mighty prayer before him; yea, my voice have I sent up on high; and angels came down and ministered unto me.
+
+3:40 [4:25a]. And upon the wings of his Spirit hath my body been carried away upon exceeding high mountains.
+
+3:41 [4:25b]. And mine eyes have beheld great things, yea, even too great for man; therefore, I was bidden that I should not write them.
+
+3:42a [4:26a]. Oh, then, if I have seen so great things, if the Lord in his condescension unto the children of men hath visited me in so much mercy,
+
+3:42b [4:26b]. Why should my heart weep, and my soul linger in the valley of sorrow, and my flesh waste away, and my strength slacken because of mine afflictions?
+
+3:43 [4:27a]. And why should I yield to sin because of my flesh?
+
+3:44 [4:27b]. Yea, why should I give way to temptations, that the evil one have place in my heart to destroy my peace and afflict my soul?
+
+3:45 [4:27c]. Why am I angry because of mine enemy?
+
+3:46 [4:28a]. Awake, my soul! No longer droop in sin!
+
+3:47 [4:28b]. Rejoice, O my heart, and give place no more for the enemy of my soul!
+
+3:48 [4:29a]. Do not anger again because of mine enemies.
+
+3:49 [4:29b]. Do not slacken my strength because of mine afflictions.
+
+3:50a [4:30a]. Rejoice, O my heart, and cry unto the Lord, and say, O Lord, I will praise thee forever!
+
+3:50b [4:30b]. Yea, my soul will rejoice in thee, my God, and the rock of my salvation!
+
+3:51 [4:31a]. O Lord, wilt thou redeem my soul?
+
+3:52 [4:31b]. Wilt thou deliver me out of the hands of mine enemies?
+
+3:53 [4:31c]. Wilt thou make me that I may shake at the appearance of sin?
+
+3:54 [4:32a]. May the gates of hell be shut continually before me because that my heart is broken and my spirit is contrite!
+
+3:55 [4:32b]. O Lord, wilt thou not shut the gates of thy righteousness before me, that I may walk in the path of the low valley, that I may be strict in the plain road?
+
+3:56 [4:33a]. O Lord, wilt thou encircle me around in the robe of thy righteousness?
+
+3:57 [4:33b]. O Lord, wilt thou make a way for mine escape before mine enemies?
+
+3:58 [4:33c]. Wilt thou make my path straight before me?
+
+3:59 [4:3d]. Wilt thou not place a stumbling block in my way?
+
+3:60 [4:3e]. But that thou wouldest clear my way before me and hedge not up my way, but the ways of mine enemy.
+
+3:61 [4:34a]. O Lord, I have trusted in thee, and I will trust in thee forever.
+
+3:62 [4:34b]. I will not put my trust in the arm of flesh; for I know that cursed is he that putteth his trust in the arm of flesh.
+
+3:63 [4:34c]. Yea, cursed is he that putteth his trust in man or maketh flesh his arm.
+
+3:64 [4:35a]. Yea, I know that God will give liberally to him that asketh.
+
+3:65 [4:3b]. Yea, my God will give me if I ask not amiss; therefore, I will lift up my voice unto thee; yea, I will cry unto thee, my God, the rock of my righteousness.
+
+3:66 [4:3c]. Behold, my voice shall forever ascend up unto thee, my rock and mine everlasting God. Amen.
+
+chapter: 2 Nephi 4
+
+viewer-path: /book-of-mormon-universal/2-nephi/4
+
+chapter-aka: [5 OPV]
+
+subchapter: [OPV Chapter 5]
+
+4:1 [5:1]. Behold, it came to pass that I, Nephi, did cry much unto the Lord, my God, because of the anger of my brethren.
+
+4:2 [5:2]. But behold, their anger did increase against me, insomuch that they did seek to take away my life.
+
+4:3 [5:3a]. Yea, they did murmur against me, saying: Our younger brother thinks to rule over us; and we have had much trial because of him; wherefore, now let us slay him, that we may not be afflicted more because of his words.
+
+4:4 [5:3b]. For behold, we will not have him to be our ruler; for it belongs unto us, who are the elder brethren, to rule over this people.
+
+4:5 [5:4a]. Now I do not write upon these plates all the words which they murmured against me.
+
+4:6 [5:4b]. But it sufficeth me to say that they did seek to take away my life.
+
+4:7 [5:5]. ¶ And it came to pass that the Lord did warn me that I, Nephi, should depart from them and flee into the wilderness, and all those who would go with me.
+
+4:8 [5:6a]. Wherefore, it came to pass that I, Nephi, did take my family, and also Zoram and his family, and Sam, mine elder brother, and his family, and Jacob and Joseph, my younger brethren, and also my sisters, and all those who would go with me.
+
+4:9 [5:6b]. And all those who would go with me were those who believed in the warnings and the revelations of God; wherefore, they did hearken unto my words.
+
+4:10 [5:7a]. And we did take our tents and whatsoever things were possible for us and did journey in the wilderness for the space of many days.
+
+4:11 [5:7b]. And after we had journeyed for the space of many days, we did pitch our tents.
+
+4:12 [5:8]. And my people would that we should call the name of the place Nephi; wherefore, we did call it Nephi.
+
+4:13 [5:9]. And all those who were with me did take upon them to call themselves the people of Nephi.
+
+4:14 [5:10]. And we did observe to keep the judgments, and the statutes, and the commandments of the Lord in all things, according to the law of Moses.
+
+4:15 [5:11a]. And the Lord was with us; and we did prosper exceedingly; for we did sow seed, and we did reap again in abundance.
+
+4:16 [5:11b]. And we began to raise flocks, and herds, and animals of every kind.
+
+4:17 [5:12]. And I, Nephi, had also brought the records which were engraven upon the plates of brass and also the ball, or compass, which was prepared for my father by the hand of the Lord, according to that which is written.
+
+4:18 [5:13]. ¶ And it came to pass that we began to prosper exceedingly and to multiply in the land.
+
+4:19 [5:14a]. And I, Nephi, did take the sword of Laban and after the manner of it did make many swords, lest by any means the people who were now called Lamanites should come upon us and destroy us;
+
+4:20 [5:14b]. For I knew their hatred towards me, and my children, and those who were called my people.
+
+4:21 [5:15]. And I did teach my people to build buildings and to work in all manner of wood, and of iron, and of copper, and of brass, and of steel, and of gold, and of silver, and of precious ores, which were in great abundance.
+
+4:22 [5:16a]. And I, Nephi, did build a temple; and I did construct it after the manner of the temple of Solomon, save it were not built of so many precious things;
+
+4:23 [5:16b]. For they were not to be found upon the land;
+
+4:24 [5:16c]. Wherefore, it could not be built like unto Solomon's temple.
+
+4:25 [5:16d]. But the manner of the construction was like unto the temple of Solomon; and the workmanship thereof was exceeding fine.
+
+4:26 [5:17]. ¶ And it came to pass that I, Nephi, did cause my people to be industrious and to labor with their hands.
+
+4:27 [5:18a]. And it came to pass that they would that I should be their king.
+
+4:28 [5:18b]. But I, Nephi, was desirous that they should have no king; nevertheless, I did for them according to that which was in my power.
+
+4:29 [5:19a]. And behold, the words of the Lord had been fulfilled unto my brethren, which he spake concerning them, that I should be their ruler and their teacher;
+
+4:30 [5:19b]. Wherefore, I had been their ruler and their teacher, according to the commandment of the Lord, until the time they sought to take away my life.
+
+4:31 [5:20a]. Wherefore, the word of the Lord was fulfilled which he spake unto me, saying: That inasmuch as they will not hearken unto thy words, they shall be cut off from the presence of the Lord.
+
+4:32 [5:20b]. And behold, they were cut off from his presence.
+
+4:33 [5:21a]. And he had caused the cursing to come upon them, yea, even a sore cursing, because of their iniquity.
+
+4:34 [5:21b]. For behold, they had hardened their hearts against him, that they had become like unto a flint;
+
+4:35 [5:21c]. Wherefore, as they were white, and exceeding fair, and delightsome, that they might not be enticing unto my people, the Lord God did cause a skin of blackness to come upon them.
+
+4:36 [5:22]. And thus saith the Lord God: I will cause that they shall be loathsome unto thy people, save they shall repent of their iniquities.
+
+4:37 [5:23a]. And cursed shall be the seed of him that mixeth with their seed; for they shall be cursed even with the same cursing.
+
+4:38 [5:23b]. And the Lord spake it, and it was done.
+
+4:39 [5:24]. And because of their cursing which was upon them, they did become an idle people, full of mischief and subtlety, and did seek in the wilderness for beasts of prey.
+
+4:40 [5:25a]. And the Lord God said unto me: They shall be a scourge unto thy seed, to stir them up in remembrance of me;
+
+4:41 [5:25b]. And inasmuch as they will not remember me and hearken unto my words, they shall scourge them even unto destruction.
+
+4:42 [5:26]. ¶ And it came to pass that I, Nephi, did consecrate Jacob and Joseph, that they should be priests and teachers over the land of my people.
+
+4:43 [5:27]. And it came to pass that we lived after the manner of happiness.
+
+4:44 [5:28]. And thirty years had passed away from the time we left Jerusalem.
+
+4:45 [5:29]. And I, Nephi, had kept the records upon my plates, which I had made of my people thus far.
+
+4:46 [5:30]. ¶ And it came to pass that the Lord God said unto me: Make other plates; and thou shalt engrave many things upon them which are good in my sight for the profit of thy people.
+
+4:47 [5:31]. Wherefore, I, Nephi, to be obedient to the commandments of the Lord, went and made these plates upon which I have engraven these things.
+
+4:48 [5:32a]. And I engraved that which is pleasing unto God.
+
+4:49 [5:32b]. And if my people are pleased with the things of God, they will be pleased with mine engravings which are upon these plates.
+
+4:50 [5:33]. And if my people desire to know the more particular part of the history of my people, they must search mine other plates.
+
+4:51 [5:34]. And it sufficeth me to say that forty years had passed away, and we had already had wars and contentions with our brethren.
+
+chapter:  2 Nephi 5
+
+viewer-path: /book-of-mormon-universal/2-nephi/5
+
+chapter-aka: [6:1-8:25 OPV/Isaiah 49:22-26, 50-52:2]
+
+chapter-sum: Note: Words that are different here from Isaiah in the KJV have been set in italics.
+
+subchapter: [OPV Chapter 6 / Isaiah 49:22-26]
+
+5:1 [6:1]. The word of Jacob, the brother of Nephi, which he spake unto the people of Nephi:
+
+5:2 [6:2a]. Behold, my beloved brethren, I, Jacob, having been called of God, and ordained after the manner of his holy order,
+
+5:3 [6:2b]. And having been consecrated by my brother, Nephi, unto whom ye look as a king or a protector, and on whom ye depend for safety,
+
+5:4 [6:2c]. Behold, ye know that I have spoken unto you exceeding many things;
+
+5:5 [6:3a]. Nevertheless, I speak unto you again; for I am desirous for the welfare of your souls.
+
+5:6 [6:3b]. Yea, mine anxiety is great for you; and ye yourselves know that it ever has been.
+
+5:7 [6:3c]. For I have exhorted you with all diligence; and I have taught you the words of my father;
+
+5:8 [6:3d]. And I have spoken unto you concerning all things which are written from the creation of the world.
+
+5:9 [6:4a]. ¶ And now, behold, I would speak unto you concerning things which are and which are to come;
+
+5:10 [6:4b]. Wherefore, I will read you the words of Isaiah.
+
+5:11 [6:4c]. And they are the words which my brother has desired that I should speak unto you.
+
+5:12 [6:4d]. And I speak them unto you for your sakes, that ye may learn and glorify the name of your God.
+
+5:13 [6:5a]. And now, the words which I shall read are they which Isaiah spake concerning all the house of Israel;
+
+5:14 [6:5b]. Wherefore, they may be likened unto you; for ye are of the house of Israel.
+
+5:15 [6:5c]. And there are many things which have been spoken by Isaiah, which may be likened unto you because ye are of the house of Israel.
+
+5:16 [6:6a]. ¶ And now, these are the words:
+
+5:17 [6:6b/Isaiah 49:22a]. Thus saith the Lord God: Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people;
+
+5:18 [6:6c/Isaiah 49:22b]. And they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.
+
+5:19 [6:7a/Isaiah 49:23a]. And kings shall be thy nursing fathers, and their queens thy nursing mothers;
+
+5:20 [6:7b/Isaiah 49:23b]. They shall bow down to thee with their faces toward the earth and lick up the dust of thy feet;
+
+5:21 [6:7c/Isaiah 49:23c]. And thou shalt know that I AM the Lord; for they shall not be ashamed that wait for me.
+
+5:22a [6:8a]. ¶ And now, I, Jacob, would speak somewhat concerning these words.
+
+5:22b [6:8b]. For behold, the Lord has shown me that those who were at Jerusalem, from whence we came, have been slain and carried away captive;
+
+5:23 [6:9a]. Nevertheless, the Lord has shown unto me that they should return again.
+
+5:24 [6:9b]. And he also has shown unto me that the Lord God, the Holy One of Israel, should manifest himself unto them in the flesh;
+
+5:25 [6:9c]. And after he should manifest himself, they should scourge him and crucify him, according to the words of the angel, who spake it unto me.
+
+5:26 [6:10a]. And after they have hardened their hearts and stiffened their necks against the Holy One of Israel, behold, the judgments of the Holy One of Israel shall come upon them.
+
+5:27 [6:10b]. And the day cometh that they shall be smitten and afflicted.
+
+5:28 [6:11a]. Wherefore, after they are driven to and fro, for thus saith the angel, many shall be afflicted in the flesh and shall not be suffered to perish because of the prayers of the faithful; they shall be scattered, and smitten, and hated;
+
+5:29 [6:11b]. Nevertheless, the Lord will be merciful unto them, that when they shall come to the knowledge of their Redeemer, they shall be gathered together again to the lands of their inheritance.
+
+5:30 [6:12a]. ¶ And blessed are the Gentiles, they of whom the prophet has written;
+
+5:31 [6:12b]. For behold, if it so be that they shall repent, and fight not against Zion, and do not unite themselves to that great and abominable church, they shall be saved;
+
+5:32 [6:12c]. For the Lord God will fulfill his covenants which he has made unto his children; and for this cause the prophet has written these things.
+
+5:33 [6:13a]. Wherefore, they that fight against Zion and the covenant people of the Lord shall lick up the dust of their feet;
+
+5:34 [6:13b]. And the people of the Lord shall not be ashamed.
+
+5:35 [6:13c]. For the people of the Lord are they who wait for him; for they still wait for the coming of the Messiah.
+
+5:36 [6:14a]. And behold, according to the words of the prophet, the Messiah will set himself again the second time to recover them;
+
+5:37 [6:14b]. Wherefore, he will manifest himself unto them in power and great glory, unto the destruction of their enemies, when that day cometh when they shall believe in him;
+
+5:38 [6:15a]. And none will he destroy that believe in him.
+
+5:39 [6:15b]. And they that believe not in him shall be destroyed, both by fire, and by tempest, and by earthquakes, and by bloodsheds, and by pestilence, and by famine.
+
+5:40 [6:15c]. And they shall know that the Lord is God, the Holy One of Israel.
+
+5:41 [6:16/Isaiah 49:24]. ¶ For shall the prey be taken from the mighty, or the lawful captive delivered?
+
+5:42 [6:17a/Isaiah 49:25a]. But thus saith the Lord: Even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered; for the mighty God shall deliver his covenant people.
+
+5:43a [6:17b/Isaiah 49:25b]. For thus saith the Lord: I will contend with them that contendeth with thee,
+
+5:43b [6:18a/Isaiah 49:26a]. And I will feed them that oppress thee with their own flesh;
+
+5:44 [6:18b/Isaiah 49:26b]. And they shall be drunken with their own blood, as with sweet wine;
+
+5:45 [6:18c/Isaiah 49:26c]. And all flesh shall know that I, the Lord, am thy Savior and thy Redeemer, the Mighty One of Jacob.
+
+subchapter: [OPV Chapter 7 / Isaiah 50]
+
+5:46 [7:1a/Isaiah 50:1a]. Yea, for thus saith the Lord: Have I put thee away, or have I cast thee off forever?
+
+5:47 [7:1b/Isaiah 50:2b]. For thus saith the Lord: Where is the bill of your mother's divorcement?
+
+5:48 [7:1c/Isaiah 50:2c]. To whom have I put thee away? or to which of my creditors have I sold you?
+
+5:49 [7:1d/Isaiah 50:2d]. Yea, to whom have I sold you?
+
+5:50 [7:1e/Isaiah 50:2e]. Behold, for your iniquities have ye sold yourselves, and for your transgressions is your mother put away;
+
+5:51 [7:2a/Isaiah 50:2a]. Wherefore, when I came, there was no man; when I called, yea, there was none to answer.
+
+5:52 [7:2b/Isaiah 50:2b]. ¶ O house of Israel, is my hand shortened at all that it cannot redeem? or have I no power to deliver?
+
+5:53 [7:2c/Isaiah 50:2c]. Behold, at my rebuke I dry up the sea; I make their rivers a wilderness, and their fish to stink because the waters are dried up; and they die because of thirst.
+
+5:54 [7:3/Isaiah 50:3]. I clothe the heavens with blackness, and I make sackcloth their covering.
+
+5:55 [7:4a/Isaiah 50:4a]. The Lord God hath given me the tongue of the learned, that I should know how to speak a word in season unto thee, O house of Israel.
+
+5:56 [7:4b/Isaiah 50:4b]. When ye are weary, he waketh morning by morning.
+
+5:57 [7:4c/Isaiah 50:4c]. He waketh mine ear to hear as the learned.
+
+5:58 [7:5/Isaiah 50:5]. The Lord God hath appointed mine ear, and I was not rebellious, neither turned away back.
+
+5:59 [7:6a/Isaiah 50:6a]. I gave my back to the smiter and my cheeks to them that plucked off the hair.
+
+5:60a [7:6b/Isaiah 50:6b]. I hid not my face from shame and spitting,
+
+5:60b [7:7a/Isaiah 50:7a]. For the Lord God will help me; therefore, shall I not be confounded.
+
+5:61a [7:7b/Isaiah 50:7b]. Therefore, have I set my face like a flint, and I know that I shall not be ashamed.
+
+5:61b [7:8a/Isaiah 50:8a]. And the Lord is near, and he justifieth me.
+
+5:62 [7:8b/Isaiah 50:8b]. Who will contend with me?
+
+5:63 [7:8c/Isaiah 50:8c]. Let us stand together.
+
+5:64 [7:8d/Isaiah 50:8d]. Who is mine adversary?
+
+5:65a [7:8e/Isaiah 50:8e]. Let him come near me, and I will smite him with the strength of my mouth;
+
+5:65b [7:9a/Isaiah 50:9a]. For the Lord God will help me.
+
+5:66 [7:9b/Isaiah 50:9b]. And all they who shall condemn me, behold, all they shall wax old as a garment, and the moth shall eat them up.
+
+5:67 [7:10/Isaiah 50:10]. ¶ Who is among you that feareth the Lord, that obeyeth the voice of his servant, that walketh in darkness and hath no light?
+
+5:68 [7:11a/Isaiah 50:11a]. Behold, all ye that kindle fire, that compass yourselves about with sparks, walk in the light of your fire and in the sparks which ye have kindled.
+
+5:69 [7:11b/Isaiah 50:11b]. This shall ye have of mine hand: Ye shall lie down in sorrow.
+
+subchapter: [OPV Chapter 8 / Isaiah 51:1-52:2]
+
+5:70 [8:1/Isaiah 51:1]. Hearken unto me, ye that follow after righteousness. Look unto the rock from whence ye are hewn and to the hole of the pit from whence ye are digged.
+
+5:71 [8:2/Isaiah 51:2]. Look unto Abraham, your father, and unto Sarah, she that bare you; for I called him alone and blessed him.
+
+5:72 [8:3a/Isaiah 51:3a]. For the Lord shall comfort Zion; he will comfort all her waste places;
+
+5:73 [8:3b/Isaiah 51:3b]. And he will make her wilderness like Eden, and her desert like the garden of the Lord.
+
+5:74 [8:3c/Isaiah 51:3c]. Joy and gladness shall be found therein; thanksgiving and the voice of melody.
+
+5:75 [8:4a/Isaiah 51:4a]. Hearken unto me, my people, and give ear unto me, O my nation:
+
+5:76 [8:4b/Isaiah 51:4b]. For a law shall proceed from me, and I will make my judgment to rest for a light for the people.
+
+5:77 [8:5a/Isaiah 51:5a]. My righteousness is near; my salvation is gone forth, and mine arm shall judge the people.
+
+5:78 [8:5b/Isaiah 51:5b]. The isles shall wait upon me, and on mine arm shall they trust.
+
+5:79 [8:6a/Isaiah 51:6a]. Lift up your eyes to the heavens, and look upon the earth beneath;
+
+5:80 [8:6b/Isaiah 51:6b]. For the heavens shall vanish away like smoke, and the earth shall wax old like a garment; and they that dwell therein shall die in like manner.
+
+5:81 [8:6c/Isaiah 51:6c]. But my salvation shall be forever; and my righteousness shall not be abolished.
+
+5:82 [8:7a/Isaiah 51:7a]. ¶ Hearken unto me, ye that know righteousness, the people in whose heart I have written my Law;
+
+5:83 [8:7b/Isaiah 51:7b]. Fear ye not the reproach of men; neither be ye afraid of their revilings;
+
+5:84 [8:8a/Isaiah 51:8a]. For the moth shall eat them up like a garment, and the worm shall eat them like wool.
+
+5:85 [8:8b/Isaiah 51:8b]. But my righteousness shall be forever, and my salvation from generation to generation.
+
+5:86 [8:9a/Isaiah 51:9a]. ¶ Awake, awake! Put on strength, O arm of the Lord! Awake as in the ancient days.
+
+5:87 [8:9b/Isaiah 51:9b]. Art thou not it that hath cut Rahab and wounded the dragon?
+
+5:88 [8:10a/Isaiah 51:10a]. Art thou not it which hath dried the sea, the waters of the great deep?
+
+5:89 [8:10b/Isaiah 51:10b]. That hath made the depths of the sea a way for the ransomed to pass over?
+
+5:90 [8:11a/Isaiah 51:11a]. Therefore, the redeemed of the Lord shall return, and come with singing unto Zion; and everlasting joy and holiness shall be upon their heads;
+
+5:91 [8:11b/Isaiah 51:11b]. And they shall obtain gladness and joy; sorrow and mourning shall flee away.
+
+5:92 [8:12a/Isaiah 51:12a]. I am he; yea, I am, he that comforteth you.
+
+5:93 [8:12b/Isaiah 51:12b]. Behold, who art thou, that thou shouldest be afraid of man, who shall die, and of the son of man, who shall be made like unto grass,
+
+5:94 [8:13a/Isaiah 51:13a]. And forgettest the Lord, thy Maker, that hath stretched forth the heavens, and laid the foundations of the earth;
+
+5:95 [8:13b/Isaiah 51:13b]. And hast feared continually every day because of the fury of the oppressor, as if he were ready to destroy?
+
+5:96 [8:13c/Isaiah 51:13c]. And where is the fury of the oppressor?
+
+5:97 [8:14/Isaiah 51:14]. The captive exile hasteneth, that he may be loosed, and that he should not die in the pit, nor that his bread should fail.
+
+5:98 [8:15/Isaiah 51:15]. But I am the Lord, thy God, whose waves roared; the Lord of hosts is my name.
+
+5:99 [8:16/Isaiah 51:16]. And I have put my words in thy mouth and have covered thee in the shadow of mine hand, that I may plant the heavens, and lay the foundations of the earth, and say unto Zion: Behold, thou art my people.
+
+5:100 [8:17a/Isaiah 51:17a]. Awake, awake, stand up, O Jerusalem, which hast drunk at the hand of the Lord the cup of his fury;
+
+5:101 [8:17b/Isaiah 51:17b]. Thou hast drunk the dregs of the cup of trembling wrung out,
+
+5:102 [8:18a/Isaiah 51:18a]. And none to guide her among all the sons she hath brought forth;
+
+5:103 [8:18b/Isaiah 51:18b]. Neither that taketh her by the hand, of all the sons she hath brought up.
+
+5:104a [8:19a/Isaiah 51:19a]. These two sons are come unto thee.
+
+5:104b [8:19a/Isaiah 51:19b]. Who shall be sorry for thee?
+
+5:104c [8:19a/Isaiah 51:19c]. Thy desolation and destruction, and the famine and the sword;
+
+5:105 [8:19b/Isaiah 51:19d]. And by whom shall I comfort thee?
+
+5:106 [8:20/Isaiah 51:20]. Thy sons have fainted, save these two; they lie at the head of all the streets as a wild bull in a net; they are full of the fury of the Lord, the rebuke of thy God.
+
+5:107 [8:21/Isaiah 51:21]. ¶ Therefore, hear now this, thou afflicted, and drunken, and not with wine:
+
+5:108 [8:22a/Isaiah 51:22a]. Thus saith thy Lord: The Lord and thy God pleadeth the cause of his people;
+
+5:109 [8:22b/Isaiah 51:22b]. Behold, I have taken out of thine hand the cup of trembling, the dregs of the cup of my fury; thou shalt no more drink it again.
+
+5:110 [8:23a/Isaiah 51:23a]. But I will put it into the hand of them that afflict thee, who have said to thy soul: Bow down that we may go over;
+
+5:111 [8:23b/Isaiah 51:23b]. And thou hast laid thy body as the ground, and as the street to them that went over.
+
+5:112 [8:24a/Isaiah 52:1a]. ¶ Awake, awake, put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city;
+
+5:113 [8:24b/Isaiah 52:1b]. For henceforth there shall no more come into thee, the uncircumcised and the unclean.
+
+5:114 [8:25/Isaiah 52:2]. Shake thyself from the dust; arise, sit down, O Jerusalem; loose thyself from the bands of thy neck, O captive daughter of Zion.
+
+chapter:  2 Nephi 6
+
+viewer-path: /book-of-mormon-universal/2-nephi/6
+
+chapter-aka: [9 OPV]
+
+subchapter: [OPV Chapter 9]
+
+6:1 [9:1]. And now, my beloved brethren, I have read these things that ye might know concerning the covenants of the Lord—that he has covenanted with all the house of Israel;
+
+6:2 [9:2a]. That he has spoken unto the Jews by the mouth of his holy prophets, even from the beginning down, from generation to generation, until the time comes that they shall be restored to the true church and fold of God,
+
+6:3 [9:2b]. When they shall be gathered home to the lands of their inheritance and shall be established in all their lands of promise.
+
+6:4 [9:3]. ¶ Behold, my beloved brethren, I speak unto you these things that ye may rejoice and lift up your heads forever because of the blessings which the Lord God shall bestow upon your children.
+
+6:5 [9:4a]. For I know that ye have searched much, many of you, to know of things to come;
+
+6:6 [9:4b]. Wherefore, I know that ye know that our flesh must waste away and die;
+
+6:7 [9:4c]. Nevertheless, in our bodies we shall see God.
+
+6:8 [9:5a]. Yea, I know that ye know that in the body he shall show himself unto those at Jerusalem, from whence we came;
+
+6:9 [9:5b]. For it is expedient that it should be among them;
+
+6:10 [9:5c]. For it behooveth the great Creator that he suffereth himself to become subject unto man in the flesh and die for all men, that all men might become subject unto him.
+
+6:11 [9:6a]. For as death hath passed upon all men, to fulfill the merciful plan of the great Creator, there must needs be a power of resurrection.
+
+6:12 [9:6b]. And the resurrection must needs come unto man by reason of the fall;
+
+6:13 [9:6c]. And the fall came by reason of transgression;
+
+6:14 [9:6d]. And because man became fallen, they were cut off from the presence of the Lord.
+
+6:15[9:7a]. Wherefore, it must needs be an infinite atonement.
+
+6:16 [9:7b]. Save it should be an infinite atonement, this corruption could not put on incorruption.
+
+6:17 [9:7c]. Wherefore, the first judgment which came upon man must needs have remained to an endless duration.
+
+6:18 [9:7d]. And if so, this flesh must have lain down to rot and to crumble to its mother earth, to rise no more.
+
+6:19 [9:8a]. ¶ O the wisdom of God! His mercy and grace!
+
+6:20 [9:8b]. For behold, if the flesh should rise no more, our spirits must become subject to that angel who fell from before the presence of the eternal God and became the devil, to rise no more.
+
+6:21 [9:9a]. And our spirits must have become like unto him, and we become devils, angels to a devil, to be shut out from the presence of our God and to remain with the father of lies, in misery, like unto himself,
+
+6:22 [9:9b]. Yea, to that being who beguiled our first parents,
+
+6:23 [9:9c]. Who transformeth himself nigh unto an angel of light and stirreth up the children of men unto secret combinations of murder and all manner of secret works of darkness.
+
+6:24 [9:10a]. ¶ O how great the goodness of our God, who prepareth a way for our escape from the grasp of this awful monster;
+
+6:25 [9:10b]. Yea, that monster, death and hell, which I call the death of the body and also the death of the spirit.
+
+6:26 [9:11]. And because of the way of deliverance of our God, the Holy One of Israel, this death of which I have spoken, which is the temporal, shall deliver up its dead, which death is the grave.
+
+6:27 [9:12a]. And this death of which I have spoken, which is the spiritual death, shall deliver up its dead, which spiritual death is hell;
+
+6:28 [9:12b]. Wherefore, death and hell must deliver up their dead, and hell must deliver up its captive spirits.
+
+6:29 [9:12c]. And the grave must deliver up its captive bodies, and the bodies and the spirits of men will be restored, one to the other;
+
+6:30 [9:12d]. And it is by the power of the resurrection of the Holy One of Israel.
+
+6:31a [9:13a]. ¶ O how great the plan of our God!
+
+6:31b [9:13b]. For on the other hand, the paradise of God must deliver up the spirits of the righteous, and the grave deliver up the bodies of the righteous;
+
+6:32a [9:13c]. And the spirit and the body is restored to itself again, and all men become incorruptible and immortal;
+
+6:32b [9:13d]. And they are living souls, having a perfect knowledge like unto us in the flesh,
+
+6:33 [9:13e]. Save it be that our knowledge shall be perfect.
+
+6:34 [9:14a]. Wherefore, we shall have a perfect knowledge of all our guilt, and our uncleanness, and our nakedness;
+
+6:35 [9:14b]. And the righteous shall have a perfect knowledge of their enjoyment and their righteousness, being clothed with purity, yea, even with the robe of righteousness.
+
+6:36 [9:15a]. ¶ And it shall come to pass that when all men shall have passed from this first death unto life, insomuch as they have become immortal, they must appear before the judgment seat of the Holy One of Israel;
+
+6:37 [9:15b]. And then cometh the judgment; and then must they be judged according to the holy judgment of God.
+
+6:38 [9:16a]. And assuredly, as the Lord liveth—for the Lord God hath spoken it, and it is his eternal word, which cannot pass away— that they who are righteous shall be righteous still, and they who are filthy shall be filthy still.
+
+6:39 [9:16b]. Wherefore, they who are filthy are the devil and his angels;
+
+6:40 [9:16c]. And they shall go away into everlasting fire prepared for them; and their torment is as a lake of fire and brimstone, whose flames ascendeth up forever and ever and has no end.
+
+6:41 [9:17]. ¶ O the greatness and the justice of our God! for he executeth all his words, and they have gone forth out of his mouth; and his law must be fulfilled.
+
+6:42a [9:18a]. But behold, the righteous, the saints of the Holy One of Israel, they who have believed in the Holy One of Israel, they who have endured the crosses of the world and despised the shame of it;
+
+6:42b [9:18b]. They shall inherit the kingdom of God, which was prepared for them from the foundation of the world; and their joy shall be full forever.
+
+6:43 [9:19]. ¶ O the greatness of the mercy of our God, the Holy One of Israel! For he delivereth his saints from that awful monster the devil, and death, and hell, and that lake of fire and brimstone, which is endless torment.
+
+6:44 [9:20]. ¶ O how great the holiness of our God! For he knoweth all things, and there is not anything save he knows it.
+
+6:45 [9:21a]. And he cometh into the world that he may save all men, if they will hearken unto his voice;
+
+6:46 [9:21b]. For behold, he suffereth the pains of all men, yea, the pains of every living creature—both men, women, and children, who belong to the family of Adam.
+
+6:47 [9:22]. And he suffereth this that the resurrection might pass upon all men, that all might stand before him at the great and judgment day.
+
+6:48 [9:23]. And he commandeth all men that they must repent and be baptized in his name, having perfect faith in the Holy One of Israel, or they cannot be saved in the kingdom of God.
+
+6:49 [9:24a]. And if they will not repent, and believe in his name, and be baptized in his name, and endure to the end, they must be damned;
+
+6:50 [9:24b]. For the Lord God, the Holy One of Israel, hath spoken it.
+
+6:51 [9:25a]. Wherefore, he hath given a law; and where there is no law given, there is no punishment;
+
+6:52 [9:25b]. And where there is no punishment, there is no condemnation;
+
+6:53 [9:25c]. And where there is no condemnation, the mercies of the Holy One of Israel have claim upon them because of the atonement.
+
+6:54 [9:25d]. For they are delivered by the power of him;
+
+6:54 [9:26a]. For the atonement satisfieth the demands of his justice upon all those who have not the law given to them, that they are delivered from that awful monster, death, and hell, and the devil, and the lake of fire and brimstone, which is endless torment;
+
+6:55 [9:26b]. And they are restored to that God who gave them breath, which is the Holy One of Israel.
+
+6:56 [9:27]. ¶ But wo unto him that has the law given, yea, that has all the commandments of God, like unto us, and that transgresseth them and that wasteth the days of his probation; for awful is his state!
+
+6:57 [9:28a]. ¶ O that cunning plan of the evil one!
+
+6:58 [9:28b]. O the vainness, and the frailties, and the foolishness of men!
+
+6:59 [9:28c]. When they are learned, they think they are wise; and they hearken not unto the counsel of God, for they set it aside, supposing they know of themselves;
+
+6:60 [9:28d]. Wherefore, their wisdom is foolishness, and it profiteth them not. And they shall perish.
+
+6:61 [9:29]. ¶ But to be learned is good if they hearken unto the counsels of God.
+
+6:62 [9:30a]. But wo unto the rich, who are rich as to the things of the world.
+
+6:63 [9:30b]. For because they are rich, they despise the poor, and they persecute the meek, and their hearts are upon their treasures; wherefore, their treasure is their god.
+
+6:64 [9:30c]. And behold, their treasure shall perish with them also.
+
+6:65 [9:31]. And wo unto the deaf that will not hear; for they shall perish.
+
+6:66 [9:32]. Wo unto the blind that will not see; for they shall perish also.
+
+6:67 [9:33]. Wo unto the uncircumcised of heart; for a knowledge of their iniquities shall smite them at the last day.
+
+6:68 [9:34]. Wo unto the liar; for he shall be thrust down to hell.
+
+6:69 [9:35]. Wo unto the murderer who deliberately killeth; for he shall die.
+
+6:70 [9:36]. Wo unto them who commit whoredoms; for they shall be thrust down to hell.
+
+6:71 [9:37]. Yea, wo unto those that worship idols; for the devil of all devils delighteth in them.
+
+6:72 [9:38]. And, in fine, wo unto all those who die in their sins; for they shall return to God, and behold his face, and remain in their sins.
+
+6:73 [9:39a]. ¶ O my beloved brethren, remember the awfulness in transgressing against that Holy God, and also the awfulness of yielding to the enticings of that cunning one.
+
+6:74 [9:39b]. Remember, to be carnally minded is death, and to be spiritually minded is life eternal.
+
+6:75 [9:40a]. ¶ O, my beloved brethren, give ear to my words.
+
+6:76 [9:40b]. Remember the greatness of the Holy One of Israel.
+
+6:77 [9:40c]. Do not say that I have spoken hard things against you; for if ye do, ye will revile against the truth; for I have spoken the words of your Maker.
+
+6:78 [9:40d]. I know that the words of truth are hard against all uncleanness; but the righteous fear them not, for they love the truth and are not shaken.
+
+6:79 [9:41a]. ¶ O then, my beloved brethren, come unto the Lord, the Holy One.
+
+6:80 [9:41b]. Remember that his paths are righteousness.
+
+6:81 [9:41c]. Behold, the way for man is narrow, but it lieth in a straight course before him; and the keeper of the gate is the Holy One of Israel, and he employeth no servant there;
+
+6:82 [9:41d]. And there is none other way, save it be by the gate, for he cannot be deceived; for the Lord God is his name.
+
+6:83a [9:42a]. And whoso knocketh, to him will he open;
+
+6:83b [9:42b]. And the wise, and the learned, and they that are rich, who are puffed up because of their learning, and their wisdom, and their riches, yea, they are they whom he despiseth;
+
+6:84 [9:42c]. And save they shall cast these things away, and consider themselves fools before God, and come down in the depths of humility, he will not open unto them.
+
+6:85 [9:43a]. But the things of the wise and the prudent shall be hid from them forever, yea, that happiness which is prepared for the saints.
+
+6:86 [9:43b]. O my beloved brethren, remember my words: Behold, I take off my garments, and I shake them before you.
+
+6:87 [9:43c]. I pray the God of my salvation that he view me with his all—searching eye;
+
+6:88 [9:43d]. Wherefore, ye shall know at the last day, when all men shall be judged of their works, that the God of Israel did witness that I shook your iniquities from my soul, and that I stand with brightness before him, and am rid of your blood.
+
+6:89 [9:45a]. ¶ O my beloved brethren, turn away from your sins; shake off the chains of him that would bind you fast;
+
+6:90 [9:45b]. Come unto that God who is the rock of your salvation.
+
+6:91 [9:46a]. Prepare your souls for that glorious day, when justice shall be administered unto the righteous, even the day of judgment, that ye may not shrink with awful fear,
+
+6:92 [9:46b]. That ye may not remember your awful guilt in perfectness and be constrained to exclaim, Holy, holy are thy judgments, O Lord God Almighty!
+
+6:93 [9:46c]. But I know my guilt; I transgressed thy law, and my transgressions are mine; and the devil hath obtained me, that I am a prey to his awful misery.
+
+6:94 [9:47a]. But behold, my brethren, is it expedient that I should awake you to an awful reality of these things?
+
+6:95 [9:47b]. Would I harrow up your souls if your minds were pure?
+
+6:96 [9:47c]. Would I be plain unto you according to the plainness of the truth if ye were freed from sin?
+
+6:97 [9:48]. Behold, if ye were holy, I would speak unto you of holiness; but as ye are not holy, and ye look upon me as a teacher, it must needs be expedient that I teach you the consequences of sin.
+
+6:98 [9:49]. Behold, my soul abhorreth sin, and my heart delighteth in righteousness; and I will praise the holy name of my God.
+
+6:99 [9:50]. Come, my brethren, everyone that thirsteth; come ye to the waters; and he that hath no money, come buy and eat; yea, come buy wine and milk without money and without price.
+
+6:100 [9:51a]. Wherefore, do not spend money for that which is of no worth, nor your labor for that which cannot satisfy.
+
+6:101 [9:51b]. Hearken diligently unto me, and remember the words which I have spoken; and come unto the Holy One of Israel,
+
+6:102 [9:51c]. And feast upon that which perisheth not, neither can be corrupted; and let your soul delight in fatness.
+
+6:103 [9:52a]. Behold, my beloved brethren, remember the words of your God; pray unto him continually by day and give thanks unto his holy name by night.
+
+6:104a [9:52b]. Let your hearts rejoice;
+
+6:104b [9:53a]. And behold how great the covenants of the Lord and how great his condescensions unto the children of men;
+
+6:105a [9:53b]. And because of his greatness, and his grace and mercy, he has promised unto us that our seed shall not utterly be destroyed according to the flesh, but that he would preserve them;
+
+6:105b [9:53c]. And in future generations they shall become a righteous branch unto the house of Israel.
+
+6:106 [9:54]. ¶ And now, my brethren, I would speak unto you more; but on the morrow I will declare unto you the remainder of my words. Amen.
+
+chapter:  2 Nephi 7
+
+viewer-path: /book-of-mormon-universal/2-nephi/7
+
+chapter-aka: [10 OPV]
+
+subchapter: [OPV Chapter 10]
+
+7:1 [10:1]. And now, I, Jacob, speak unto you again, my beloved brethren, concerning this righteous branch of which I have spoken.
+
+7:2 [10:2a]. For behold, the promises which we have obtained are promises unto us according to the flesh;
+
+7:3 [10:2b]. Wherefore, as it has been shown unto me that many of our children shall perish in the flesh because of unbelief, nevertheless, God will be merciful unto many;
+
+7:4 [10:2c]. And our children shall be restored, that they may come to that which will give them the true knowledge of their Redeemer.
+
+7:5a [10:3a]. Wherefore, as I said unto you, it must needs be expedient that Christ
+
+7:5b [10:3b]. (For in the last night the angel spake unto me that this should be his name)
+
+7:5c [10:3c]. Should come among the Jews, among those who are the more wicked part of the world;
+
+7:6 [10:3d]. And they shall crucify him; for thus it behooveth our God;
+
+7:7 [10:3e]. And there is none other nation on earth that would crucify their God.
+
+7:8 [10:4]. For should the mighty miracles be wrought among other nations, they would repent and know that he be their God;
+
+7:9 [10:5]. But because of priestcrafts and iniquities, they at Jerusalem will stiffen their necks against him, that he be crucified.
+
+7:10 [10:6a]. Wherefore, because of their iniquities, destructions, famines, pestilence, and bloodsheds shall come upon them;
+
+7:11 [10:6b]. And they who shall not be destroyed shall be scattered among all nations.
+
+7:12 [10:7]. ¶ But behold, thus saith the Lord God: When the day cometh that they shall believe in me, that I am Christ, then have I covenanted with their fathers that they shall be restored in the flesh upon the earth, unto the lands of their inheritance.
+
+7:13 [10:8a]. And it shall come to pass that they shall be gathered in from their long dispersion from the isles of the sea and from the four parts of the earth;
+
+7:14 [10:8b]. And the nations of the Gentiles shall be great in the eyes of me, saith God, in carrying them forth to the lands of their inheritance.
+
+7:15 [10:9a]. Yea, the kings of the Gentiles shall be nursing fathers unto them, and their queens shall become nursing mothers;
+
+7:16a [10:9b]. Wherefore, the promises of the Lord are great unto the Gentiles, for he hath spoken it.
+
+7:16b [10:9c]. And who can dispute?
+
+7:17 [10:10]. But behold, this land, saith God, shall be a land of thine inheritance; and the Gentiles shall be blessed upon the land.
+
+7:18 [10:11]. And this land shall be a land of liberty unto the Gentiles; and there shall be no kings upon the land who shall rise up unto the Gentiles.
+
+7:19 [10:12]. And I will fortify this land against all other nations;
+
+7:20 [10:13]. And he that fighteth against Zion shall perish, saith God;
+
+7:20 [10:14a]. For he that raiseth up a king against me shall perish.
+
+7:21 [10:14b]. For I, the Lord, the King of heaven, will be their King; and I will be a light unto them forever that hear my words.
+
+7:22 [10:15]. Wherefore—for this cause, that my covenants may be fulfilled, which I have made unto the children of men, that I will do unto them while they are in the flesh—I must needs destroy the secret works of darkness, and of murders, and of abominations;
+
+7:23 [10:16a]. Wherefore, he that fighteth against Zion, both Jew and Gentile, both bond and free, both male and female, shall perish;
+
+7:24 [10:16b]. For they are they who are the whore of all the earth;
+
+7:25 [10:16c]. For they who are not for me are against me, saith our God.
+
+7:26 [10:17]. For I will fulfill my promises which I have made unto the children of men, that I will do unto them while they are in the flesh.
+
+7:27 [10:18a]. Wherefore, my beloved brethren, thus saith our God, I will afflict thy seed by the hand of the Gentiles;
+
+7:28 [10:18b]. Nevertheless, I will soften the hearts of the Gentiles, that they shall be like unto a father to them;
+
+7:29 [10:18c]. Wherefore, the Gentiles shall be blessed and numbered among the house of Israel.
+
+7:30 [10:19a]. Wherefore, I will consecrate this land unto thy seed, and they who shall be numbered among thy seed, forever for the land of their inheritance;
+
+7:31 [10:19b]. For it is a choice land, saith God, unto me, above all other lands;
+
+7:32 [10:19c]. Wherefore, I will have all men that dwell thereon, that they shall worship me, saith God.
+
+7:33 [10:20a]. ¶ And now, my beloved brethren, seeing that our merciful God has given us so great knowledge concerning these things, let us remember him, and lay aside our sins, and not hang down our heads; for we are not cast off;
+
+7:34 [10:20b]. Nevertheless, we have been driven out of the land of our inheritance; but we have been led to a better land;
+
+7:35 [10:20c]. For the Lord has made the sea our path, and we are upon an isle of the sea.
+
+7:36 [10:21a]. But great are the promises of the Lord unto those who are upon the isles of the sea;
+
+7:37 [10:21b]. Wherefore, as it says isles, there must needs be more than this; and they are inhabited also by our brethren.
+
+7:38 [10:22a]. For behold, the Lord God has led away from time to time from the house of Israel according to his will and pleasure.
+
+7:39 [10:22b]. And now, behold, the Lord remembereth all those who have been broken off; wherefore, he remembereth us also.
+
+7:40 [10:23]. Therefore, cheer up your hearts and remember that ye are free to act for yourselves, to choose the way of everlasting death or the way of eternal life.
+
+7:41 [10:24a]. Wherefore, my beloved brethren, reconcile yourselves to the will of God and not to the will of the devil and the flesh;
+
+7:42 [10:24b]. And remember, after ye are reconciled unto God, that it is only in and through the grace of God that ye are saved.
+
+7:43 [10:25a]. Wherefore, may God raise you from death by the power of the resurrection and also from everlasting death by the power of the atonement,
+
+7:44 [10:25b]. That ye may be received into the eternal kingdom of God, that ye may praise him through grace divine. Amen.
+
+chapter:  2 Nephi 8
+
+viewer-path: /book-of-mormon-universal/2-nephi/8
+
+chapter-aka: [11-15 OPV/Isaiah 2-5] 
+
+chapter-sum: Note: Words that are different here from Isaiah in the KJV have been set in italics. Words that we added or changed from the 1830 edition before 1844 have also been set in italics, and are additionally noted.
+
+subchapter: [OPV Chapter 11]
+
+8:1 [11:1]. And now, Jacob spake many more things to my people at that time; nevertheless, only these things have I caused to be written; for the things which I have written sufficeth me.
+
+8:2 [11:2a]. ¶ And now, I, Nephi, write more of the words of Isaiah; for my soul delighteth in his words.
+
+8:3 [11:2b]. For I will liken his words unto my people; and I will send them forth unto all my children; for he verily saw my Redeemer, even as I have seen him.
+
+8:4 [11:3a]. And my brother Jacob also has seen him as I have seen him; wherefore, I will send their words forth unto my children, to prove unto them that my words are true.
+
+8:5 [11:3b]. Wherefore, by the words of three, God hath said: I will establish my word.
+
+8:6 [11:3c]. Nevertheless, God sendeth more witnesses; and he proveth all his words.
+
+8:7 [11:4]. Behold, my soul delighteth in proving unto my people the truth of the coming of Christ;
+
+8:8 [11:4b]. For, for this end hath the law of Moses been given;
+
+8:9 [11:4c]. And all things which have been given of God from the beginning of the world unto man are the typifying of him.
+
+8:10 [11:5a]. And also, my soul delighteth in the covenants of the Lord which he hath made to our fathers;
+
+8:11 [11:5b]. Yea, my soul delighteth in his grace, and his justice, and power, and mercy, in the great and eternal plan of deliverance from death.
+
+8:12 [11:6]. And my soul delighteth in proving unto my people that, save Christ should come, all men must perish.
+
+8:13 [11:7a]. For if there be no Christ, there be no God; and if there be no God, we are not; for there could have been no creation.
+
+8:14 [11:7b]. But there is a God, and he is Christ; and he cometh in the fullness of his own time.
+
+8:15 [11:8a]. ¶ And now, I write some of the words of Isaiah, that whoso of my people shall see these words may lift up their hearts and rejoice for all men.
+
+8:16 [11:8b]. Now, these are the words; and ye may liken them unto you and unto all men.
+
+subchapter: [OPV Chapter 12 / Isiah 2]
+
+8:17 [12:1/Isaiah 2:1]. The word that Isaiah, the son of Amoz, saw concerning Judah and Jerusalem:
+
+8:18 [12:2/Isaiah 2:2]. And it shall come to pass in the last days, when the mountain of the Lord's house shall be established in the top of the mountains, and shall be exalted above the hills, and all nations shall flow unto it,
+
+8:19a [12:3a/Isaiah 2:3a]. And many people shall go and say: Come ye, and let us go up to the mountain of the Lord, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths;
+
+8:19b [12:3b/Isaiah 2:3b]. For out of Zion shall go forth the Law, and the word of the Lord from Jerusalem.
+
+8:20a [12:4a/Isaiah 2:4a]. And he shall judge among the nations.
+
+8:20b [12:4b/Isaiah 2:4b]. And shall rebuke many people; and they shall beat their swords into plowshares and their spears into pruning hooks;
+
+8:20c [12:4c/Isaiah 2:4c]. Nation shall not lift up sword against nation; neither shall they learn war any more.
+
+8:21 [12:5/Isaiah 2:5]. O house of Jacob, come ye, and let us walk in the light of the Lord; yea, come, for ye have all gone astray, everyone to his wicked ways.
+
+8:22 [12:6/Isaiah 2:6]. ¶ Therefore, O Lord, thou hast forsaken thy people, the house of Jacob, because they be replenished from the east, and hearken unto soothsayers like the Philistines, and they please themselves in the children of strangers.
+
+8:23 [12:7/Isaiah 2:7]. Their land also is full of silver and gold; neither is there any end of their treasures; their land is also full of horses; neither is there any end of their chariots;
+
+8:24 [12:8/Isaiah 2:8]. Their land also is full of idols; they worship the work of their own hands—that which their own fingers have made.
+
+8:25 [12:9/Isaiah 2:9]. And the mean man boweth nota down, and the great man humbleth himself not; therefore, forgive him not.
+
+8:26 [12:10/Isaiah 2:10]. ¶ O ye wicked ones, enter into the rock, and hide thee in the dust; for the fear of the Lord and the glory of his majesty shall smite thee.
+
+8:27 [12:11/Isaiah 2:11]. And it shall come to pass that the lofty looks of man shall be humbled, and the haughtiness of men shall be bowed down, and the Lord alone shall be exalted in that day.
+
+8:28 [12:12/Isaiah 2:12]. For the day of the Lord of hosts soon cometh upon all nations, yea, upon every one, yea, upon the proud and lofty, and upon everyone who is lifted up; and he shall be brought low;
+
+8:29 [12:13/Isaiah 2:13]. Yea, and the day of the Lord shall come upon all the cedars of Lebanon, for they are high and lifted up, and upon all the oaks of Bashan,
+
+8:30 [12:14a/Isaiah 2:14a]. And upon all the high mountains, and upon all the hills, and upon all the nations which are lifted up,
+
+8:31a [12:14b/Isaiah 2:14b]. And upon every people,
+
+8:31b [12:15/Isaiah 2:15]. And upon every high tower, and upon every fenced wall,
+
+8:32 [12:16/Isaiah 2:16]. And upon all the ships of the sea, and upon all the ships of Tarshish, and upon all pleasant pictures.
+
+8:33a [12:17a/Isaiah 2:17a]. And the loftiness of man shall be bowed down, and the haughtiness of men shall be made low;
+
+8:33b [12:17b/Isaiah 2:17b]. And the Lord alone shall be exalted in that day.
+
+8:34 [12:18/Isaiah 2:18]. And the idols he shall utterly abolish.
+
+8:35a [12:19a/Isaiah 2:19a]. And they shall go into the holes of the rocks and into the caves of the earth, for the fear of the Lord shall come upon them;
+
+8:35b [12:19b/Isaiah 2:19b]. And the glory of his majesty shall smite them when he ariseth to shake terribly the earth.
+
+8:36 [12:20/Isaiah 2:20]. In that day a man shall cast his idols of silver and his idols of gold, which he hath made for himself to worship, to the moles and to the bats,
+
+8:37a [12:21a/Isaiah 2:21a]. To go into the clefts of the rocks and into the tops of the ragged rocks;
+
+8:37b [12:21b/Isaiah 2:21b]. For the fear of the Lord shall come upon them, and the majesty of his glory shall smite them when he ariseth to shake terribly the earth.
+
+8:38 [12:22/Isaiah 2:22]. Cease ye from man, whose breath is in his nostrils; for wherein is he to be accounted of? a. “And the mean man boweth nota down…” “Not” is both excluded from Isaiah and the 1830 edition of the Book of Mormon. It was added in the 1837 edition.
+
+subchapter: [OPV Chapter 13 / Isaiah 3]
+
+8:39 [13:1/Isaiah 3:1]. ¶ For behold, the Lord, the Lord of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole staff of bread, and the whole stay of water,
+
+8:40 [13:2/Isaiah 3:2]. The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient,
+
+8:41 [13:3/Isaiah 3:3]. The captain of fifty, and the honorable man, and the counselor, and the cunning artificer, and the eloquent orator.
+
+8:42 [13:4/Isaiah 3:4]. And I will give children unto them to be their princes, and babes shall rule over them.
+
+8:43a [13:5a/Isaiah 3:5a]. And the people shall be oppressed, everyone by another, and everyone by his neighbor;
+
+8:43b [13:5b/Isaiah 3:5b]. The child shall behave himself proudly against the ancient, and the base against the honorable.
+
+8:44 [13:6/Isaiah 3:6]. When a man shall take hold of his brother of the house of his father and shall say: Thou hast clothing; be thou our ruler, and let not this ruin come under thy hand,
+
+8:45 [13:7/Isaiah 3:7]. In that day shall he swear, saying: I will not be a healer; for in my house there is neither bread nor clothing; make me not a ruler of the people.
+
+8:46 [13:8/Isaiah 3:8]. For Jerusalem is ruined, and Judah is fallen because their tongues and their doings have been against the Lord, to provoke the eyes of his glory.
+
+8:47a [13:9a/Isaiah 3:9a]. ¶ The show of their countenance doth witness against them, and doth declare their sin to be even as Sodom, and they cannot hide it.
+
+8:47b [13:9b/Isaiah 3:9b]. Wo unto their souls, for they have rewarded evil unto themselves.
+
+8:48 [13:10/Isaiah 3:10]. Say unto the righteous that it is well with them; for they shall eat the fruit of their doings.
+
+8:49 [13:11/Isaiah 3:11]. Wo unto the wicked! For they shall perish; for the reward of their hands shall be upon them.
+
+8:50a [13:12a/Isaiah 3:12a]. ¶ And my people, children are their oppressors, and women rule over them.
+
+8:50b [13:12b/Isaiah 3:12b]. O my people, they who lead thee cause thee to err, and destroy the way of thy paths.
+
+8:51 [13:13/Isaiah 3:13]. The Lord standeth up to plead, and standeth to judge the people.
+
+8:52 [13:14/Isaiah 3:14]. The Lord will enter into judgment with the ancients of his people, and the princes thereof; for ye have eaten up the vineyard, and the spoil of the poor in your houses.
+
+8:53 [13:15/Isaiah 3:15]. What mean ye? Ye beat my people to pieces, and grind the faces of the poor, saith the Lord God of hosts.
+
+8:54 [13:16/Isaiah 3:16]. ¶ Moreover, the Lord saith: Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet,
+
+8:55 [13:17/Isaiah 3:17]. Therefore, the Lord will smite with a scab the crown of the head of the daughters of Zion, and the Lord will discover their secret parts.
+
+8:56 [13:18/Isaiah 3:18]. In that day the Lord will take away the bravery of their tinkling ornaments, and cauls, and round tires like the moon,
+
+8:57 [13:19/Isaiah 3:19]. The chains and the bracelets, and the mufflers,
+
+8:58 [13:20/Isaiah 3:20]. The bonnets, and the ornaments of the legs, and the headbands, and the tablets, and the earrings,
+
+8:59 [13:21/Isaiah 3:21]. The rings, and nose jewels,
+
+8:60 [13:22/Isaiah 3:22]. The changeable suits of apparel, and the mantles, and the wimples, and the crisping—pins,
+
+8:61 [13:23/Isaiah 3:23]. The glasses, and the fine linen, and hoods, and the veils.
+
+8:62 [13:24/Isaiah 3:24]. ¶ And it shall come to pass, instead of sweet smell, there shall be stink; and instead of a girdle, a rent; and instead of well set hair, baldness; and instead of a stomacher, a girding of sackcloth; burning instead of beauty.
+
+8:63 [13:1/Isaiah 3:25]. Thy men shall fall by the sword, and thy mighty in the war.
+
+8:64 [13:1/Isaiah 3:26]. And her gates shall lament and mourn; and she shall be desolate and shall sit upon the ground.
+
+subchapter: [OPV Chapter 14 / Isaiah 4]
+
+8:65 [14:1/Isaiah 4:1]. ¶ And in that day seven women shall take hold of one man, saying: We will eat our own bread and wear our own apparel; only let us be called by thy name, to take away our reproach.
+
+8:66a [14:2a/Isaiah 4:2a]. In that day shall the branch of the Lord be beautiful and glorious;
+
+8:66b [14:2b/Isaiah 4:2b]. The fruit of the earth excellent and comely to them that are escaped of Israel.
+
+8:67 [14:3/Isaiah 4:3]. ¶ And it shall come to pass, they that are left in Zion and remain in Jerusalem shall be called holy, everyone that is written among the living in Jerusalem,
+
+8:68 [14:4/Isaiah 4:4]. When the Lord shall have washed away the filth of the daughters of Zion, and shall have purged the blood of Jerusalem from the midst thereof by the spirit of judgment, and by the spirit of burning.
+
+8:69a [14:5a/Isaiah 4:5a]. And the Lord will create upon every dwelling place of Mount Zion, and upon her assemblies, a cloud and smoke by day and the shining of a flaming fire by night;
+
+8:69b [14:5b/Isaiah 4:5b]. For upon all the glory of Zion shall be a defense.
+
+8:70 [14:6/Isaiah 4:6]. And there shall be a tabernacle for a shadow in the daytime from the heat, and for a place of refuge, and a covert from storm and from rain.
+
+subchapter: [OPV Chapter 15 / Isaiah 5]
+
+8:71a [15:1a/Isaiah 5:1a]. ¶ And then will I sing to my well beloved a song of my beloved touching his vineyard.
+
+8:71b [15:1b/Isaiah 5:1b]. My well beloved hath a vineyard in a very fruitful hill;
+
+8:72a [15:2a/Isaiah 5:2a]. And he fenced it, and gathered out the stones thereof, and planted it with the choicest vine, and built a tower in the midst of it, and also made a winepress therein;
+
+8:72b [15:2b/Isaiah 5:2b]. And he looked that it should bring forth grapes, and it brought forth wild grapes.
+
+8:73 [15:3/Isaiah 5:3]. And now, O inhabitants of Jerusalem, and men of Judah; judge, I pray you, betwixt me and my vineyard.
+
+8:74a [15:4a/Isaiah 5:4a]. What could have been done more to my vineyard that I have not done in it?
+
+8:74b [15:4b/Isaiah 5:4b]. Wherefore, when I looked that it should bring forth grapes, it brought forth wild grapes.
+
+8:75 [15:5/Isaiah 5:5]. And now, go to; I will tell you what I will do to my vineyard: I will take away the hedge thereof, and it shall be eaten up; and I will break down the wall thereof, and it shall be trodden down.
+
+8:76 [15:6/Isaiah 5:6]. And I will lay it waste; it shall not be pruned nor digged; but there shall come up briers and thorns; I will also command the clouds that they rain no rain upon it.
+
+8:77 [15:7/Isaiah 5:7]. For the vineyard of the Lord of hosts is the house of Israel, and the men of Judah his pleasant plant; and he looked for judgment, and behold, oppression; for righteousness, but behold, a cry.
+
+8:78 [15:8/Isaiah 5:8]. ¶ Wo unto them that join house to house till there can be no place, that they may be placed alone in the midst of the earth!
+
+8:79 [15:9/Isaiah 5:9]. In mine ears, saith the Lord of hosts, of a truth many houses shall be desolate, and great and fair cities without inhabitant.
+
+8:80 [15:10/Isaiah 5:10]. Yea, ten acres of vineyard shall yield one bath, and the seed of a homer shall yield an ephah.
+
+8:81 [15:11/Isaiah 5:11]. ¶ Wo unto them that rise up early in the morning, that they may follow strong drink—that continue until night, and wine inflame them!
+
+8:82 [15:12/Isaiah 5:12]. And the harp, and the viol, the tabret and pipe, and wine are in their feasts; but they regard not the work of the Lord, neither consider the operation of his hands.
+
+8:83 [15:13/Isaiah 5:13]. ¶ Therefore, my people are gone into captivity because they have no knowledge; and their honorable men are famished, and their multitude dried up with thirst.
+
+8:84 [15:14/Isaiah 5:14]. Therefore, hell hath enlarged herself, and opened her mouth without measure; and their glory, and their multitude, and their pomp, and he that rejoiceth shall descend into it.
+
+8:85 [15:15/Isaiah 5:15]. And the mean man shall be brought down, and the mighty man shall be humbled, and the eyes of the lofty shall be humbled;
+
+8:86 [15:16/Isaiah 5:16]. But the Lord of hosts shall be exalted in judgment, and God that is holy shall be sanctified in righteousness.
+
+8:87 [15:17/Isaiah 5:17]. Then shall the lambs feed after their manner, and the waste places of the fat ones shall strangers eat.
+
+8:88 [15:18/Isaiah 5:18]. Wo unto them that draw iniquity with cords of vanity, and sin as it were with a cart-rope
+
+8:89 [15:19/Isaiah 5:19]. That say: Let him make speed, hasten his work, that we may see it; and let the counsel of the Holy One of Israel draw nigh and come, that we may know it.
+
+8:90 [15:20/Isaiah 5:20]. ¶ Wo unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter!
+
+8:91 [15:21/Isaiah 5:21]. Wo unto the wise in their own eyes and prudent in their own sight!
+
+8:92 [15:22/Isaiah 5:22]. Wo unto the mighty to drink wine, and men of strength to mingle strong drink,
+
+8:93 [15:23/Isaiah 5:23]. Who justify the wicked for reward, and take away the righteousness of the righteous from him!
+
+8:94 [15:24/Isaiah 5:24]. Therefore, as the fire devoureth the stubble, and the flame consumeth the chaff, their root shall be rottenness, and their blossoms shall go up as dust because they have cast away the law of the Lord of hosts, and despised the word of the Holy One of Israel.
+
+8:95a [15:25a/Isaiah 5:25a]. Therefore is the anger of the Lord kindled against his people, and he hath stretched forth his hand against them and hath smitten them;
+
+8:95b [15:25b/Isaiah 5:25b]. And the hills did tremble, and their carcasses were torn in the midst of the streets.
+
+8:95c [15:25c/Isaiah 5:25c]. For all this, his anger is not turned away, but his hand is stretched out still.
+
+8:96 [15:26a/Isaiah 5:26a]. ¶ And he will lift up an ensign to the nations from far and will hiss unto them from the end of the earth; and behold, they shall come with speed swiftly;
+
+8:97a [15:26b/Isaiah 5:26b]. None shall be weary nor stumble among them;
+
+8:97b [15:27/Isaiah 5:27]. None shall slumber nor sleep; neither shall the girdle of their loins be loosed nor the latchet of their shoes be broken,
+
+8:98a [15:28/Isaiah 5:28]. Whose arrows shall be sharp, and all their bows bent; and their horses' hoofs shall be counted like flint, and their wheels like a whirlwind,
+
+8:98b [15:29a/Isaiah 5:29a]. Their roaring like a lion.
+
+8:99 [15:29b/Isaiah 5:29b]. They shall roar like young lions; yea, they shall roar, and lay hold of the prey, and shall carry away safe; and none shall deliver.
+
+8:100 [15:30/Isaiah 5:30]. And in that day they shall roar against them like the roaring of the sea; and if they look unto the land, behold: darkness and sorrow; and the light is darkened in the heavens thereof.
+
+chapter:  2 Nephi 9
+
+viewer-path: /book-of-mormon-universal/2-nephi/9
+
+chapter-aka: [16-22 OPV / Isaiah 6-12]
+
+chapter-sum: Note: Words that are different here from Isaiah in the KJV have been set in italics.
+
+subchapter: [OPV Chapter 16 / Isaiah 6]
+
+9:1 [16:1/Isaiah 6]. In the year that King Uzziah died, I saw also the Lord sitting upon a throne, high and lifted up; and his train filled the temple.
+
+9:2 [16:2/Isaiah 6:2]. Above it stood the seraphim; each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.
+
+9:3 [16:3/Isaiah 6:3]. And one cried unto another and said: Holy, holy, holy is the Lord of hosts; the whole earth is full of his glory.
+
+9:4 [16:4/Isaiah 6:4]. And the posts of the door moved at the voice of him that cried, and the house was filled with smoke.
+
+9:5 [16:5/Isaiah 6:5]. ¶ Then said I: Wo is unto me! For I am undone because I am a man of unclean lips, and I dwell in the midst of a people of unclean lips; for mine eyes have seen the King, the Lord of hosts.
+
+9:6 [16:6/Isaiah 6:6]. Then flew one of the seraphim unto me, having a live coal in his hand, which he had taken with the tongs from off the altar;
+
+9:7 [16:7/Isaiah 6:7]. And he laid it upon my mouth and said: Lo, this has touched thy lips; and thine iniquity is taken away and thy sin purged.
+
+9:8a [16:8a/Isaiah 6:8a]. Also I heard the voice of the Lord saying: Whom shall I send, and who will go for us?
+
+9:8b [16:8b/Isaiah 6:8b]. Then I said: Here am I; send me.
+
+9:9 [16:9/Isaiah 6:9]. ¶ And he said: Go, and tell this people, Hear ye indeed, but they understood not; and, See ye indeed, but they perceived not.
+
+9:10 [16:10/Isaiah 6:10]. Make the heart of this people fat, and make their ears heavy, and shut their eyes, lest they see with their eyes, and hear with their ears, and understand with their heart, and be converted, and be healed.
+
+9:11a [16:11a/Isaiah 6:11a]. Then said I: Lord, how long?
+
+9:11b [16:11b/Isaiah 6:11b]. And he said: Until the cities be wasted without inhabitant, and the houses without man, and the land be utterly desolate,
+
+9:12 [16:12/Isaiah 6:12]. And the Lord have removed men far away, for there shall be a great forsaking in the midst of the land.
+
+9:13 [16:13/Isaiah 6:13]. ¶ But yet in it there shall be a tenth, and they shall return and shall be eaten; as a teil tree and as an oak whose substance is in them, when they cast their leaves, so the holy seed shall be the substance thereof.
+
+subchapter: [OPV Chapter 17 / Isaiah 7]
+
+9:14 [17:1/Isaiah 7:1]. ¶ And it came to pass in the days of Ahaz, the son of Jotham, the son of Uzziah, king of Judah, that Rezin, king of Syria, and Pekah, the son of Remaliah, king of Israel, went up towards Jerusalem to war against it, but could not prevail against it.
+
+9:15a [17:2a/Isaiah 7:2a]. And it was told the house of David, saying: Syria is confederate with Ephraim.
+
+9:15b [17:2b/Isaiah 7:2b]. And his heart was moved, and the heart of his people, as the trees of the wood are moved with the wind.
+
+9:16 [17:3/Isaiah 7:3]. Then said the Lord unto Isaiah: Go forth now to meet Ahaz, thou and Shear-jashub, thy son, at the end of the conduit of the upper pool in the highway of the fuller's field,
+
+9:17 [17:4/Isaiah 7:4]. And say unto him, Take heed, and be quiet; fear not, neither be fainthearted for the two tails of these smoking firebrands, for the fierce anger of Rezin with Syria and the son of Remaliah,
+
+9:18 [17:5/Isaiah 7:5]. Because Syria, Ephraim, and the son of Remaliah have taken evil counsel against thee, saying:
+
+9:19 [17:6/Isaiah 7:6]. Let us go up against Judah and vex it, and let us make a breach therein for us, and set a king in the midst of it, yea, the son of Tabeal.
+
+9:20 [17:7/Isaiah 7:7]. Thus saith the Lord God: It shall not stand; neither shall it come to pass.
+
+9:21 [17:8/Isaiah 7:8]. For the head of Syria is Damascus, and the head of Damascus, Rezin; and within threescore and five years shall Ephraim be broken, that it be not a people.
+
+9:22a [17:9a/Isaiah 7:9a]. And the head of Ephraim is Samaria, and the head of Samaria is Remaliah's son.
+
+9:22b [17:9b/Isaiah 7:9b]. If ye will not believe, surely ye shall not be established.
+
+9:23 [17:10/Isaiah 7:10]. ¶ Moreover, the Lord spake again unto Ahaz, saying:
+
+9:24 [17:11/Isaiah 7:11]. Ask thee a sign of the Lord, thy God; ask it either in the depths or in the heights above.
+
+9:25 [17:12/Isaiah 7:12]. But Ahaz said: I will not ask; neither will I tempt the Lord.
+
+9:26 [17:13/Isaiah 7:13]. And he said: Hear ye now, O house of David; is it a small thing for you to weary men. But will ye weary my God also?
+
+9:27 [17:14/Isaiah 7:14]. Therefore, the Lord himself shall give you a sign: Behold, a virgin shall conceive, and shall bear a son, and shall call his name Immanuel.
+
+9:28 [17:15/Isaiah 7:15]. Butter and honey shall he eat, that he may know to refuse the evil, and to choose the good.
+
+9:29 [17:16/Isaiah 7:16]. For before the child shall know to refuse the evil, and choose the good, the land that thou abhorrest shall be forsaken of both her kings.
+
+9:30 [17:17/Isaiah 7:17]. ¶ The Lord shall bring upon thee, and upon thy people, and upon thy father's house, days that have not come, from the day that Ephraim departed from Judah, the king of Assyria.
+
+9:31 [17:18/Isaiah 7:18]. And it shall come to pass in that day, that the Lord shall hiss for the fly that is in the uttermost part of Egypt, and for the bee that is in the land of Assyria.
+
+9:32 [17:19/Isaiah 7:19]. And they shall come and shall rest, all of them in the desolate valleys, and in the holes of the rocks, and upon all thorns, and upon all bushes.
+
+9:33 [17:20/Isaiah 7:20]. In the same day shall the Lord shave with a razor that is hired, by them beyond the river, by the king of Assyria, the head and the hair of the feet; and it shall also consume the beard.
+
+9:34 [17:21/Isaiah 7:21]. And it shall come to pass in that day, a man shall nourish a young cow and two sheep;
+
+9:35 [17:22/Isaiah 7:22]. And it shall come to pass, for the abundance of milk they shall give, he shall eat butter; for butter and honey shall everyone eat that is left in the land.
+
+9:36 [17:23/Isaiah 7:23]. And it shall come to pass in that day, every place shall be, where there were a thousand vines at a thousand silverlings, which shall be for briers and thorns.
+
+9:37 [17:24/Isaiah 7:24]. With arrows and with bows shall men come thither because all the land shall become briers and thorns.
+
+9:38 [17:25/Isaiah 7:25]. And all hills that shall be digged with the mattock, there shall not come thither the fear of briers and thorns; but it shall be for the sending forth of oxen, and the treading of lesser cattle.
+
+subchapter: [OPV Chapter 18 / Isaiah 8]
+
+9:39 [18:1/Isaiah 8:1]. ¶ Moreover, the word of the Lord said unto me: Take thee a great roll, and write in it with a man's pen concerning Maher-shalal-hash-baz.
+
+9:40 [18:2/Isaiah 8:2]. And I took unto me faithful witnesses to record: Uriah, the priest, and Zechariah, the son of Jeberechiah.
+
+9:41 [18:3/Isaiah 8:3]. And I went unto the prophetess; and she conceived and bare a son. Then said the Lord to me: Call his name Maher-shalal-hash-baz.
+
+9:42 [18:4/Isaiah 8:4]. For behold, the child shall not have knowledge to cry, My father and my mother, before the riches of Damascus and the spoil of Samaria shall be taken away before the king of Assyria.
+
+9:43 [18:5/Isaiah 8:5]. ¶ The Lord spake also unto me again, saying:
+
+9:44 [18:6/Isaiah 8:6]. Forasmuch as this people refuseth the waters of Shiloah that go softly, and rejoice in Rezin and Remaliah's son,
+
+9:45a [18:7a/Isaiah 8:7a]. Now therefore, behold, the Lord bringeth up upon them the waters of the river, strong and many, even the king of Assyria, and all his glory;
+
+9:45b [18:7b/Isaiah 8:7b]. And he shall come up over all his channels, and go over all his banks;
+
+9:46a [18:8a/Isaiah 8:8a]. And he shall pass through Judah; and he shall overflow and go over;
+
+9:46b [18:8b/Isaiah 8:8b]. He shall reach even to the neck; and the stretching out of his wings shall fill the breadth of thy land, O Immanuel.
+
+9:47a [18:9a/Isaiah 8:9a]. ¶ Associate yourselves, O ye people, and ye shall be broken in pieces;
+
+9:47b [18:9b/Isaiah 8:9b]. And give ear, all ye of far countries; gird yourselves, and ye shall be broken in pieces;
+
+9:47c [18:9c/Isaiah 8:9c]. Gird yourselves, and ye shall be broken in pieces.
+
+9:48 [18:10/Isaiah 8:10]. Take counsel together, and it shall come to naught; speak the word, and it shall not stand; for God is with us.
+
+9:49 [18:11/Isaiah 8:11]. ¶ For the Lord spake thus to me with a strong hand and instructed me that I should not walk in the way of this people, saying:
+
+9:50 [18:12/Isaiah 8:12]. Say ye not: A confederacy, to all to whom this people shall say: A confederacy; neither fear ye their fear, nor be afraid.
+
+9:51 [18:13/Isaiah 8:13]. Sanctify the Lord of hosts himself, and let him be your fear, and let him be your dread.
+
+9:52 [18:14/Isaiah 8:14]. And he shall be for a sanctuary; but for a stone of stumbling and for a rock of offense to both the houses of Israel; for a gin, and a snare to the inhabitants of Jerusalem.
+
+9:53 [18:15/Isaiah 8:15]. And many among them shall stumble, and fall, and be broken, and be snared, and be taken.
+
+9:54 [18:16/Isaiah 8:16]. Bind up the testimony; seal the law among my disciples.
+
+9:55 [18:17/Isaiah 8:17]. And I will wait upon the Lord, that hideth his face from the house of Jacob, and I will look for him.
+
+9:56 [18:18/Isaiah 8:18]. Behold, I and the children whom the Lord hath given me are for signs and for wonders in Israel from the Lord of hosts, which dwelleth in Mount Zion.
+
+9:57a [18:19a/Isaiah 8:19a]. ¶ And when they shall say unto you: Seek unto them that have familiar spirits, and unto wizards that peep and mutter;
+
+9:57b [18:19b/Isaiah 8:19b]. Should not a people seek unto their God for the living to hear from the dead?
+
+9:58 [18:20/Isaiah 8:20]. To the law and to the testimony—and if they speak not according to this word, it is because there is no light in them.
+
+9:59 [18:21/Isaiah 8:21]. And they shall pass through it hardly bestead and hungry; and it shall come to pass, that when they shall be hungry, they shall fret themselves, and curse their king, and their God, and look upward.
+
+9:60 [18:22/Isaiah 8:22]. And they shall look unto the earth and behold trouble and darkness, dimness of anguish, and shall be driven to darkness.
+
+subchapter: [OPV Chapter 19 / Isaiah 9]
+
+9:61 [19:1/Isaiah 9:1]. ¶ Nevertheless, the dimness shall not be such as was in her vexation, when at the first he lightly afflicted the land of Zebulun, and the land of Naphtali, and afterward did more grievously afflict by the way of the Red Sea beyond Jordan, in Galilee of the nations.
+
+9:62 [19:2/Isaiah 9:2]. The people that walked in darkness have seen a great light; they that dwell in the land of the shadow of death, upon them hath the light shined.
+
+9:63 [19:3/Isaiah 9:3]. Thou hast multiplied the nation and increased the joy; they joy before thee according to the joy in harvest and as men rejoice when they divide the spoil.
+
+9:64 [19:4/Isaiah 9:4]. For thou hast broken the yoke of his burden, and the staff of his shoulder, the rod of his oppressor,
+
+9:65 [19:5/Isaiah 9:5]. For every battle of the warrior with confused noise and garments rolled in blood; but this shall be with burning and fuel of fire.
+
+9:66 [19:6/Isaiah 9:6]. For unto us a child is born, unto us a son is given; and the government shall be upon his shoulder; and his name shall be called Wonderful, Counselor, the mighty God, the everlasting Father, the Prince of Peace.
+
+9:67a [19:7a/Isaiah 9:7a]. Of the increase of government and peace there is no end, upon the throne of David, and upon his kingdom, to order it and to establish it with judgment and with justice from henceforth, even forever.
+
+9:67b [19:7b/Isaiah 9:7b]. The zeal of the Lord of hosts will perform this.
+
+9:68 [19:8/Isaiah 9:8]. ¶ The Lord sent his word unto Jacob, and it hath lighted upon Israel.
+
+9:69 [19:9/Isaiah 9:9]. And all the people shall know, even Ephraim, and the inhabitants of Samaria, that say in the pride and stoutness of heart:
+
+9:70 [19:10/Isaiah 9:10]. The bricks are fallen down, but we will build with hewn stones; the sycamores are cut down, but we will change them into cedars.
+
+9:71 [19:11/Isaiah 9:11]. Therefore, the Lord shall set up the adversaries of Rezin against him and join his enemies together,
+
+9:72a [19:12a/Isaiah 9:12a]. The Syrians before, and the Philistines behind; and they shall devour Israel with open mouth.
+
+9:72b[19:12b/Isaiah 9:12b]. For all this, his anger is not turned away, but his hand is stretched out still.
+
+9:73 [19:13/Isaiah 9:13]. ¶ For the people turneth not unto him that smiteth them, neither do they seek the Lord of hosts.
+
+9:74 [19:14/Isaiah 9:14]. Therefore will the Lord cut off from Israel head and tail, branch and rush, in one day.
+
+9:75 [19:15/Isaiah 9:15]. The ancient, he is the head; and the prophet that teacheth lies, he is the tail.
+
+9:76 [19:16/Isaiah 9:16]. For the leaders of this people cause them to err; and they that are led of them are destroyed.
+
+9:77a [19:17a/Isaiah 9:17a]. Therefore, the Lord shall have no joy in their young men, neither shall have mercy on their fatherless and widows;
+
+9:77b [19:17b/Isaiah 9:17b]. For every one of them is a hypocrite and an evildoer, and every mouth speaketh folly.
+
+9:77c [19:17c/Isaiah 9:17c]. For all this, his anger is not turned away, but his hand is stretched out still.
+
+9:78 [19:18/Isaiah 9:18]. ¶ For wickedness burneth as the fire; it shall devour the briers and thorns, and shall kindle in the thickets of the forests, and they shall mount up like the lifting up of smoke.
+
+9:79 [19:19/Isaiah 9:19]. Through the wrath of the Lord of hosts is the land darkened, and the people shall be as the fuel of the fire; no man shall spare his brother.
+
+9:80 [19:20/Isaiah 9:20]. And he shall snatch on the right hand and be hungry; and he shall eat on the left hand, and they shall not be satisfied; they shall eat every man the flesh of his own arm—
+
+9:81a [19:21a/Isaiah 9:21a]. Manasseh, Ephraim; and Ephraim, Manasseh—they together shall be against Judah.
+
+9:81b [19:21b/Isaiah 9:21b]. For all this, his anger is not turned away, but his hand is stretched out still.
+
+subchapter: [OPV Chapter 20 / Isaiah 10]
+
+9:82 [20:1/Isaiah 10:1]. ¶ Wo unto them that decree unrighteous decrees, and that write grievousness which they have prescribed,
+
+9:83 [20:2/Isaiah 10:2]. To turn aside the needy from judgment, and to take away the right from the poor of my people, that widows may be their prey and that they may rob the fatherless.
+
+9:84a [20:3a/Isaiah 10:3a]. And what will ye do in the day of visitation and in the desolation which shall come from far?
+
+9:84b [20:3b/Isaiah 10:3b]. To whom will ye flee for help? And where will ye leave your glory?
+
+9:85a [20:4a/Isaiah 10:4a]. Without me they shall bow down under the prisoners, and they shall fall under the slain.
+
+9:85b [20:4b/Isaiah 10:4b]. For all this, his anger is not turned away, but his hand is stretched out still.
+
+9:86 [20:5/Isaiah 10:5]. ¶ O Assyrian, the rod of mine anger and the staff in their hand is their indignation.
+
+9:87 [20:6/Isaiah 10:6]. I will send him against a hypocritical nation, and against the people of my wrath will I give him a charge, to take the spoil, and to take the prey, and to tread them down like the mire of the streets.
+
+9:88 [20:7/Isaiah 10:7]. Howbeit he meaneth not so, neither doth his heart think so; but in his heart it is to destroy and cut off nations not a few.
+
+9:89 [20:8/Isaiah 10:8]. For he saith: Are not my princes altogether kings?
+
+9:90 [20:9/Isaiah 10:9]. Is not Calno as Carchemish? Is not Hamath as Arpad? Is not Samaria as Damascus?
+
+9:91 [20:10/Isaiah 10:10]. As my hand hath founded the kingdoms of the idols, and whose graven images did excel them of Jerusalem and of Samaria,
+
+9:92 [20:11/Isaiah 10:11]. Shall I not, as I have done unto Samaria and her idols, so do to Jerusalem and to her idols?
+
+9:93 [20:12/Isaiah 10:12]. Wherefore, it shall come to pass, that when the Lord hath performed his whole work upon Mount Zion and upon Jerusalem, I will punish the fruit of the stout heart of the king of Assyria and the glory of his high looks.
+
+9:94 [20:13/Isaiah 10:13]. For he saith: By the strength of my hand and by my wisdom I have done these things; for I am prudent; and I have moved the borders of the people and have robbed their treasures, and I have put down the inhabitants like a valiant man;
+
+9:95a [20:14a/Isaiah 10:14a]. And my hand hath found as a nest the riches of the people;
+
+9:95b [20:14b/Isaiah 10:14b]. And as one gathereth eggs that are left, have I gathered all the earth;
+
+9:95c [20:14c/Isaiah 10:14c]. And there was none that moved the wing, or opened the mouth, or peeped.
+
+9:96a [20:15a/Isaiah 10:15a]. Shall the axe boast itself against him that heweth therewith? Shall the saw magnify itself against him that shaketh it?
+
+9:96b [20:15b/Isaiah 10:15b]. As if the rod should shake itself against them that lift it up, or as if the staff should lift up itself, as if it were no wood.
+
+9:97 [20:16/Isaiah 10:16]. Therefore shall the Lord, the Lord of hosts, send among his fat ones leanness; and under his glory he shall kindle a burning like the burning of a fire.
+
+9:98 [20:17/Isaiah 10:17]. And the light of Israel shall be for a fire, and his Holy One for a flame, and it shall burn and shall devour his thorns and his briers in one day,
+
+9:99 [20:18/Isaiah 10:18]. And shall consume the glory of his forest and of his fruitful field, both soul and body; and they shall be as when a standard-bearer fainteth.
+
+9:100 [20:19/Isaiah 10:19]. And the rest of the trees of his forest shall be few, that a child may write them.
+
+9:101 [20:20/Isaiah 10:20]. ¶ And it shall come to pass in that day that the remnant of Israel and such as are escaped of the house of Jacob shall no more again stay upon him that smote them, but shall stay upon the Lord, the Holy One of Israel, in truth.
+
+9:102 [20:21/Isaiah 10:21]. The remnant shall return, yea, even the remnant of Jacob, unto the mighty God.
+
+9:103 [20:22/Isaiah 10:22]. For though thy people Israel be as the sand of the sea, yet a remnant of them shall return; the consumption decreed shall overflow with righteousness.
+
+9:104 [20:23/Isaiah 10:23]. For the Lord God of hosts shall make a consumption, even determined, in all the land.
+
+9:105 [20:24/Isaiah 10:24]. ¶ Therefore, thus saith the Lord God of hosts: O my people that dwellest in Zion, be not afraid of the Assyrian; he shall smite thee with a rod and shall lift up his staff against thee after the manner of Egypt.
+
+9:106 [20:25/Isaiah 10:25]. For yet a very little while, and the indignation shall cease, and mine anger in their destruction.
+
+9:107a [20:26a/Isaiah 10:26a]. And the Lord of hosts shall stir up a scourge for him according to the slaughter of Midian at the rock of Oreb;
+
+9:107b [20:26b/Isaiah 10:26b]. And as his rod was upon the sea, so shall he lift it up after the manner of Egypt.
+
+9:108 [20:27/Isaiah 10:27]. And it shall come to pass in that day, that his burden shall be taken away from off thy shoulder, and his yoke from off thy neck, and the yoke shall be destroyed because of the anointing.
+
+9:109 [20:28/Isaiah 10:28]. He is come to Aiath; he is passed to Migron; at Michmash he hath laid up his carriages;
+
+9:110 [20:28/Isaiah 10:29]. They are gone over the passage; they have taken up their lodging at Geba; Ramah is afraid; Gibeah of Saul is fled.
+
+9:111 [20:30/Isaiah 10:30]. Lift up the voice, O daughter of Gallim; cause it to be heard unto Laish, O poor Anathoth.
+
+9:112 [20:31/Isaiah 10:31]. Madmenah is removed; the inhabitants of Gebim gather themselves to flee.
+
+9:113 [20:32/Isaiah 10:32]. As yet shall he remain at Nob that day; he shall shake his hand against the mount of the daughter of Zion, the hill of Jerusalem.
+
+9:114 [20:33/Isaiah 10:33]. Behold, the Lord, the Lord of hosts shall lop the bough with terror; and the high ones of stature shall be hewn down; and the haughty shall be humbled.
+
+9:115 [20:34/Isaiah 10:34]. And he shall cut down the thickets of the forest with iron, and Lebanon shall fall by a mighty one.
+
+subchapter: [OPV Chapter 21 / Isaiah 11]
+
+9:116 [21:1/Isaiah 11:1]. ¶ And there shall come forth a rod out of the stem of Jesse, and a branch shall grow out of his roots;
+
+9:117 [21:2/Isaiah 11:2]. And the Spirit of the Lord shall rest upon him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of the Lord,
+
+9:118 [21:3/Isaiah 11:3]. And shall make him of quick understanding in the fear of the Lord; and he shall not judge after the sight of his eyes, neither reprove after the hearing of his ears;
+
+9:119a [21:4a/Isaiah 11:4a]. But with righteousness shall he judge the poor and reprove with equity for the meek of the earth;
+
+9:119b [21:4b/Isaiah 11:4b]. And he shall smite the earth with the rod of his mouth, and with the breath of his lips shall he slay the wicked.
+
+9:120 [21:5/Isaiah 11:5]. And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins.
+
+9:121 [21:6/Isaiah 11:6]. The wolf also shall dwell with the lamb; and the leopard shall lie down with the kid, and the calf and the young lion and the fatling together; and a little child shall lead them.
+
+9:122 [21:7/Isaiah 11:7]. And the cow and the bear shall feed; their young ones shall lie down together; and the lion shall eat straw like the ox.
+
+9:123 [21:8/Isaiah 11:8]. And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice den.
+
+9:124 [21:9/Isaiah 11:9]. They shall not hurt nor destroy in all my holy mountain; for the earth shall be full of the knowledge of the Lord, as the waters cover the sea.
+
+9:125 [21:10/Isaiah 11:10]. ¶ And in that day there shall be a root of Jesse, which shall stand for an ensign of the people; to it shall the Gentiles seek; and his rest shall be glorious.
+
+9:126 [21:11/Isaiah 11:11]. And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea.
+
+9:127 [21:12/Isaiah 11:12]. And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.
+
+9:128 [21:13/Isaiah 11:13]. The envy of Ephraim also shall depart, and the adversaries of Judah shall be cut off; Ephraim shall not envy Judah, and Judah shall not vex Ephraim.
+
+9:129 [21:14/Isaiah 11:14]. But they shall fly upon the shoulders of the Philistines toward the west; they shall spoil them of the east together; they shall lay their hand upon Edom and Moab; and the children of Ammon shall obey them.
+
+9:130 [21:15/Isaiah 11:15]. And the Lord shall utterly destroy the tongue of the Egyptian sea; and with his mighty wind he shall shake his hand over the river, and shall smite it in the seven streams, and make men go over dry shod.
+
+9:131 [21:16/Isaiah 11:16]. And there shall be a highway for the remnant of his people which shall be left from Assyria, like as it was to Israel in the day that he came up out of the land of Egypt.
+
+subchapter: [OPV Chapter 22 / Isaiah 12]
+
+9:132 [22:1/Isaiah 12:1]. ¶ And in that day thou shalt say: O Lord, I will praise thee; though thou wast angry with me, thine anger is turned away, and thou comfortedst me.
+
+9:133a [22:2a/Isaiah 12:2a]. Behold, God is my salvation; I will trust and not be afraid;
+
+9:133b [22:2b/Isaiah 12:2b]. For the Lord Jehovah is my strength and my song; he also is become my salvation.
+
+9:134 [22:3/Isaiah 12:3]. Therefore, with joy shall ye draw water out of the wells of salvation.
+
+9:135 [22:4/Isaiah 12:4]. And in that day shall ye say: Praise the Lord; call upon his name; declare his doings among the people; make mention that his name is exalted.
+
+9:136 [22:5/Isaiah 12:5]. Sing unto the Lord; for he hath done excellent things; this is known in all the earth.
+
+9:137 [22:6/Isaiah 12:6]. Cry out and shout, thou inhabitant of Zion; for great is the Holy One of Israel in the midst of thee.
+
+chapter:  2 Nephi 10 
+
+viewer-path: /book-of-mormon-universal/2-nephi/10
+
+chapter-aka: [23-24 OPV / Isaiah 13-14] 
+
+chapter-sum: Note: Words that are different here from Isaiah in the KJV have been set in italics.
+
+subchapter: [OPV Chapter 23 / Isaiah 13]
+
+10:1 [23:1/Isaiah 13:1]. The burden of Babylon, which Isaiah, the son of Amoz, did see:
+
+10:2 [23:2/Isaiah 13:2]. Lift ye up a banner upon the high mountain; exalt the voice unto them; shake the hand, that they may go into the gates of the nobles.
+
+10:3 [23:3/Isaiah 13:3]. I have commanded my sanctified ones; I have also called my mighty ones, for mine anger is not upon them that rejoice in my highness.
+
+10:4 [23:4/Isaiah 13:4]. The noise of the multitude in the mountains, like as of a great people; a tumultuous noise of the kingdoms of nations gathered together—the Lord of hosts mustereth the hosts of the battle.
+
+10:5 [23:5/Isaiah 13:5]. They come from a far country, from the end of heaven, yea, the Lord and the weapons of his indignation, to destroy the whole land.
+
+10:6 [23:6/Isaiah 13:6]. ¶ Howl ye; for the day of the Lord is at hand; it shall come as a destruction from the Almighty.
+
+10:7 [23:7/Isaiah 13:7]. Therefore shall all hands be faint; every man's heart shall melt;
+
+10:8 [23:8/Isaiah 13:8]. And they shall be afraid; pangs and sorrows shall take hold of them; they shall be amazed one at another; their faces shall be as flames.
+
+10:9 [23:9/Isaiah 13:9]. Behold, the day of the Lord cometh, cruel both with wrath and fierce anger, to lay the land desolate; and he shall destroy the sinners thereof out of it.
+
+10:10 [23:10/Isaiah 13:10]. For the stars of heaven and the constellations thereof shall not give their light; the sun shall be darkened in his going forth, and the moon shall not cause her light to shine.
+
+10:11 [23:11/Isaiah 13:11]. And I will punish the world for evil and the wicked for their iniquity; I will cause the arrogancy of the proud to cease, and will lay down the haughtiness of the terrible;
+
+10:12 [23:12/Isaiah 13:12]. I will make a man more precious than fine gold, even a man than the golden wedge of Ophir.
+
+10:13 [23:13/Isaiah 13:13]. Therefore, I will shake the heavens, and the earth shall remove out of her place, in the wrath of the Lord of hosts and in the day of his fierce anger.
+
+10:14 [23:14/Isaiah 13:14]. And it shall be as the chased roe and as a sheep that no man taketh up; they shall, every man, turn to his own people and flee, everyone into his own land.
+
+10:15 [23:15/Isaiah 13:15]. Everyone that is proud shall be thrust through; yea, and everyone that is joined to the wicked shall fall by the sword.
+
+10:16 [23:16/Isaiah 13:16]. Their children also shall be dashed to pieces before their eyes; their houses shall be spoiled, and their wives ravished.
+
+10:17 [23:17/Isaiah 13:17]. Behold, I will stir up the Medes against them, which shall not regard silver and gold, nor they shall not delight in it.
+
+10:18 [23:18/Isaiah 13:18]. Their bows shall also dash the young men to pieces; and they shall have no pity on the fruit of the womb; their eyes shall not spare children.
+
+10:19 [23:19/Isaiah 13:19]. ¶ And Babylon, the glory of kingdoms, the beauty of the Chaldees' excellency, shall be as when God overthrew Sodom and Gomorrah.
+
+10:20 [23:20/Isaiah 13:20]. It shall never be inhabited; neither shall it be dwelt in from generation to generation; neither shall the Arabian pitch tent there; neither shall the shepherds make their fold there;
+
+10:21 [23:21/Isaiah 13:21]. But wild beasts of the desert shall lie there; and their houses shall be full of doleful creatures; and owls shall dwell there; and satyrs shall dance there.
+
+10:22a [23:22a/Isaiah 13:22a]. And the wild beasts of the islands shall cry in their desolate houses, and dragons in their pleasant palaces; and her time is near to come, and her day shall not be prolonged.
+
+10:22b [23:22b/Isaiah 13:22b]. For I will destroy her speedily; yea, for I will be merciful unto my people; but the wicked shall perish.
+
+subchapter: [OPV Chapter 24 / Isaiah 14]
+
+10:23 [24:1/Isaiah 14:1]. ¶ For the Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land; and the strangers shall be joined with them, and they shall cleave to the house of Jacob.
+
+10:24a [24:2a/Isaiah 14:2a]. And the people shall take them and bring them to their place, yea, from far unto the ends of the earth; and they shall return to their lands of promise.
+
+10:24b [24:2b/Isaiah 14:2b]. And the house of Israel shall possess them, and the land of the Lord shall be for servants and handmaids; and they shall take them captives, unto whom they were captives; and they shall rule over their oppressors.
+
+10:25 [24:3/Isaiah 14:3]. And it shall come to pass in that day, that the Lord shall give thee rest from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve.
+
+10:26 [24:4/Isaiah 14:4]. ¶ And it shall come to pass in that day, that thou shalt take up this proverb against the king of Babylon and say: How hath the oppressor ceased, the golden city ceased!
+
+10:27 [24:5/Isaiah 14:5]. The Lord hath broken the staff of the wicked, the scepters of the rulers.
+
+10:28 [24:6/Isaiah 14:6]. He who smote the people in wrath with a continual stroke, he that ruled the nations in anger, is persecuted, and none hindereth.
+
+10:29 [24:7/Isaiah 14:7]. The whole earth is at rest and is quiet; they break forth into singing.
+
+10:30 [24:8/Isaiah 14:8]. Yea, the fir trees rejoice at thee, and also the cedars of Lebanon, saying: Since thou art laid down, no feller is come up against us.
+
+10:31 [24:9/Isaiah 14:9]. Hell from beneath is moved for thee to meet thee at thy coming; it stirreth up the dead for thee, even all the chief ones of the earth; it hath raised up from their thrones all the kings of the nations.
+
+10:32 [24:10/Isaiah 14:10]. All they shall speak and say unto thee: Art thou also become weak as we? Art thou become like unto us?
+
+10:33 [24:11/Isaiah 14:11]. Thy pomp is brought down to the grave; the noise of thy viols is not heard; the worm is spread under thee, and the worms cover thee.
+
+10:34 [24:12/Isaiah 14:12]. How art thou fallen from heaven, O Lucifer, son of the morning! Art thou cut down to the ground, which did weaken the nations!
+
+10:35 [24:13/Isaiah 14:13]. For thou hast said in thy heart: I will ascend into heaven; I will exalt my throne above the stars of God; I will sit also upon the mount of the congregation in the sides of the north;
+
+10:36 [24:14/Isaiah 14:14]. I will ascend above the heights of the clouds; I will be like the Most High.
+
+10:37 [24:15/Isaiah 14:15]. Yet thou shalt be brought down to hell, to the sides of the pit.
+
+10:38 [24:16/Isaiah 14:16]. They that see thee shall narrowly look upon thee, and shall consider thee, and shall say: Is this the man that made the earth to tremble, that did shake kingdoms,
+
+10:39 [24:17/Isaiah 14:17]. And made the world as a wilderness, and destroyed the cities thereof, and opened not the house of his prisoners?
+
+10:40 [24:18/Isaiah 14:18]. All the kings of the nations, yea, all of them, lie in glory, every one of them in his own house.
+
+10:41 [24:19/Isaiah 14:19]. But thou art cast out of thy grave like an abominable branch, and the remnant of those that are slain, thrust through with a sword, that go down to the stones of the pit as a carcass trodden underfoot.
+
+10:42 [24:20/Isaiah 14:20]. Thou shalt not be joined with them in burial because thou hast destroyed thy land, and slain thy people; the seed of evildoers shall never be renowned.
+
+10:43 [24:21/Isaiah 14:21]. Prepare slaughter for his children for the iniquities of their fathers, that they do not rise, nor possess the land, nor fill the face of the world with cities.
+
+10:44 [24:22/Isaiah 14:22]. For I will rise up against them, saith the Lord of hosts, and cut off from Babylon the name, and remnant, and son, and nephew, saith the Lord.
+
+10:45 [24:23/Isaiah 14:23]. I will also make it a possession for the bittern and pools of water; and I will sweep it with the besom of destruction, saith the Lord of hosts.
+
+10:46 [24:24/Isaiah 14:24]. ¶ The Lord of hosts hath sworn, saying: Surely as I have thought, so shall it come to pass; and as I have purposed, so shall it stand,
+
+10:47 [24:25/Isaiah 14:25]. That I will bring the Assyrian in my land, and upon my mountains tread him underfoot; then shall his yoke depart from off them, and his burden depart from off their shoulders.
+
+10:48 [24:26/Isaiah 14:26]. This is the purpose that is purposed upon the whole earth; and this is the hand that is stretched out upon all nations.
+
+10:49 [24:27/Isaiah 14:27]. For the Lord of hosts hath purposed. And who shall disannul? And his hand stretched out. And who shall turn it back?
+
+10:50 [24:28/Isaiah 14:28]. In the year that King Ahaz died was this burden.
+
+10:51 [24:29/Isaiah 14:29]. ¶ Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken; for out of the serpent's root shall come forth a cockatrice, and his fruit shall be a fiery flying serpent.
+
+10:52 [24:30/Isaiah 14:30]. And the firstborn of the poor shall feed, and the needy shall lie down in safety; and I will kill thy root with famine, and he shall slay thy remnant.
+
+10:53 [24:31/Isaiah 14:31]. Howl, O gate; cry, O city; thou, whole Palestina, art dissolved; for there shall come from the north a smoke, and none shall be alone in his appointed times.
+
+10:54 [24:32/Isaiah 14:32]. What shall then answer the messengers of the nations? That the Lord hath founded Zion, and the poor of his people shall trust in it.
+
+chapter:  2 Nephi 11
+
+viewer-path: /book-of-mormon-universal/2-nephi/11
+
+chapter-aka: [25-27 OPV / Isaiah 29]
+
+chapter-sum: Note: Words that are different here from Isaiah in the KJV have been set in italics.
+
+subchapter: [OPV Chapter 25]
+
+11:1 [25:1a]. Now I, Nephi, do speak somewhat concerning the words which I have written, which have been spoken by the mouth of Isaiah.
+
+11:2 [25:1b]. For behold, Isaiah spake many things which were hard for many of my people to understand; for they know not concerning the manner of prophesying among the Jews.
+
+11:3 [25:2]. For I, Nephi, have not taught them many things concerning the manner of the Jews; for their works were works of darkness, and their doings were doings of abomination.
+
+11:4 [25:3]. Wherefore, I write unto my people, unto all those that shall receive hereafter these things which I write, that they may know the judgments of God—that they come upon all nations, according to the word which he hath spoken.
+
+11:5 [25:4a]. Wherefore, hearken, O my people, which are of the house of Israel, and give ear unto my words; for because the words of Isaiah are not plain unto you, nevertheless, they are plain unto all those that are filled with the spirit of prophecy.
+
+11:6 [25:4b]. But I give unto you a prophecy, according to the spirit which is in me; wherefore, I shall prophesy according to the plainness which hath been with me from the time that I came out from Jerusalem with my father.
+
+11:7 [25:4c]. For behold, my soul delighteth in plainness unto my people, that they may learn;
+
+11:8a [25:5a]. Yea, and my soul delighteth in the words of Isaiah; for I came out from Jerusalem, and mine eyes hath beheld the things of the Jews;
+
+11:8b [25:5b]. And I know that the Jews do understand the things of the prophets; and there is none other people that understand the things which were spoken unto the Jews, like unto them, save it be that they are taught after the manner of the things of the Jews.
+
+11:9 [25:6a]. But behold, I, Nephi, have not taught my children after the manner of the Jews; but behold, I, of myself, have dwelt at Jerusalem; wherefore, I know concerning the regions round about;
+
+11:10 [25:6b]. And I have made mention unto my children concerning the judgments of God, which hath come to pass among the Jews unto my children, according to all that which Isaiah hath spoken; and I do not write them.
+
+11:11 [25:7a]. But behold, I proceed with mine own prophecy, according to my plainness, in the which I know that no man can err;
+
+11:12 [25:7b]. Nevertheless, in the days that the prophecies of Isaiah shall be fulfilled, men shall know of a surety at the times when they shall come to pass;
+
+11:13 [25:8a]. Wherefore, they are of worth unto the children of men; and he that supposeth that they are not, unto them will I speak particularly and confine the words unto mine own people;
+
+11:14 [25:8b]. For I know that they shall be of great worth unto them in the last days; for in that day shall they understand them; wherefore, for their good have I written them.
+
+11:15 [25:9a]. And as one generation hath been destroyed among the Jews because of iniquity, even so have they been destroyed from generation to generation, according to their iniquities;
+
+11:16 [25:9b]. And never hath any of them been destroyed, save it were foretold them by the prophets of the Lord.
+
+11:17 [25:10a]. Wherefore, it hath been told them concerning the destruction which should come upon them immediately after my father left Jerusalem;
+
+11:18 [25:10b]. Nevertheless, they hardened their hearts; and according to my prophecy, they have been destroyed, save it be those which are carried away captive into Babylon.
+
+11:19 [25:11a]. And now, this I speak because of the spirit which is in me.
+
+11:20 [25:11b]. And notwithstanding they have been carried away, they shall return again and possess the land of Jerusalem; wherefore, they shall be restored again to the lands of their inheritance.
+
+11:21a [25:12a]. But, behold, they shall have wars and rumors of wars;
+
+11:21b [25:12b]. And when the day cometh that the Only Begotten of the Father, yea, even the Father of heaven and of earth, shall manifest himself unto them in the flesh, behold, they will reject him because of their iniquities, and the hardness of their hearts, and the stiffness of their necks.
+
+11:22a [25:13a]. Behold, they will crucify him;
+
+11:22b [25:13b]. And after he is laid in a sepulcher for the space of three days, he shall rise from the dead, with healing in his wings;
+
+11:22c [25:13c]. And all those who shall believe on his name shall be saved in the kingdom of God;
+
+11:23 [25:13d]. Wherefore, my soul delighteth to prophesy concerning him; for I have seen his day, and my heart doth magnify his holy name.
+
+11:24 [25:14]. ¶ And behold, it shall come to pass, that after the Messiah hath risen from the dead and hath manifested himself unto his people, unto as many as will believe on his name, behold, Jerusalem shall be destroyed again; for wo unto them that fight against God and the people of his church.
+
+11:25 [25:15]. Wherefore, the Jews shall be scattered among all nations; yea, and also Babylon shall be destroyed; wherefore, the Jews shall be scattered by other nations.
+
+11:26a [25:16a]. And after they have been scattered, and the Lord God hath scourged them by other nations for the space of many generations,
+
+11:26b [25:16b]. Yea, even down from generation to generation, until they shall be persuaded to believe in Christ, the Son of God, and the atonement, which is infinite for all mankind—
+
+11:27a [25:16c]. And when that day shall come, that they shall believe in Christ, and worship the Father in his name, with pure hearts and clean hands, and look not forward any more for another Messiah,
+
+11:27b [25:16d]. Then, at that time, the day will come that it must needs be expedient that they should believe these things;
+
+11:28 [25:17a]. And the Lord will set his hand again the second time to restore his people from their lost and fallen state.
+
+11:29 [25:17b]. Wherefore, he will proceed to do a marvelous work and a wonder among the children of men.
+
+11:30 [25:18a]. ¶ Wherefore, he shall bring forth his words unto them, which words shall judge them at the last day;
+
+11:31 [25:18b]. For they shall be given them for the purpose of convincing them of the true Messiah, who was rejected by them,
+
+11:32 [25:18c]. And unto the convincing of them that they need not look forward any more for a Messiah to come,
+
+11:33 [25:18d]. For there should not any come, save it should be a false messiah, which should deceive the people;
+
+11:34 [25:18e]. For there is save one Messiah spoken of by the prophets, and that Messiah is he who should be rejected of the Jews.
+
+11:35 [25:19a]. For according to the words of the prophets, the Messiah cometh in six hundred years from the time that my father left Jerusalem;
+
+11:36 [25:19b]. And according to the words of the prophets, and also the word of the angel of God, his name shall be Jesus Christ, the Son of God.
+
+11:37 [25:20a]. ¶ And now, my brethren, I have spoken plain, that ye cannot err.
+
+11:38 [25:20b]. And as the Lord God liveth that brought Israel up out of the land of Egypt, and gave unto Moses power that he should heal the nations, after they had been bitten by the poisonous serpents, if they would cast their eyes unto the serpent which he did raise up before them, and also gave him power that he should smite the rock, and the water should come forth;
+
+11:39a [25:20c]. Yea, behold, I say unto you that as these things are true.
+
+11:39b [25:20d]. And as the Lord God liveth, there is none other name given under heaven, save it be this Jesus Christ of which I have spoken, whereby man can be saved.
+
+11:40a [25:21a]. ¶ Wherefore, for this cause hath the Lord God promised unto me that these things which I write shall be kept, and preserved, and handed down unto my seed from generation to generation,
+
+11:40b [25:21b]. ¶ That the promise may be fulfilled unto Joseph, that his seed should never perish as long as the earth should stand.
+
+11:41 [25:22a]. Wherefore, these things shall go from generation to generation as long as the earth shall stand; and they shall go according to the will and pleasure of God;
+
+11:42 [25:22b]. And the nations which shall possess them shall be judged of them according to the words which are written.
+
+11:43 [25:23a]. For we labor diligently to write, to persuade our children, and also our brethren, to believe in Christ and to be reconciled to God;
+
+11:44 [25:23b]. For we know that it is by grace that we are saved, after all we can do.
+
+11:45a [25:24]. ¶ And notwithstanding we believe in Christ, we keep the law of Moses and look forward with steadfastness unto Christ until the law shall be fulfilled; for, for this end was the law given;
+
+11:45b [25:25a]. For, for this end was the law given;
+
+11:46 [25:25b]. Wherefore, the law hath become dead unto us, and we are made alive in Christ because of our faith;
+
+11:47 [25:25c]. Yet we keep the law because of the commandments.
+
+11:48 [25:26]. And we talk of Christ; we rejoice in Christ; we preach of Christ; we prophesy of Christ; and we write according to our prophecies, that our children may know to what source they may look for a remission of their sins.
+
+11:49 [25:27a]. Wherefore, we speak concerning the law, that our children may know the deadness of the law;
+
+11:50 [25:27b]. And they, by knowing the deadness of the law, may look forward unto that life which is in Christ and know for what end the law was given,
+
+11:51 [25:27c]. And after the law is fulfilled in Christ, that they need not harden their hearts against him when the law ought to be done away. 11:52 ¶ [25:28a] And now, behold, my people, ye are a stiff-necked people; wherefore, I have spoken plain unto you, that ye cannot misunderstand.
+
+11:53 [25:28b]. And the words which I have spoken shall stand as a testimony against you; for they are sufficient to teach any man the right way;
+
+11:54 [25:28c]. For the right way is to believe in Christ and deny him not; for by denying him, ye also deny the prophets and the law. 11:55 ¶ [25:29a] And now, behold, I say unto you that the right way is to believe in Christ and deny him not; and Christ is the Holy One of Israel;
+
+11:56 [25:29b]. Wherefore, ye must bow down before him and worship him with all your might, mind, and strength, and your whole soul; and if ye do this, ye shall in no wise be cast out.
+
+11:57 [25:30]. And inasmuch as it shall be expedient, ye must keep the performances and ordinances of God until the law shall be fulfilled which was given unto Moses.
+
+subchapter: [OPV Chapter 26 / Isaiah 29:3-5]
+
+11:58 ¶ [26:1a] And after Christ shall have risen from the dead, he shall show himself unto you, my children and my beloved brethren;
+
+11:59 [26:1b]. And the words which he shall speak unto you shall be the law which ye shall do.
+
+11:60 [26:2]. For behold, I say unto you that I have beheld that many generations shall pass away, and there shall be great wars and contentions among my people.
+
+11:61 [26:3a]. And after the Messiah shall come, there shall be signs given unto my people of his birth and also of his death and resurrection;
+
+11:62 [26:3b]. And great and terrible shall that day be unto the wicked; for they shall perish;
+
+11:63 [26:3c]. And they perish because they cast out the prophets and the saints, and stone them, and slay them;
+
+11:64 [26:3d]. Wherefore, the cry of the blood of the saints shall ascend up to God from the ground against them.
+
+11:65 [26:4]. Wherefore, all those who are proud and that do wickedly, the day that cometh shall burn them up, saith the Lord of hosts, for they shall be as stubble.
+
+11:66 [26:5a]. And they that kill the prophets and the saints, the depths of the earth shall swallow them up, saith the Lord of hosts;
+
+11:67 [26:5b]. And mountains shall cover them, and whirlwinds shall carry them away; and buildings shall fall upon them, and crush them to pieces, and grind them to powder;
+
+11:68 [26:6a]. And they shall be visited with thunderings, and lightnings, and earthquakes, and all manner of destructions;
+
+11:69 [26:6b]. For the fire of the anger of the Lord shall be kindled against them, and they shall be as stubble; and the day that cometh shall consume them, saith the Lord of hosts. 11:70 ¶ [26:7a] O, the pain and the anguish of my soul for the loss of the slain of my people!
+
+11:71 [26:7b]. For I, Nephi, hath seen it, and it well nigh consumeth me before the presence of the Lord; but I must cry unto my God, Thy ways are just.
+
+11:72 [26:8]. But behold, the righteous that hearken unto the words of the prophets, and destroy them not, but look forward unto Christ with steadfastness for the signs which are given, notwithstanding all persecutions—behold, they are they which shall not perish.
+
+11:73a [26:9a]. But the Son of Righteousness shall appear unto them, and he shall heal them;
+
+11:73b [26:9b]. And they shall have peace with him, until three generations shall have passed away and many of the fourth generation shall have passed away in righteousness.
+
+11:74 [26:10a]. And when these things shall have passed away, a speedy destruction cometh unto my people; for, notwithstanding the pains of my soul, I have seen it; wherefore, I know that it shall come to pass;
+
+11:75 [26:10b]. And they sell themselves for naught; for, for the reward of their pride and their foolishness, they shall reap destruction;
+
+11:76a [26:10c]. For because they yield unto the devil and choose works of darkness rather than light, therefore, they must go down to hell;
+
+11:76b [26:11a]. For the Spirit of the Lord will not always strive with man.
+
+11:77 [26:11b]. And when the Spirit ceaseth to strive with man, then cometh speedy destruction; and this grieveth my soul.
+
+11:78a [26:12]. ¶ And as I spake concerning the convincing of the Jews that Jesus is the very Christ, it must needs be that the Gentiles be convinced also that Jesus is the Christ, the Eternal God,
+
+11:78b [26:13a]. And that he manifesteth himself unto all those who believe in him, by the power of the Holy Ghost;
+
+11:79 [26:13b]. Yea, unto every nation, kindred, tongue, and people—working mighty miracles, signs, and wonders among the children of men according to their faith.
+
+11:80 [26:14]. ¶ But behold, I prophesy unto you concerning the last days, concerning the days when the Lord God shall bring these things forth unto the children of men;
+
+11:81 [26:15a]. After my seed and the seed of my brethren shall have dwindled in unbelief and shall have been smitten by the Gentiles,
+
+11:82 [26:15b/Isaiah29:3]. Yea, after the Lord God shall have camped against them round about, and shall have laid siege against them with a mount, and raised forts against them,
+
+11:83a [26:15c]. And after they shall have been brought down low in the dust, even that they are not.
+
+11:83b [26:15d]. Yet the words of the righteous shall be written, and the prayers of the faithful shall be heard, and all those who have dwindled in unbelief shall not be forgotten.
+
+11:84 [26:16a/Isaiah29:4a]. For those who shall be destroyed shall speak unto them out of the ground; and their speech shall be low out of the dust; and their voice shall be as one that hath a familiar spirit;
+
+11:85 [26:16b/Isaiah29:4b]. For the Lord God will give unto him power, that he may whisper concerning them, even as it were out of the ground; and their speech shall whisper out of the dust.
+
+11:86 [26:17]. For thus saith the Lord God: They shall write the things which shall be done among them; and they shall be written and sealed up in a book; and those who have dwindled in unbelief shall not have them, for they seek to destroy the things of God;
+
+11:87 [26:18a/Isaiah29:5a]. Wherefore, as those who have been destroyed have been destroyed speedily, and the multitude of their terrible ones shall be as chaff that passeth away,
+
+11:88 [26:18b/Isaiah29:5b]. Yea, thus saith the Lord God: It shall be at an instant, suddenly.
+
+11:89 [26:19]. ¶ And it shall come to pass, that those who have dwindled in unbelief shall be smitten by the hand of the Gentiles.
+
+11:90 [26:20a]. And the Gentiles are lifted up in the pride of their eyes and have stumbled because of the greatness of their stumbling block, that they have built up many churches;
+
+11:91 [26:20b]. Nevertheless, they put down the power and the miracles of God and preach up unto themselves their own wisdom and their own learning, that they may get gain and grind upon the face of the poor.
+
+11:92 [26:21]. And there are many churches built up which cause envyings, and strifes, and malice;
+
+11:93 [26:22a]. And there are also secret combinations, even as in times of old, according to the combinations of the devil; for he is the foundation of all these things, yea, the foundation of murder and works of darkness;
+
+11:94 [26:22b]. Yea, and he leadeth them by the neck with a flaxen cord until he bindeth them with his strong cords forever.
+
+11:95 [26:23]. ¶ For behold, my beloved brethren, I say unto you that the Lord God worketh not in darkness.
+
+11:96 [26:24a]. He doeth not anything save it be for the benefit of the world; for he loveth the world, even that he layeth down his own life, that he may draw all men unto him.
+
+11:97 [26:24b]. Wherefore, he commandeth none that they shall not partake of his salvation.
+
+11:98 [26:25a]. Behold, doth he cry unto any, saying: Depart from me?
+
+11:99 [26:25b]. Behold, I say unto you: Nay; but he saith: Come unto me, all ye ends of the earth; buy milk and honey without money and without price.
+
+11:100 [26:26a]. Behold, hath he commanded any that they should depart out of the synagogues or out of the houses of worship?
+
+11:101 [26:26b]. Behold, I say unto you: Nay.
+
+11:102 [26:27a]. Hath he commanded any that they should not partake of his salvation?
+
+11:103a [26:27b]. Behold, I say unto you: Nay;
+
+11:103b [26:27c]. But he hath given it free for all men; and he hath commanded his people that they should persuade all men to repentance.
+
+11:104 [26:28a]. Behold, hath the Lord commanded any that they should not partake of his goodness?
+
+11:105 [26:28b]. Behold, I say unto you: Nay; but all men are privileged, the one like unto the other, and none are forbidden.
+
+11:106a [26:29a]. He commandeth that there shall be no priestcrafts;
+
+11:106b [26:29b]. For, behold, priestcrafts are that men preach and set themselves up for a light unto the world, that they may get gain and praise of the world; but they seek not the welfare of Zion.
+
+11:107a [26:30a]. Behold, the Lord hath forbidden this thing;
+
+11:107b [26:30b]. Wherefore, the Lord God hath given a commandment that all men should have charity, which charity is love.
+
+11:108 [26:30c]. And except they should have charity, they were nothing; wherefore, if they should have charity, they would not suffer the laborer in Zion to perish.
+
+11:109 [26:31]. But the laborer in Zion shall labor for Zion; for if they labor for money, they shall perish.
+
+11:110a [26:32a]. And, again, the Lord God hath commanded that men should not murder,
+
+11:110b [26:32b]. That they should not lie,
+
+11:110c [26:32c]. That they should not steal,
+
+11:110d [26:32d]. That they should not take the name of the Lord, their God, in vain,
+
+11:110e [26:32e]. That they should not envy,
+
+11:110f [26:32f]. That they should not have malice,
+
+11:110g [26:32g]. That they should not contend one with another,
+
+11:110h [26:32h]. That they should not commit whoredoms,
+
+11:110i [26:32i]. And that they should do none of these things.
+
+11:111a [26:32j]. For whoso doeth them shall perish;
+
+11:111b [26:33a]. For none of these iniquities come of the Lord; for he doeth that which is good among the children of men;
+
+11:112 [26:33b]. And he doeth nothing save it be plain unto the children of men;
+
+11:113 [26:33c]. And he inviteth them all to come unto him and partake of his goodness;
+
+11:114 [26:33d]. And he denieth none that come unto him, black and white, bond and free, male and female;
+
+11:115 [26:33e]. And he remembereth the heathen; and all are alike unto God, both Jew and Gentile.
+
+subchapter: [OPV Chapter 27 / Isaiah 29:6-24]
+
+11:116 [27:1]. But behold, in the last days, or in the days of the Gentiles, yea, behold, all the nations of the Gentiles and also the Jews, both those who shall come upon this land and those who shall be upon other lands, yea, even upon all the lands of the earth, behold, they will be drunken with iniquity and all manner of abominations.
+
+11:117 [27:2/Isaiah 29:6]. And when that day shall come, they shall be visited of the Lord of hosts with thunder, and with earthquake, and with a great noise, and with storm, and with tempest, and with the flame of devouring fire.
+
+11:118 [27:3a/Isaiah 29:7]. And all the nations that fight against Zion and that distress her shall be as a dream of a night vision;
+
+11:119 [27:3b/Isaiah 29:8a]. Yea, it shall be unto them even as unto a hungry man which dreameth; and behold, he eateth; but he awaketh, and his soul is empty;
+
+11:120 [27:3c/Isaiah 29:8b]. Or like unto a thirsty man which dreameth; and behold, he drinketh; but he awaketh, and behold, he is faint, and his soul hath appetite;
+
+11:121 [27:3d/Isaiah 29:8c]. Yea, even so shall the multitude of all the nations be that fight against Mount Zion.
+
+11:122 [27:4/Isaiah 29:9]. For behold, all ye that do iniquity, stay yourselves and wonder; for ye shall cry out and cry; yea, ye shall be drunken, but not with wine; ye shall stagger, but not with strong drink.
+
+11:123 [27:5/Isaiah 29:10a]. For behold, the Lord hath poured out upon you the spirit of deep sleep;
+
+11:124 [27:6/Isaiah 29:10b]. For behold, ye have closed your eyes, and ye have rejected the prophets; and your rulers and the seers hath he covered because of your iniquity.
+
+11:125 [27:6/Isaiah 29:11a]. ¶ And it shall come to pass that the Lord God shall bring forth unto you the words of a book, and they shall be the words of them which have slumbered.
+
+11:126 [27:7/Isaiah 29:11b]. And behold, the book shall be sealed; and in the book shall be a revelation from God, from the beginning of the world to the ending thereof.
+
+11:127 [27:8a]. Wherefore, because of the things which are sealed up, the things which are sealed shall not be delivered in the day of the wickedness and abominations of the people.
+
+11:128 [278b]. Wherefore, the book shall be kept from them.
+
+11:129a [27:9]. But the book shall be delivered unto a man; and he shall deliver the words of the book, which are the words of those who have slumbered in the dust; and he shall deliver these words unto another;
+
+11:129b [27:10a]. But the words which are sealed he shall not deliver; neither shall he deliver the book.
+
+11:130 [27:10b]. For the book shall be sealed by the power of God; and the revelation which was sealed shall be kept in the book until the own due time of the Lord, that they may come forth; for behold, they reveal all things from the foundation of the world unto the end thereof.
+
+11:131 [27:11a]. And the day cometh that the words of the book which were sealed shall be read upon the housetops; and they shall be read by the power of Christ;
+
+11:132 [27:11b]. And all things shall be revealed unto the children of men which ever have been among the children of men and which ever will be, even unto the end of the earth.
+
+11:133 [27:12]. Wherefore, at that day when the book shall be delivered unto the man of whom I have spoken, the book shall be hid from the eyes of the world, that the eyes of none shall behold it, save it be that three witnesses shall behold it by the power of God, besides him to whom the book shall be delivered; and they shall testify to the truth of the book and the things therein.
+
+11:134 [27:13]. And there is none other which shall view it, save it be a few, according to the will of God, to bear testimony of his word unto the children of men; for the Lord God hath said that the words of the faithful should speak as if it were from the dead.
+
+11:135 [27:14]. Wherefore, the Lord God will proceed to bring forth the words of the book; and in the mouth of as many witnesses as seemeth him good will he establish his word; and wo be unto him that rejecteth the word of God. 11:136 ¶ [27:15a/Isaiah 29:11c] But behold, it shall come to pass that the Lord God shall say unto him to whom he shall deliver the book: Take these words which are not sealed and deliver them to another, that he may show them unto the learned, saying: Read this, I pray thee. 11:137 [27:15b And the learned shall say: Bring hither the book, and I will read them.
+
+11:138 [27:16]. And now, because of the glory of the world and to get gain, will they say this, and not for the glory of God.
+
+11:139 [27:17/Isaiah 29:11d]. And the man shall say: I cannot bring the book, for it is sealed.
+
+11:140 [27:18]. Then shall the learned say: I cannot read it.
+
+11:141 [27:19/Isaiah 29:12]. Wherefore, it shall come to pass, that the Lord God will deliver again the book and the words thereof to him that is not learned; and the man that is not learned shall say: I am not learned.
+
+11:142 [27:20]. Then shall the Lord God say unto him: The learned shall not read them, for they have rejected them; and I am able to do mine own work; wherefore, thou shalt read the words which I shall give unto thee.
+
+11:143 [27:21]. Touch not the things which are sealed, for I will bring them forth in mine own due time; for I will show unto the children of men that I am able to do mine own work.
+
+11:144 [27:22]. Wherefore, when thou hast read the words which I have commanded thee and obtained the witnesses which I have promised unto thee, then shalt thou seal up the book again and hide it up unto me, that I may preserve the words which thou hast not read, until I shall see fit in mine own wisdom to reveal all things unto the children of men.
+
+11:145 [27:23]. For behold, I am God; and I am a God of miracles; and I will show unto the world that I am the same yesterday, today, and forever; and I work not among the children of men, save it be according to their faith.
+
+11:146a [27:24]. ¶ And again, it shall come to pass, that the Lord shall say unto him that shall read the words that shall be delivered him:
+
+11:146b [27:25/Isaiah 29:13]. Forasmuch as this people draw near unto me with their mouth, and with their lips do honor me, but have removed their hearts far from me, and their fear towards me is taught by the precepts of men,
+
+11:146c [27:26a/Isaiah 29:14a]. Therefore, I will proceed to do a marvelous work among this people,
+
+11:147 [27:26b/Isaiah 29:14b]. Yea, a marvelous work and a wonder, for the wisdom of their wise and learned shall perish, and the understanding of their prudent shall be hid.
+
+11:148 [27:27a/Isaiah 29:15a]. And wo unto them that seek deep to hide their counsel from the Lord.
+
+11:149 [27:27b/Isaiah 29:15b]. And their works are in the dark. And they say: Who seeth us, and who knoweth us?
+
+11:150 [27:27c/Isaiah 29:16a]. And they also say: Surely, your turning of things upside down shall be esteemed as the potter's clay.
+
+11:151 [27:27d]. But behold, I will show unto them, saith the Lord of hosts, that I know all their works.
+
+11:152 [27:27e/Isaiah 29:16b]. For shall the work say of him that made it: He made me not?
+
+11:153 [27:27f/Isaiah 29:16c]. Or shall the thing framed say of him that framed it: He had no understanding?
+
+11:154 [27:28/Isaiah 29:17]. But behold, saith the Lord of hosts, I will show unto the children of men that it is not yet a very little while, and Lebanon shall be turned into a fruitful field; and the fruitful field shall be esteemed as a forest.
+
+11:155 [27:29/Isaiah 29:18]. And in that day shall the deaf hear the words of the book; and the eyes of the blind shall see out of obscurity and out of darkness;
+
+11:156 [27:30/Isaiah 29:19]. And the meek also shall increase, and their joy shall be in the Lord; and the poor among men shall rejoice in the Holy One of Israel.
+
+11:157a [27:31a/Isaiah 29:20]. For assuredly, as the Lord liveth, they shall see that the terrible one is brought to naught, and the scorner is consumed, and all that watch for iniquity are cut off;
+
+11:157b [27:32/Isaiah 29:21]. And they that make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of naught.
+
+11:158 [27:33/Isaiah 29:22]. Therefore, thus saith the Lord, who redeemed Abraham, concerning the house of Jacob: Jacob shall not now be ashamed, neither shall his face now wax pale.
+
+11:159 [27:34/Isaiah 29:23]. But when he seeth his children, the work of my hands, in the midst of him, they shall sanctify my name, and sanctify the Holy One of Jacob, and shall fear the God of Israel.
+
+11:160 [27:35/Isaiah 29:24]. They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine.
+
+subchapter: [OPV Chapter 28]
+
+12:1 [28:1]. And now, behold, my brethren, I have spoken unto you according as the Spirit hath constrained me; wherefore, I know that they must surely come to pass.
+
+12:2 [28:2]. And the things which shall be written out of the book shall be of great worth unto the children of men, and especially unto our seed, which is a remnant of the house of Israel.
+
+12:3 [28:3a]. For it shall come to pass in that day that the churches which are built up, and not unto the Lord, when the one shall say unto the other: Behold, I, I am the Lord's; and the other shall say: I, I am the Lord's;
+
+12:4 [28:3b]. And thus shall everyone say, that hath built up churches, and not unto the Lord.
+
+12:5 [28:4]. And they shall contend one with another; and their priests shall contend one with another; and they shall teach with their learning and deny the Holy Ghost, which giveth utterance.
+
+12:6 [28:5a]. And they deny the power of God, the Holy One of Israel; and they say unto the people: Hearken unto us and hear ye our precept;
+
+12:7 [28:5b]. For behold, there is no God today, for the Lord and the Redeemer hath done his work, and he hath given his power unto men;
+
+12:8 [28:6]. Behold, hearken ye unto my precept: If they shall say there is a miracle wrought by the hand of the Lord, believe it not; for this day he is not a God of miracles; he hath done his work.
+
+12:9 [28:7]. Yea, and there shall be many which shall say: Eat, drink, and be merry, for tomorrow we die; and it shall be well with us.
+
+12:10 [28:8a]. And there shall also be many which shall say: Eat, drink, and be merry; nevertheless, fear God; he will justify in committing a little sin; yea, lie a little, take the advantage of one because of his words; dig a pit for thy neighbor; there is no harm in this;
+
+12:11 [28:8b]. And do all these things, for tomorrow we die; and if it so be that we are guilty, God will beat us with a few stripes, and at last we shall be saved in the kingdom of God.
+
+12:12a [28:9a]. Yea, and there shall be many which shall teach after this manner—false, and vain, and foolish doctrines—and shall be puffed up in their hearts, and shall seek deep to hide their counsels from the Lord;
+
+12:12b [28:9b]. And their works shall be in the dark;
+
+12:12c [28:10]. And the blood of the saints shall cry from the ground against them.
+
+12:13 [28:11]. Yea, they have all gone out of the way; they have become corrupted.
+
+12:14 [28:12]. Because of pride and because of false teachers and false doctrine, their churches have become corrupted; and their churches are lifted up; because of pride, they are puffed up.
+
+12:15 [28:13]. They rob the poor because of their fine sanctuaries; they rob the poor because of their fine clothing; and they persecute the meek and the poor in heart because in their pride they are puffed up.
+
+12:16 [28:14a]. They wear stiff necks and high heads; yea, and because of pride, and wickedness, and abominations, and whoredoms, they have all gone astray, save it be a few, who are the humble followers of Christ;
+
+12:17 [28:14b]. Nevertheless, they are led, that in many instances they do err, because they are taught by the precepts of men.
+
+12:18a [28:15a]. ¶ O, the wise, and the learned, and the rich, that are puffed up in the pride of their hearts, and all those who preach false doctrines, and all those who commit whoredoms and pervert the right way of the Lord;
+
+12:18b [28:15b]. Wo, wo, wo be unto them, saith the Lord God Almighty, for they shall be thrust down to hell!
+
+12:19 [28:16a]. ¶ Wo unto them that turn aside the just for a thing of naught, and revile against that which is good, and say that it is of no worth;
+
+12:20 [28:16b]. For the day shall come that the Lord God will speedily visit the inhabitants of the earth; and in that day that they are fully ripe in iniquity, they shall perish.
+
+12:21 [28:17]. But behold, if the inhabitants of the earth shall repent of their wickedness and abominations, they shall not be destroyed, saith the Lord of hosts.
+
+12:22 [28:18]. But behold, that great and abominable church, the whore of all the earth, must tumble to the earth; and great must be the fall thereof;
+
+12:23 [28:19]. For the kingdom of the devil must shake, and they which belong to it must needs be stirred up unto repentance, or the devil will grasp them with his everlasting chains, and they be stirred up to anger and perish.
+
+12:24 [28:20]. For behold, at that day shall he rage in the hearts of the children of men and stir them up to anger against that which is good.
+
+12:25 [28:21a]. And others will he pacify and lull them away into carnal security, that they will say: All is well in Zion; yea, Zion prospereth; all is well;
+
+12:26 [2821b]. And thus the devil cheateth their souls and leadeth them away carefully down to hell.
+
+12:27 [28:22a]. And behold, others he flattereth away and telleth them there is no hell; and he saith unto them: I am no devil, for there is none;
+
+12:28 [28:22b]. And thus he whispereth in their ears until he grasps them with his awful chains from whence there is no deliverance.
+
+12:29a [28:23a]. Yea, they are grasped with death and hell;
+
+12:29b [28:23b]. And death, and hell, and the devil, and all that have been seized therewith must stand before the throne of God and be judged according to their works, from whence they must go into the place prepared for them, even a lake of fire and brimstone, which is endless torment.
+
+12:30 [28:24]. Therefore, wo be unto him that is at ease in Zion!
+
+12:31a [28:25]. Wo be unto him that crieth, All is well!
+
+12:31b [28:26]. Yea, wo be unto him that hearkeneth unto the precepts of men and denieth the power of God and the gift of the Holy Ghost!
+
+12:32 [28:27]. Yea, wo be unto him that saith: We have received, and we need no more!
+
+12:33 [28:28a]. And, in fine, wo unto all those who tremble and are angry because of the truth of God!
+
+12:34 [28:28b]. For behold, he that is built upon the rock receiveth it with gladness; and he that is built upon a sandy foundation trembleth, lest he shall fall.
+
+12:35 [28:29]. ¶ Wo be unto him that shall say: We have received the word of God, and we need no more of the word of God, for we have enough!
+
+12:36 [28:30a]. For behold, thus saith the Lord God, I will give unto the children of men line upon line, precept upon precept, here a little and there a little;
+
+12:37 [28:30b]. And blessed are those who hearken unto my precepts and lend an ear unto my counsel, for they shall learn wisdom;
+
+12:38 [28:30c]. For unto him that receiveth, I will give more; and from them that shall say: We have enough, shall be taken away even that which they have.
+
+12:39 [28:31]. Cursed is he that putteth his trust in man, or maketh flesh his arm, or shall hearken unto the precepts of men, save their precepts shall be given by the power of the Holy Ghost.
+
+12:40 [28:32a]. ¶ Wo be unto the Gentiles, saith the Lord God of hosts; for notwithstanding I shall lengthen out mine arm unto them from day to day, they will deny me;
+
+12:41 [28:32b]. Nevertheless, I will be merciful unto them, saith the Lord God, if they will repent and come unto me; for mine arm is lengthened out all the day long, saith the Lord God of hosts.
+
+subchapter: [OPV Chapter 29]
+
+12:42 [29:1]. ¶ But behold, there shall be many at that day, when I shall proceed to do a marvelous work among them, that I may remember my covenants which I have made unto the children of men, that I may set my hand again the second time to recover my people, which are of the house of Israel;
+
+12:43 [29:2a]. And also, that I may remember the promises which I have made unto thee, Nephi, and also unto thy father, that I would remember your seed and that the words of your seed should proceed forth out of my mouth unto your seed.
+
+12:44 [29:2b]. And my words shall hiss forth unto the ends of the earth for a standard unto my people which are of the house of Israel.
+
+12:45 [29:3]. And because my words shall hiss forth, many of the Gentiles shall say: A Bible, a Bible, we have got a Bible; and there cannot be any more Bible.
+
+12:46 [29:4a]. But thus saith the Lord God: O fools, they shall have a Bible; and it shall proceed forth from the Jews, mine ancient covenant people.
+
+12:47 [29:4b]. And what thank they the Jews for the Bible which they received from them?
+
+12:48 [29:4c]. Yea, what do the Gentiles mean?
+
+12:49 [29:4d]. Do they remember the travails, and the labors, and the pains of the Jews, and their diligence unto me in bringing forth salvation unto the Gentiles?
+
+12:50 [29:5a]. ¶ O ye Gentiles, have ye remembered the Jews, mine ancient covenant people?
+
+12:51 [29:5b]. Nay; but ye have cursed them, and have hated them, and have not sought to recover them.
+
+12:52 [29:5c]. But behold, I will return all these things upon your own heads; for I, the Lord, hath not forgotten my people.
+
+12:53 [29:6a]. Thou fool that shall say, A Bible, we have got a Bible; and we need no more Bible.
+
+12:54 [29:6b]. Have ye obtained a Bible, save it were by the Jews?
+
+12:55 [29:7a]. Know ye not that there are more nations than one?
+
+12:56 [29:7b]. Know ye not that I, the Lord, your God, have created all men, and that I remember those who are upon the isles of the sea, and that I rule in the heavens above and in the earth beneath;
+
+12:57 [29:7c]. And I bring forth my word unto the children of men, yea, even upon all the nations of the earth?
+
+12:58 [29:8a]. Wherefore murmur ye because that ye shall receive more of my word?
+
+12:59 [29:8b]. Know ye not that the testimony of two nations is a witness unto you that I am God, that I remember one nation like unto another?
+
+12:60 [29:8c]. Wherefore, I speak the same words unto one nation like unto another.
+
+12:61 [29:8d]. And when the two nations shall run together, the testimony of the two nations shall run together also.
+
+12:62 [29:9a]. And I do this that I may prove unto many that I am the same yesterday, today, and forever, and that I speak forth my words according to mine own pleasure.
+
+12:63a [29:9b]. And because that I have spoken one word, ye need not suppose that I cannot speak another?
+
+12:63b [29:9c]. For my work is not yet finished, neither shall it be until the end of man, neither from that time henceforth and forever.
+
+12:64 [29:10]. ¶ Wherefore, because that ye have a Bible, ye need not suppose that it contains all my words; neither need ye suppose that I have not caused more to be written;
+
+12:65 [29:11a]. For I command all men, both in the east, and in the west, and in the north, and in the south, and in the islands of the sea that they shall write the words which I speak unto them;
+
+12:66 [29:11b]. For out of the books which shall be written, I will judge the world—every man according to his works, according to that which is written.
+
+12:67 [29:12a]. For behold, I shall speak unto the Jews, and they shall write it;
+
+12:68 [29:12b]. And I shall also speak unto the Nephites, and they shall write it;
+
+12:69 [29:12c]. And I shall also speak unto the other tribes of the house of Israel, which I have led away, and they shall write it;
+
+12:70 [29:12d]. And I shall also speak unto all nations of the earth, and they shall write it.
+
+12:71 [29:13a]. ¶ And it shall come to pass that the Jews shall have the words of the Nephites, and the Nephites shall have the words of the Jews;
+
+12:72 [29:13b]. And the Nephites and the Jews shall have the words of the lost tribes of Israel; and the lost tribes of Israel shall have the words of the Nephites and the Jews.
+
+12:73 [29:14a]. ¶ And it shall come to pass that my people, which are of the house of Israel, shall be gathered home unto the lands of their possessions; and my word also shall be gathered in one.
+
+12:74 [29:14b]. And I will show unto them that fight against my word and against my people, who are of the house of Israel, that I am God and that I covenanted with Abraham that I would remember his seed forever.
+
+subchapter: [OPV Chapter 30]
+
+12:75 [30:1a]. ¶ And now, behold, my beloved brethren, I would speak unto you; for I, Nephi, would not suffer that ye should suppose that ye are more righteous than the Gentiles shall be.
+
+12:76a [30:1b]. For behold, except ye shall keep the commandments of God, ye shall all likewise perish;
+
+12:76b [30:1c]. And because of the words which have been spoken, ye need not suppose that the Gentiles are utterly destroyed.
+
+12:77 [30:2a]. For behold, I say unto you: That as many of the Gentiles as will repent are the covenant people of the Lord; and as many of the Jews as will not repent shall be cast off;
+
+12:78 [30:2b]. For the Lord covenanteth with none, save it be with them that repent and believe in his Son, who is the Holy One of Israel.
+
+12:79 [30:3a]. ¶ And now, I would prophesy somewhat more concerning the Jews and the Gentiles.
+
+12:80 [30:3b]. For after the book of which I have spoken shall come forth, and be written unto the Gentiles, and sealed up again unto the Lord, there shall be many which shall believe the words which are written; and they shall carry them forth unto the remnant of our seed.
+
+12:81 [30:4]. And then shall the remnant of our seed know concerning us, how that we came out from Jerusalem and that they are descendants of the Jews.
+
+12:82a [30:5a]. And the gospel of Jesus Christ shall be declared among them;
+
+12:82b [30:5b]. Wherefore, they shall be restored unto the knowledge of their fathers and also to the knowledge of Jesus Christ, which was had among their fathers.
+
+12:83 [30:6a]. And then shall they rejoice; for they shall know that it is a blessing unto them from the hand of God;
+
+12:84 [30:6b]. And their scales of darkness shall begin to fall from their eyes; and many generations shall not pass away among them, save they shall be a white and a delightsome people.
+
+12:85 [30:7a]. ¶ And it shall come to pass that the Jews which are scattered also shall begin to believe in Christ; and they shall begin to gather in upon the face of the land;
+
+12:86 [30:7b]. And as many as shall believe in Christ shall also become a delightsome people.
+
+12:87 [30:8]. ¶ And it shall come to pass that the Lord God shall commence his work among all nations, kindreds, tongues, and people, to bring about the restoration of his people upon the earth.
+
+12:88 [30:9a]. And with righteousness shall the Lord God judge the poor and reprove with equity, for the meek of the earth.
+
+12:89 [30:9b]. And he shall smite the earth with the rod of his mouth; and with the breath of his lips shall he slay the wicked;
+
+12:90a [30:10a]. For the time speedily cometh that the Lord God shall cause a great division among the people;
+
+12:90b [30:10b]. And the wicked will he destroy; and he will spare his people, yea, even if it so be that he must destroy the wicked by fire.
+
+12:91 [30:11]. And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins.
+
+12:92 [30:12]. And then shall the wolf dwell with the lamb; and the leopard shall lie down with the kid, and the calf, and the young lion, and the fatling, together; and a little child shall lead them.
+
+12:93 [30:13]. And the cow and the bear shall feed; their young ones shall lie down together, and the lion shall eat straw like the ox.
+
+12:94 [30:14]. And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice den.
+
+12:95 [30:15]. They shall not hurt nor destroy in all my holy mountain; for the earth shall be full of the knowledge of the Lord, as the waters cover the sea.
+
+12:96 [30:16]. Wherefore, the things of all nations shall be made known; yea, all things shall be made known unto the children of men.
+
+12:97 [30:17]. There is nothing which is secret, save it shall be revealed; there is no work of darkness, save it shall be made manifest in the light; and there is nothing which is sealed upon the earth, save it shall be loosed.
+
+12:98 [30:18a]. Wherefore, all things which have been revealed unto the children of men shall at that day be revealed;
+
+12:99 [30:19b]. And Satan shall have power over the hearts of the children of men no more, for a long time.
+
+12:100 [30:19c]. And now, my beloved brethren, I must make an end of my sayings.
+
+chapter:  2 Nephi 13
+
+viewer-path: /book-of-mormon-universal/2-nephi/13
+
+chapter-aka: [31 OPV]
+
+subchapter: [OPV Chapter 31]
+
+13:1 [31:1a]. And now, I, Nephi, make an end of my prophesying unto you, my beloved brethren.
+
+13:2 [31:1b]. And I cannot write but a few things, which I know must surely come to pass; neither can I write but a few of the words of my brother Jacob.
+
+13:3a [31:2a]. Wherefore, the things which I have written sufficeth me, save it be a few words which I must speak concerning the doctrine of Christ;
+
+13:3b [31:2b]. Wherefore, I shall speak unto you plainly, according to the plainness of my prophesying.
+
+13:4 [31:3a]. For my soul delighteth in plainness; for after this manner doth the Lord God work among the children of men.
+
+13:5 [31:3b]. For the Lord God giveth light unto the understanding; for he speaketh unto men according to their language, unto their understanding.
+
+13:6 [31:4]. Wherefore, I would that ye should remember that I have spoken unto you concerning that prophet, which the Lord showed unto me, that should baptize the Lamb of God, which should take away the sin of the world.
+
+13:7 [31:5]. ¶ And now, if the Lamb of God, he being holy, should have need to be baptized by water to fulfill all righteousness, O, then, how much more need have we, being unholy, to be baptized, yea, even by water.
+
+13:8a [31:6]. And now, I would ask of you, my beloved brethren, wherein the Lamb of God did fulfill all righteousness in being baptized by water.
+
+13:8b [31:7a]. Know ye not that he was holy?
+
+13:9 [31:7b]. But notwithstanding he being holy, he showeth unto the children of men that according to the flesh, he humbleth himself before the Father and witnesseth unto the Father that he would be obedient unto him in keeping his commandments;
+
+13:10 [31:8]. Wherefore, after he was baptized with water, the Holy Ghost descended upon him in the form of a dove.
+
+13:11 [31:9]. And again, it showeth unto the children of men the straightness of the path and the narrowness of the gate by which they should enter, he having set the example before them.
+
+13:12 [31:10a]. And he said unto the children of men: Follow thou me.
+
+13:13 [31:10b]. Wherefore, my beloved brethren, can we follow Jesus, save we shall be willing to keep the commandments of the Father?
+
+13:14 [31:11]. And the Father said: Repent ye, repent ye, and be baptized in the name of my beloved Son.
+
+13:15 [31:12]. And also, the voice of the Son came unto me, saying: He that is baptized in my name, to him will the Father give the Holy Ghost, like unto me; wherefore, follow me and do the things which ye have seen me do.
+
+13:16a [31:13a]. Wherefore, my beloved brethren, I know that if ye shall follow the Son with full purpose of heart, acting no hypocrisy and no deception before God, but with real intent,
+
+13:16b [31:13b]. Repenting of your sins, witnessing unto the Father that ye are willing to take upon you the name of Christ by baptism,
+
+13:16c [31:13c]. Yea, by following your Lord and your Savior down into the water, according to his word, behold, then shall ye receive the Holy Ghost;
+
+13:17 [31:13d]. Yea, then cometh the baptism of fire and of the Holy Ghost; and then can ye speak with the tongue of angels and shout praises unto the Holy One of Israel.
+
+13:18a [31:14a]. ¶ But behold, my beloved brethren, thus came the voice of the Son unto me, saying:
+
+13:18b [31:14b]. After ye have repented of your sins,
+
+13:18c [31:14c]. And witnessed unto the Father that ye are willing to keep my commandments, by the baptism of water,
+
+13:18d [31:14d]. And have received the baptism of fire and of the Holy Ghost,
+
+13:18e [31:14e]. And can speak with a new tongue, yea, even with the tongue of angels,
+
+13:18f [31:14f]. And after this should deny me, it would have been better for you that ye had not known me.
+
+13:19 [31:15a]. ¶ And I heard a voice from the Father, saying: Yea, the words of my beloved are true and faithful.
+
+13:20 [31:15b]. He that endureth to the end, the same shall be saved.
+
+13:21 [31:16]. And now, my beloved brethren, I know by this, that unless a man shall endure to the end, in following the example of the Son of the living God, he cannot be saved;
+
+13:22[31:17a]. Wherefore, do the things which I have told you I have seen that your Lord and your Redeemer should do;
+
+13:23 [31:17b]. For, for this cause have they been shown unto me, that ye might know the gate by which ye should enter.
+
+13:24 [31:17c]. For the gate by which ye should enter is repentance and baptism by water; and then cometh a remission of your sins by fire and by the Holy Ghost.
+
+13:25 [31:18a]. And then are ye in this straight and narrow path which leads to eternal life; yea, ye have entered in by the gate; ye have done according to the commandments of the Father and the Son;
+
+13:26 [31:18b]. And ye have received the Holy Ghost, which witnesses of the Father and the Son, unto the fulfilling of the promise which he hath made, that if ye enter in by the way, ye should receive.
+
+13:27 [31:19a]. ¶ And now, my beloved brethren, after ye have gotten into this straight and narrow path, I would ask if all is done.
+
+13:28 [31:19b]. Behold, I say unto you: Nay; for ye have not come thus far, save it were by the word of Christ, with unshaken faith in him, relying wholly upon the merits of him who is mighty to save;
+
+13:29 [31:20a]. Wherefore, ye must press forward with a steadfastness in Christ, having a perfect brightness of hope and a love of God and of all men.
+
+13:30 [31:20b]. Wherefore, if ye shall press forward, feasting upon the word of Christ, and endure to the end, behold, thus saith the Father: Ye shall have eternal life.
+
+13:31 [31:21a]. ¶ And now, behold, my beloved brethren, this is the way; and there is none other way nor name given under heaven whereby man can be saved in the kingdom of God.
+
+13:32 [31:21b]. And now, behold, this is the doctrine of Christ and the only and true doctrine of the Father, and of the Son, and of the Holy Ghost, which is one God, without end. Amen.
+
+chapter:  2 Nephi 14
+
+viewer-path: /book-of-mormon-universal/2-nephi/14
+
+chapter-aka: [32 OPV]
+
+subchapter: [OPV Chapter 32]
+
+14:1 [32:1a]. And now, behold, my beloved brethren, I suppose that ye ponder somewhat in your hearts concerning that which ye should do after ye have entered in by the way.
+
+14:2a [32:1b]. But behold, why do ye ponder these things in your hearts?
+
+14:2b [32:2]. Do ye not remember that I said unto you: That after ye had received the Holy Ghost, ye could speak with the tongue of angels?
+
+14:3a [32:2b]. And now, how could ye speak with the tongue of angels, save it were by the Holy Ghost?
+
+14:3b [32:3a]. Angels speak by the power of the Holy Ghost; wherefore, they speak the words of Christ.
+
+14:4 [32:3b]. Wherefore, I said unto you: Feast upon the words of Christ; for behold, the words of Christ will tell you all things what ye should do.
+
+14:5a [32:4a]. Wherefore, now after I have spoken these words, if ye cannot understand them, it will be because ye ask not, neither do ye knock;
+
+14:5b [32:4b]. Wherefore, ye are not brought into the light, but must perish in the dark.
+
+14:6 [32:5]. For behold, again I say unto you: That if ye will enter in by the way and receive the Holy Ghost, it will show unto you all things what ye should do.
+
+14:7 [32:6a]. Behold, this is the doctrine of Christ; and there will be no more doctrine given until after he shall manifest himself unto you in the flesh.
+
+14:8 [32:6b]. And when he shall manifest himself unto you in the flesh, the things which he shall say unto you shall ye observe to do.
+
+14:9a [32:7a]. ¶ And now, I, Nephi, cannot say more; the Spirit stoppeth mine utterance, and I am left to mourn because of the unbelief, and the wickedness, and the ignorance, and the stiffneckedness of men;
+
+14:9b [32:7b]. For they will not search knowledge nor understand great knowledge when it is given unto them in plainness, even as plain as word can be.
+
+14:10 [32:8a]. ¶ And now, my beloved brethren, I perceive that ye ponder still in your hearts; and it grieveth me that I must speak concerning this thing.
+
+14:11 [32:8b]. For if ye would hearken unto the spirit which teacheth a man to pray, ye would know that ye must pray; for the evil spirit teacheth not a man to pray, but teacheth him that he must not pray.
+
+14:12 [32:9]. But behold, I say unto you: That ye must pray always and not faint, that ye must not perform anything unto the Lord, save in the first place ye shall pray unto the Father in the name of Christ that he will consecrate thy performance unto thee, that thy performance may be for the welfare of thy soul.
+
+chapter:  2 Nephi 15
+
+viewer-path: /book-of-mormon-universal/2-nephi/15
+
+chapter-aka: [33 OPV]
+
+subchapter: [OPV Chapter 33]
+
+15:1 [33:1a]. And now, I, Nephi, cannot write all the things which were taught among my people; neither am I mighty in writing, like unto speaking; for when a man speaketh by the power of the Holy Ghost, the power of the Holy Ghost carrieth it unto the hearts of the children of men.
+
+15:1 [33:1b]. For when a man speaketh by the power of the Holy Ghost, the power of the Holy Ghost carrieth it unto the hearts of the children of men.
+
+15:2 [33:2]. But behold, there are many that harden their hearts against the Holy Spirit, that it hath no place in them; wherefore, they cast many things away which are written and esteem them as things of naught.
+
+15:3 [33:3a]. But I, Nephi, have written what I have written; and I esteem it as of great worth, and especially unto my people.
+
+15:4a [33:3b]. For I pray continually for them by day, and mine eyes water my pillow by night because of them;
+
+15:4b [33:3c]. And I cry unto my God in faith, and I know that he will hear my cry;
+
+15:4 [33:4a]. And I know that the Lord God will consecrate my prayers for the gain of my people.
+
+15:5 [33:4b]. And the words which I have written in weakness will he make strong unto them; for it persuadeth them to do good;
+
+15:5 [33:4b]. It maketh known unto them of their fathers; and it speaketh of Jesus and persuadeth them to believe in him and to endure to the end, which is life eternal.
+
+15:6 [33:5]. And it speaketh harsh against sin, according to the plainness of the truth; wherefore, no man will be angry at the words which I have written, save he shall be of the spirit of the devil.
+
+15:7 [33:6]. I glory in plainness; I glory in truth; I glory in my Jesus, for he hath redeemed my soul from hell.
+
+15:8 [33:7]. I have charity for my people and great faith in Christ, that I shall meet many souls spotless at his judgment seat.
+
+15:9a [33:8]. I have charity for the Jew; I say Jew because I mean them from whence I came.
+
+15:9b [33:9a]. I also have charity for the Gentiles.
+
+15:10 [33:9b]. But behold, for none of these can I hope, except they shall be reconciled unto Christ, and enter into the narrow gate, and walk in the straight path which leads to life, and continue in the path until the end of the day of probation.
+
+15:11 [33:10a]. ¶ And now, my beloved brethren, and also Jew, and all ye ends of the earth, hearken unto these words and believe in Christ; and if ye believe not in these words, believe in Christ.
+
+15:12 [33:10b]. And if ye shall believe in Christ, ye will believe in these words; for they are the words of Christ, and he hath given them unto me; and they teach all men that they should do good.
+
+15:13 [33:11a]. And if they are not the words of Christ, judge ye; for Christ will show unto you, with power and great glory, that they are his words, at the last day.
+
+15:14 [33:11b]. And you and I shall stand face to face before his bar; and ye shall know that I have been commanded of him to write these things, notwithstanding my weakness.
+
+15:15 [33:12]. And I pray the Father in the name of Christ that many of us, if not all, may be saved in his kingdom at that great and last day.
+
+15:16 [33:13]. ¶ And now, my beloved brethren, all those who are of the house of Israel and all ye ends of the earth, I speak unto you, as the voice of one crying from the dust: Farewell until that great day shall come.
+
+15:17 [33:14]. And you that will not partake of the goodness of God and respect the words of the Jews, and also my words, and the words which shall proceed forth out of the mouth of the Lamb of God, behold, I bid you an everlasting farewell, for these words shall condemn you at the last day;
+
+15:18 [33:15]. For what I seal on earth shall be brought against you at the judgment bar; for thus hath the Lord commanded me, and I must obey. Amen.

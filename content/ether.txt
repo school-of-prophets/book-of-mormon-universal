@@ -1,0 +1,1335 @@
+book: The Book of Ether
+
+book-sum: Moroni's abridgment of the twenty-four plates of Ether
+
+viewer-path: /book-of-mormon-universal/ether/
+
+
+chapter: Ether 1
+
+viewer-path: /book-of-mormon-universal/ether/1
+
+chapter-aka: [1-4 OPV]
+
+subchapter: [OPV Chapter 1]
+
+1:1 [1:1]. And now, I, Moroni, proceed to give an account of those ancient inhabitants who were destroyed by the hand of the Lord upon the face of this north country.
+
+1:2 [1:2]. And I take mine account from the twenty and four plates which were found by the people of Limhi, which is called the book of Ether.
+
+1:3 [1:3]. And as I suppose that the first part of this record, which speaks concerning the creation of the world, and also of Adam, and an account from that time even to the great tower, and whatsoever things transpired among the children of men until that time, is had among the Jews,
+
+1:4 [1:4]. Therefore, I do not write those things which transpired from the days of Adam until that time; but they are had upon the plates; and whoso findeth them, the same will have power that he may get the full account.
+
+1:5a [1:5]. But behold, I give not the full account; but a part of the account I give, from the tower down until they were destroyed.
+
+1:5b [1:6a]. And on this wise do I give the account.
+
+1:6a [1:6b]. He that wrote this record was Ether, and he was a descendant of Coriantor;
+
+1:6b [1:7]. And Coriantor was the son of Moron;
+
+1:6c [1:8]. And Moron was the son of Ethem;
+
+1:6d [1:9]. And Ethem was the son of Ahah;
+
+1:6e [1:10]. And Ahah was the son of Seth;
+
+1:6f [1:11]. And Seth was the son of Shiblon;
+
+1:6g [1:12]. And Shiblon was the son of Com;
+
+1:6h [1:13]. And Com was the son of Coriantum;
+
+1:6i [1:14]. And Coriantum was the son of Amnigaddah;
+
+1:6j [1:15]. And Amnigaddah was the son of Aaron;
+
+1:6k [1:16]. And Aaron was a descendant of Heth, who was the son of Hearthom;
+
+1:6l [1:17]. And Hearthom was the son of Lib;
+
+1:6m [1:18]. And Lib was the son of Kish;
+
+1:6n [1:19]. And Kish was the son of Corum;
+
+1:6o [1:20]. And Corum was the son of Levi;
+
+1:6p [1:21]. And Levi was the son of Kim;
+
+1:6q [1:22]. And Kim was the son of Morianton;
+
+1:6r [1:23]. And Morianton was a descendant of Riplakish;
+
+1:6s [1:24]. And Riplakish was the son of Shez;
+
+1:6t [1:25]. And Shez was the son of Heth;
+
+1:6u [1:26]. And Heth was the son of Com;
+
+1:6v [1:27]. And Com was the son of Coriantum;
+
+1:6w [1:28]. And Coriantum was the son of Emer;
+
+1:6x [1:29]. And Emer was the son of Omer;
+
+1:6y [1:30]. And Omer was the son of Shule;
+
+1:6z [1:31]. And Shule was the son of Kib; 1:6aa [1:32] And Kib was the son of Orihah, who was the son of Jared;
+
+1:7a [1:33a]. Which Jared came forth with his brother and their families, with some others and their families, from the great tower at the time the Lord confounded the language of the people and sware in his wrath that they should be scattered upon all the face of the earth;
+
+1:7b [1:33b]. And according to the word of the Lord, the people were scattered.
+
+1:8 [1:34]. And the Brother of Jared, being a large and a mighty man, and being a man highly favored of the Lord; for Jared, his brother, said unto him, Cry unto the Lord that he will not confound us, that we may not understand our words.
+
+1:9a [1:35a]. And it came to pass that the Brother of Jared did cry unto the Lord, and the Lord had compassion upon Jared; therefore, he did not confound the language of Jared;
+
+1:9b [1:35b]. And Jared and his brother were not confounded.
+
+1:10 [1:36]. Then Jared said unto his brother, Cry again unto the Lord, and it may be that he will turn away his anger from them who are our friends, that he confound not their language.
+
+1:11 [1:37]. And it came to pass that the Brother of Jared did cry unto the Lord; and the Lord had compassion upon their friends and their families also, that they were not confounded.
+
+1:12 [1:38a]. And it came to pass that Jared spake again unto his brother, saying, Go and inquire of the Lord whether he will drive us out of the land; and if he will drive us out of the land, cry unto him whither we shall go.
+
+1:13 [1:38b]. And who knoweth but the Lord will carry us forth into a land which is choice above all the earth.
+
+1:14 [1:38c]. And if it so be, let us be faithful unto the Lord, that we may receive it for our inheritance.
+
+1:15 [1:39]. ¶ And it came to pass that the Brother of Jared did cry unto the Lord according to that which had been spoken by the mouth of Jared.
+
+1:16a [1:40]. And it came to pass that the Lord did hear the Brother of Jared, and had compassion upon him, and said unto him:
+
+1:16b [1:41]. Go to and gather together thy flocks, both male and female of every kind; and also of the seed of the earth of every kind; and thy family, and also Jared, thy brother, and his family, and also thy friends and their families, and the friends of Jared and their families.
+
+1:17 [1:42a]. And when thou hast done this, thou shalt go at the head of them down into the valley which is northward.
+
+1:18 [1:42b]. And there will I meet thee, and I will go before thee into a land which is choice above all the land of the earth.
+
+1:19 [1:43a]. And there will I bless thee and thy seed and raise up unto me of thy seed, and of the seed of thy brother, and they who shall go with thee, a great nation.
+
+1:20 [1:43b]. And there shall be none greater than the nation which I will raise up unto me of thy seed upon all the face of the earth.
+
+1:21 [1:43c]. And this I will do unto thee because this long time ye have cried unto me.
+
+subchapter: [OPV Chapter 2]
+
+1:22 [2:1]. ¶ And it came to pass that Jared, and his brother, and their families, and also the friends of Jared and his brother, and their families went down into the valley which was northward (and the name of the valley was Nimrod, being called after the mighty hunter) with their flocks which they had gathered together, male and female of every kind.
+
+1:23 [2:2]. And they did also lay snares and catch fowls of the air, and they did also prepare a vessel in which they did carry with them the fish of the waters;
+
+1:24 [2:3]. And they did also carry with them deseret, which by interpretation is a honey bee; and thus they did carry with them swarms of bees, and all manner of that which was upon the face of the land—seeds of every kind.
+
+1:25 [2:4]. And it came to pass that when they had come down into the valley of Nimrod, the Lord came down and talked with the Brother of Jared; and he was in a cloud, and the Brother of Jared saw him not.
+
+1:26 [2:5a]. And it came to pass that the Lord commanded them that they should go forth into the wilderness, yea, into that quarter where there never had man been.
+
+1:27 [2:5b]. And it came to pass that the Lord did go before them, and did talk with them as he stood in a cloud, and gave directions whither they should travel.
+
+1:28 [2:6]. And it came to pass that they did travel in the wilderness and did build barges in which they did cross many waters, being directed continually by the hand of the Lord.
+
+1:29a [2:7a]. And the Lord would not suffer that they should stop beyond the sea in the wilderness,
+
+1:29b [2:7b]. But he would that they should come forth even unto the land of promise, which was choice above all other lands, which the Lord God had preserved for a righteous people;
+
+1:30 [2:8]. And he had sworn in his wrath unto the Brother of Jared that whoso should possess this land of promise, from that time henceforth and forever, should serve him, the true and only God, or they should be swept off when the fullness of his wrath should come upon them.
+
+1:31a [2:9a]. And now, we can behold the decrees of God concerning this land: that it is a land of promise;
+
+1:31b [2:9b]. And whatsoever nation shall possess it shall serve God, or they shall be swept off when the fullness of his wrath shall come upon them.
+
+1:32a [2:9c]. And the fullness of his wrath cometh upon them when they are ripened in iniquity;
+
+1:32b [2:10a]. For behold, this is a land which is choice above all other lands; wherefore, he that doth possess it shall serve God or shall be swept off; for it is the everlasting decree of God.
+
+1:33 [2:10b]. And it is not until the fullness of iniquity among the children of the land, that they are swept off.
+
+1:34a [2:11a]. And this cometh unto you, O ye Gentiles, that ye may know the decrees of God,
+
+1:34b [2:11b]. That ye may repent and not continue in your iniquities until the fullness come,
+
+1:34c [2:11c]. That ye may not bring down the fullness of the wrath of God upon you as the inhabitants of the land have hitherto done.
+
+1:35 [2:12]. Behold, this is a choice land; and whatsoever nation shall possess it shall be free from bondage, and from captivity, and from all other nations under heaven, if they will but serve the God of the land, who is Jesus Christ, who hath been manifested by the things which we have written.
+
+1:36 [2:13a]. And now, I proceed with my record; for behold, it came to pass that the Lord did bring Jared and his brethren forth even to that great sea which divideth the lands.
+
+1:37a [2:13b]. And as they came to the sea, they pitched their tents; and they called the name of the place Moriancumer;
+
+1:37b [2:13c]. And they dwelt in tents; and dwelt in tents upon the seashore for the space of four years.
+
+1:38 [2:14a]. And it came to pass at the end of four years that the Lord came again unto the Brother of Jared, and stood in a cloud, and talked with him.
+
+1:39 [2:14b]. And for the space of three hours did the Lord talk with the Brother of Jared and chastened him because he remembered not to call upon the name of the Lord.
+
+1:40 [2:15a]. And the Brother of Jared repented of the evil which he had done and did call upon the name of the Lord for his brethren who were with him.
+
+1:41a [2:15b]. And the Lord said unto him, I will forgive thee and thy brethren of their sins; but thou shalt not sin any more, for ye shall remember that my Spirit will not always strive with man;
+
+1:41b [2:15c]. Wherefore, if ye will sin until ye are fully ripe, ye shall be cut off from the presence of the Lord.
+
+1:42[2:15d]. And these are my thoughts upon the land which I shall give you for your inheritance; for it shall be a land choice above all other lands.
+
+1:43 [2:16a]. And the Lord said, Go to work, and build after the manner of barges which ye have hitherto built.
+
+1:44 [2:16b]. And it came to pass that the Brother of Jared did go to work, and also his brethren, and built barges after the manner which they had built according to the instructions of the Lord.
+
+1:45a [2:16c]. And they were small, and they were light upon the water, even like unto the lightness of a fowl upon the water;
+
+1:45b [2:17a]. And they were built after a manner that they were exceeding tight, even that they would hold water like unto a dish;
+
+1:46a [2:17b]. And the bottom thereof was tight like unto a dish; and the sides thereof were tight like unto a dish; and the ends thereof were peaked; and the top thereof was tight like unto a dish;
+
+1:46b [2:17c]. And the length thereof was the length of a tree; and the door thereof, when it was shut, was tight like unto a dish.
+
+1:47 [2:18]. And it came to pass that the Brother of Jared cried unto the Lord, saying, O Lord, I have performed the work which thou hast commanded me, and I have made the barges according as thou hast directed me.
+
+1:48 [2:19a]. And behold, O Lord, in them there is no light. Whither shall we steer?
+
+1:49 [2:19b]. And also we shall perish, for in them we cannot breathe, save it is the air which is in them; therefore, we shall perish.
+
+1:50 [2:20a]. And the Lord said unto the Brother of Jared, Behold, thou shalt make a hole in the top thereof and also in the bottom thereof; and when thou shalt suffer for air, thou shalt unstop the hole thereof and receive air.
+
+1:51 [2:21b]. And if it so be that the water come in upon thee, behold, ye shall stop the hole thereof, that ye may not perish in the flood.
+
+1:52 [2:22a]. And it came to pass that the Brother of Jared did so according as the Lord had commanded.
+
+1:53 [2:22b]. And he cried again unto the Lord, saying, O Lord, behold, I have done even as thou hast commanded me; and I have prepared the vessels for my people, and behold, there is no light in them.
+
+1:54 [2:22c]. Behold, O Lord, wilt thou suffer that we shall cross this great water in darkness?
+
+1:55 [2:23a]. And the Lord said unto the Brother of Jared, What will ye that I should do that ye may have light in your vessels?
+
+1:56a [2:23b]. For behold, ye cannot have windows, for they will be dashed in pieces; neither shall ye take fire with you, for ye shall not go by the light of fire;
+
+1:56b [2:24a]. For behold, ye shall be as a whale in the midst of the sea; for the mountain waves shall dash upon you.
+
+1:57 [2:24b]. Nevertheless, I will bring you up again out of the depths of the sea; for the winds have gone forth out of my mouth, and also the rains and the floods have I sent forth.
+
+1:58 [2:25a]. And behold, I prepare you against these things; for howbeit, ye cannot cross this great deep, save I prepare you against the waves of the sea, and the winds which have gone forth, and the floods which shall come.
+
+1:59 [2:25b]. Therefore, what will ye that I should prepare for you, that ye may have light when ye are swallowed up in the depths of the sea?
+
+subchapter: [OPV Chapter 3]
+
+1:60 [3:1a]. ¶ And it came to pass that the Brother of Jared (now the number of the vessels which had been prepared was eight) went forth unto the mount, which they called the Mount Shelem because of its exceeding height, and did molten out of a rock sixteen small stones;
+
+1:61a [3:1b]. And they were white and clear, even as transparent glass, and he did carry them in his hands upon the top of the mount and cried again unto the Lord, saying:
+
+1:61b [3:2a]. O Lord, thou hast said that we must be encompassed about by the floods.
+
+1:62 [3:2b]. Now behold, O Lord, and do not be angry with thy servant because of his weakness before thee; for we know that thou art holy and dwellest in the heavens and that we are unworthy before thee;
+
+1:63 [3:2c]. Because of the fall, our natures have become evil continually; nevertheless, O Lord, thou hast given us a commandment that we must call upon thee, that from thee we may receive according to our desires.
+
+1:64 [3:3a]. Behold, O Lord, thou hast smitten us because of our iniquity and hath driven us forth; and for this many years we have been in the wilderness; nevertheless, thou hast been merciful unto us.
+
+1:65 [3:3b]. O Lord, look upon me in pity, and turn away thine anger from this thy people, and suffer not that they shall go forth across this raging deep in darkness, but behold these things which I have molten out of the rock.
+
+1:66a [3:4a]. And I know, O Lord, that thou hast all power and can do whatsoever thou wilt for the benefit of man;
+
+1:66b [3:4b]. Therefore, touch these stones, O Lord, with thy finger and prepare them that they may shine forth in darkness;
+
+1:66c [3:4c]. And they shall shine forth unto us in the vessels which we have prepared, that we may have light while we shall cross the sea.
+
+1:67a [3:5a]. Behold, O Lord, thou canst do this.
+
+1:67b [3:5b]. We know that thou art able to show forth great power, which looks small unto the understanding of men.
+
+1:68 [3:6a]. And it came to pass that when the Brother of Jared had said these words, behold, the Lord stretched forth his hand and touched the stones, one by one, with his finger;
+
+1:69a [3:6b]. And the veil was taken from off the eyes of the Brother of Jared, and he saw the finger of the Lord; and it was as the finger of a man, like unto flesh and blood.
+
+1:69b [3:6c]. And the Brother of Jared fell down before the Lord, for he was struck with fear.
+
+1:70a [3:7a]. And the Lord saw that the Brother of Jared had fallen to the earth;
+
+1:70b [3:7b]. And the Lord said unto him: Arise, why hast thou fallen?
+
+1:71 [3:8]. And he saith unto the Lord, I saw the finger of the Lord, and I feared lest he should smite me; for I knew not that the Lord had flesh and blood.
+
+1:72a [3:9a]. And the Lord said unto him, Because of thy faith, thou hast seen that I shall take upon me flesh and blood;
+
+1:72b [3:9b]. And never has man come before me with such exceeding faith as thou hast; for were it not so, ye could not have seen my finger.
+
+1:72c [3:9c]. Sawest thou more than this?
+
+1:73 [3:10]. And he answered: Nay, Lord. Show thyself unto me.
+
+1:74 [3:11]. And the Lord said unto him, Believest thou the words which I shall speak?
+
+1:75 [3:12]. And he answered, Yea, Lord, I know that thou speakest the truth, for thou art a God of truth and canst not lie.
+
+1:76a [3:13a]. And when he had said these words, behold, the Lord showed himself unto him and said: Because thou knowest these things, ye are redeemed from the fall;
+
+1:76b [3:13b]. Therefore, ye are brought back into my presence; therefore, I show myself unto you.
+
+1:77a [3:14a]. Behold, I am he who was prepared from the foundation of the world to redeem my people.
+
+1:77b [3:14b]. Behold, I am Jesus Christ. I am the Father and the Son.
+
+1:78 [3:14c]. In me shall all mankind have life, and that eternally, even they who shall believe on my name; and they shall become my sons and my daughters.
+
+1:79 [3:15a]. And never have I showed myself unto man whom I have created, for never has man believed in me as thou hast.
+
+1:80a [3:15b]. Seest thou that ye are created after mine own image?
+
+1:80b [3:15c]. Yea, even all men were created in the beginning after mine own image.
+
+1:81a [3:16a]. Behold, this body, which ye now behold, is the body of my Spirit; and man have I created after the body of my Spirit;
+
+1:81b [3:16b]. And even as I appear unto thee to be in the spirit, will I appear unto my people in the flesh.
+
+1:82a [3:17a]. ¶ And now, as I, Moroni, said, I could not make a full account of these things which are written;
+
+1:82b [3:17b]. Therefore, it sufficeth me to say that Jesus showed himself unto this man in the spirit, even after the manner and in the likeness of the same body, even as he showed himself unto the Nephites;
+
+1:83 [3:18]. And he ministered unto him, even as he ministered unto the Nephites;
+
+1:83 [3:18]. And all this, that this man knew that he was God because of the many great works which the Lord had showed unto him.
+
+1:84a [3:19a]. And because of the knowledge of this man, he could not be kept from beholding within the veil;
+
+1:84b [3:19b]. And he saw the finger of Jesus, which when he saw, he fell with fear; for he knew that it was the finger of the Lord;
+
+1:85a [3:19c]. And he had faith no longer, for he knew, nothing doubting;
+
+1:85b [3:20]. Wherefore, having this perfect knowledge of God, he could not be kept from within the veil; therefore, he saw Jesus, and he did minister unto him.
+
+1:86a [3:21a]. ¶ And it came to pass that the Lord said unto the Brother of Jared: Behold, thou shalt not suffer these things which ye have seen and heard to go forth unto the world until the time cometh that I shall glorify my name in the flesh;
+
+1:86b [3:21b]. Wherefore, ye shall treasure up the things which ye have seen and heard and show it to no man.
+
+1:87 [3:22]. And behold, when ye shall come unto me, ye shall write them and shall seal them up, that no one can interpret them; for ye shall write them in a language that they cannot be read.
+
+1:88 [3:23]. And behold, these two stones will I give unto thee, and ye shall seal them up also with the things which ye shall write.
+
+1:89 [3:24]. For behold, the language which ye shall write I have confounded; wherefore, I will cause in mine own due time that these stones shall magnify to the eyes of men these things which ye shall write.
+
+1:90 [3:25]. And when the Lord had said these words, he showed unto the Brother of Jared all the inhabitants of the earth which had been, and also all that would be; and the Lord withheld them not from his sight, even unto the ends of the earth;
+
+1:91a [3:26a]. For the Lord had said unto him in times before that if he would believe in him that he could show unto him all things—it should be shown unto him;
+
+1:91b [3:26b]. Therefore, the Lord could not withhold anything from him; for he knew that the Lord could show him all things.
+
+1:92 [3:27]. And the Lord said unto him, Write these things and seal them up, and I will show them in mine own due time unto the children of men.
+
+1:93 [3:28]. ¶ And it came to pass that the Lord commanded him that he should seal up the two stones which he had received and show them not until the Lord should show them unto the children of men.
+
+subchapter: [OPV Chapter 4]
+
+1:94 [4:1a]. And the Lord commanded the Brother of Jared to go down out of the mount from the presence of the Lord and write the things which he had seen; and they were forbidden to come unto the children of men until after that he should be lifted up upon the cross;
+
+1:95 [4:1b]. And for this cause did king Benjamin{a} keep them, that they should not come unto the world until after Christ should show himself unto his people.
+[a] “King Benjamin” was been changed to “King Mosiah” in the 1837 edition of the Book of Mormon.
+
+1:96 [4:2]. And after Christ truly had showed himself unto his people, he commanded that they should be made manifest.
+
+1:97 [4:3]. And now, after that they have all dwindled in unbelief, and there is none save it be the Lamanites, and they have rejected the gospel of Christ, therefore, I am commanded that I should hide them up again in the earth.
+
+1:98a [4:4]. Behold, I have written upon these plates the very things which the Brother of Jared saw; and there never were greater things made manifest than that which was made manifest unto the Brother of Jared;
+
+1:98b [4:5a]. Wherefore, the Lord hath commanded me to write them; and I have written them.
+
+1:99 [4:5b]. And he commanded me that I should seal them up; and he also hath commanded that I should seal up the interpretation thereof;
+
+1:99 [4:5b]. Wherefore, I have sealed up the interpreters according to the commandment of the Lord.
+
+1:100 [4:6]. For the Lord said unto me, They shall not go forth unto the Gentiles until the day that they shall repent of their iniquity and become clean before the Lord;
+
+1:101 [4:7]. And in that day that they shall exercise faith in me, saith the Lord, even as the Brother of Jared did, that they may become sanctified in me, then will I manifest unto them the things which the Brother of Jared saw, even to the unfolding unto them all my revelations, saith Jesus Christ, the Son of God, the Father of the heavens, and of the earth, and all things that in them are.
+
+1:102 [4:8]. And he that will contend against the word of the Lord, let him be accursed; and he that shall deny these things, let him be accursed; for unto them will I show no greater things, saith Jesus Christ, for I am he who speaketh;
+
+1:103 [4:9]. And at my command the heavens are opened and are shut; and at my word the earth shall shake; and at my command the inhabitants thereof shall pass away, even so as by fire.
+
+1:104 [4:10]. And he that believeth not my words believeth not my disciples; and if it so be that I do not speak, judge ye; for ye shall know that it is I that speaketh at the last day.
+
+1:105 [4:11a]. But he that believeth these things which I have spoken, him will I visit with the manifestations of my Spirit; and he shall know and bear record.
+
+1:106 [4:11b]. For because of my Spirit, he shall know that these things are true, for it persuadeth men to do good;
+
+1:106 [4:12a]. And whatsoever thing persuadeth men to do good is of me; for good cometh of none, save it be of me.
+
+1:107 [4:12b]. I am the same that leadeth men to all good; he that will not believe my words will not believe me, that I am; and he that will not believe me will not believe the Father who sent me.
+
+1:108 [4:12c]. For behold, I am the Father; I am the light, and the life, and the truth of the world.
+
+1:109 [4:13]. Come unto me, O ye Gentiles, and I will show unto you the greater things, the knowledge which is hid up because of unbelief.
+
+1:110 [4:14]. Come unto me, O ye house of Israel, and it shall be made manifest unto you how great things the Father hath laid up for you from the foundation of the world; and it hath not come unto you because of unbelief.
+
+1:111 [4:15a]. Behold, when ye shall rend that veil of unbelief which doth cause you to remain in your awful state of wickedness, and hardness of heart, and blindness of mind, then shall the great and marvelous things which have been hid up from the foundation of the world from you;
+
+1:112 [4:15b]. Yea, when ye shall call upon the Father in my name, with a broken heart and a contrite spirit, then shall ye know that the Father hath remembered the covenant which he made unto your fathers, O house of Israel;
+
+1:113 [4:16a]. And then shall my revelations which I have caused to be written by my servant John be unfolded in the eyes of all the people.
+
+1:114 [4:16b]. Remember, when ye see these things, ye shall know that the time is at hand that they shall be made manifest in very deed;
+
+1:114 [4:17]. Therefore, when ye shall receive this record, ye may know that the work of the Father has commenced upon all the face of the land.
+
+1:115a [4:18a]. Therefore, repent, all ye ends of the earth, and come unto me, and believe in my gospel, and be baptized in my name;
+
+1:115b [4:18b]. For he that believeth and is baptized shall be saved; but he that believeth not shall be damned;
+
+1:115c [4:18c]. And signs shall follow them that believe in my name.
+
+1:116 [4:19a]. And blessed is he that is found faithful unto my name at the last day, for he shall be lifted up to dwell in the kingdom prepared for him from the foundation of the world.
+
+1:117 [4:19b]. And behold, it is I that hath spoken it. Amen. 
+
+chapter:  Ether 2
+
+viewer-path: /book-of-mormon-universal/ether/2
+
+chapter-aka: [5 OPV]
+
+subchapter: [OPV Chapter 5]
+
+2:1 [5:1]. And now, I, Moroni, have written the words which were commanded me, according to my memory; and I have told you the things which I have sealed up; therefore, touch them not in order that ye may translate; for that thing is forbidden you, except by and by it shall be wisdom in God.
+
+2:2a [5:2]. And behold, ye may be privileged that ye may show the plates unto those who shall assist to bring forth this work;
+
+2:2b [5:3]. And unto three shall they be shown by the power of God; wherefore, they shall know of a surety that these things are true.
+
+2:3a [5:4a]. And in the mouth of three witnesses shall these things be established;
+
+2:3b [5:4b]. And the testimony of three and this work, in the which shall be shown forth the power of God and also his word, of which the Father, and the Son, and the Holy Ghost bear record;
+
+2:3c [5:4c]. And all this shall stand as a testimony against the world at the last day.
+
+2:4 [5:5]. And if it so be that they repent and come unto the Father in the name of Jesus, they shall be received into the kingdom of God.
+
+2:5 [5:6]. And now, if I have no authority for these things, judge ye; for ye shall know that I have authority when ye shall see me and we shall stand before God at the last day. Amen.
+
+chapter:  Ether 3
+
+viewer-path: /book-of-mormon-universal/ether/3
+
+chapter-aka: [6-8 OPV]
+
+subchapter: [OPV Chapter 6]
+
+3:1 [6:1]. And now, I, Moroni, proceed to give the record of Jared and his brother:
+
+3:2a [6:2a]. For it came to pass after the Lord had prepared the stones which the Brother of Jared had carried up into the mount, the Brother of Jared came down out of the mount;
+
+3:2b [6:2b]. And he did put forth the stones into the vessels which were prepared, one in each end thereof; and behold, they did give light unto the vessels thereof.
+
+3:3 [6:3]. And thus the Lord caused stones to shine in darkness to give light unto men, women, and children, that they might not cross the great waters in darkness.
+
+3:4 [6:4a]. ¶ And it came to pass that they prepared all manner of food, that thereby they might subsist upon the water, and also food for their flocks and herds, and whatsoever beast, or animal, or fowl that they should carry with them.
+
+3:5 [6:4b]. And it came to pass that when they had done all these things, they got aboard their vessels, or barges, and set forth into the sea, commending themselves unto the Lord, their God.
+
+3:6 [6:5]. And it came to pass that the Lord God caused that there should a furious wind blow upon the face of the waters towards the promised land; and thus they were tossed upon the waves of the sea before the wind.
+
+3:7 [6:6]. And it came to pass that they were many times buried in the depths of the sea because of the mountain waves which broke upon them, and also the great and terrible tempests which were caused by the fierceness of the wind.
+
+3:8 [6:7a]. ¶ And it came to pass that when they were buried in the deep, there was no water that could hurt them, their vessels being tight like unto a dish, and also they were tight like unto the ark of Noah;
+
+3:9 [6:7b]. Therefore, when they were encompassed about by many waters, they did cry unto the Lord; and he did bring them forth again upon the top of the waters.
+
+3:10 [6:8]. And it came to pass that the wind did never cease to blow towards the promised land while they were upon the waters; and thus they were driven forth before the wind;
+
+3:11 [6:9]. And they did sing praises unto the Lord; yea, the Brother of Jared did sing praises unto the Lord, and he did thank and praise the Lord all the day long; and when the night came, they did not cease to praise the Lord.
+
+3:12 [6:10]. And thus they were driven forth; and no monster of the sea could break them, neither whale that could mar them; and they did have light continually, whether it was above the water or under the water.
+
+3:13a [6:11]. And thus they were driven forth, three hundred and forty and four days upon the water;
+
+3:13b [6:12a]. And they did land upon the shore of the promised land.
+
+3:14 [6:12b]. And when they had set their feet upon the shores of the promised land, they bowed themselves down upon the face of the land, and did humble themselves before the Lord, and did shed tears of joy before the Lord because of the multitude of his tender mercies over them.
+
+3:15 [6:13]. ¶ And it came to pass that they went forth upon the face of the land and began to till the earth.
+
+3:16 [6:14]. And Jared had four sons; and they were called Jacom, and Gilgah, and Mahah, and Orihah.
+
+3:17 [6:15]. And the Brother of Jared also begat sons and daughters.
+
+3:18a [6:16a]. And the friends of Jared and his brother were in number about twenty and two souls;
+
+3:18b [6:16b]. And they also begat sons and daughters before they came to the promised land; and therefore, they began to be many.
+
+3:19 [6:17]. And they were taught to walk humbly before the Lord; and they were also taught from on high.
+
+3:20 [6:18]. ¶ And it came to pass that they began to spread upon the face of the land, and to multiply, and to till the earth; and they did wax strong in the land.
+
+3:21 [6:19]. And the Brother of Jared began to be old and saw that he must soon go down to the grave; wherefore, he said unto Jared, Let us gather together our people, that we may number them, that we may know of them what they will desire of us before we go down to our graves.
+
+3:22 [6:20a]. And accordingly the people were gathered together.
+
+3:23 [6:20b]. Now the number of the sons and the daughters of the Brother of Jared were twenty and two souls; and the number of the sons and daughters of Jared were twelve, he having four sons.
+
+3:24 [6:21]. And it came to pass that they did number their people; and after that they had numbered them, they did desire of them the things which they would that they should do before they went down to their graves.
+
+3:25 [6:22]. And it came to pass that the people desired of them that they should anoint one of their sons to be a king over them.
+
+3:26 [6:23a]. And now, behold, this was grievous unto them.
+
+3:27 [6:23b]. But the Brother of Jared said unto them, Surely, this thing leadeth into captivity.
+
+3:28a [6:24a]. But Jared said unto his brother, Suffer them that they may have a king.
+
+3:28b [6:24b]. And therefore, he said unto them, Choose ye out from among our sons a king, even whom ye will.
+
+3:29 [6:25a]. ¶ And it came to pass that they chose even the firstborn of the Brother of Jared; and his name was Pagag.
+
+3:30 [6:25b]. And it came to pass that he refused and would not be their king.
+
+3:31 [6:25c]. And the people would that his father should constrain him; but his father would not; and he commanded them that they should constrain no man to be their king.
+
+3:32 [6:26]. And it came to pass that they chose all the brothers of Pagag, and they would not.
+
+3:33 [6:27]. And it came to pass that neither would the sons of Jared, even all, save it were one; and Orihah was anointed to be king over the people.
+
+3:34 [6:28]. And he began to reign, and the people began to prosper; and they became exceeding rich.
+
+3:35 [6:29]. And it came to pass that Jared died and his brother also.
+
+3:36 [6:30]. And it came to pass that Orihah did walk humbly before the Lord, and did remember how great things the Lord had done for his father, and also taught his people how great things the Lord had done for their fathers.
+
+subchapter: [OPV Chapter 7]
+
+3:37 [7:1]. ¶ And it came to pass that Orihah did execute judgment upon the land in righteousness all his days, whose days were exceeding many.
+
+3:38 [7:2]. And he begat sons and daughters, yea, he begat thirty and one, among whom were twenty and three sons.
+
+3:39 [7:3a]. And it came to pass that he also begat Kib in his old age.
+
+3:40 [7:3b]. And it came to pass that Kib reigned in his stead; and Kib begat Corihor.
+
+3:41 [7:4]. And when Corihor was thirty and two years old, he rebelled against his father and went over and dwelt in the land of Nehor; and he begat sons and daughters; and they became exceeding fair; wherefore, Corihor drew away many people after him.
+
+3:42 [7:5]. And when he had gathered together an army, he came up unto the land of Moron, where the king dwelt, and took him captive, which brought to pass the saying of the Brother of Jared that they would be brought into captivity.
+
+3:43 [7:6]. Now the land of Moron, where the king dwelt, was near the land which is called Desolation by the Nephites.
+
+3:44 [7:7]. And it came to pass that Kib dwelt in captivity, and his people, under Corihor, his son, until he became exceeding old; nevertheless, Kib begat Shule in his old age, while he was yet in captivity.
+
+3:45 [7:8]. ¶ And it came to pass that Shule was angry with his brother; and Shule waxed strong and became mighty as to the strength of a man; and he was also mighty in judgment.
+
+3:46a [7:9a]. Wherefore, he came to the hill Ephraim, and he did molten out of the hill and made swords out of steel for those whom he had drawn away with him;
+
+3:46b [7:9b]. And after he had armed them with swords, he returned to the city Nehor and gave battle unto his brother Corihor, by which means he obtained the kingdom and restored it unto his father Kib.
+
+3:47 [7:10]. And now, because of the thing which Shule had done, his father bestowed upon him the kingdom; therefore, he began to reign in the stead of his father.
+
+3:48 [7:11]. And it came to pass that he did execute judgment in righteousness; and he did spread his kingdom upon all the face of the land, for the people had become exceeding numerous.
+
+3:49 [7:12]. And it came to pass that Shule also begat many sons and daughters.
+
+3:50 [7:13]. And Corihor repented of the many evils which he had done; wherefore, Shule gave him power in his kingdom.
+
+3:51 [7:14a]. And it came to pass that Corihor had many sons and daughters.
+
+3:52 [7:14b]. And among the sons of Corihor there was one whose name was Noah.
+
+3:53 [7:15]. ¶ And it came to pass that Noah rebelled against Shule, the king, and also his father Corihor, and drew away Cohor, his brother, and also all his brethren, and many of the people.
+
+3:54 [7:16]. And he gave battle unto Shule, the king, in which he did obtain the land of their first inheritance; and he became a king over that part of the land.
+
+3:55 [7:17]. And it came to pass that he gave battle again unto Shule, the king; and he took Shule, the king, and carried him away captive into Moron.
+
+3:56a [7:18]. And it came to pass as he was about to put him to death, the sons of Shule crept into the house of Noah by night, and slew him, and broke down the door of the prison, and brought out their father, and placed him upon his throne in his own kingdom;
+
+3:56b [7:19a]. Wherefore, the son of Noah did build up his kingdom in his stead;
+
+3:57 [7:19b]. Nevertheless, they did not gain power any more over Shule, the king; and the people who were under the reign of Shule, the king, did prosper exceedingly and wax great.
+
+3:58 [7:20]. And the country was divided; and there were two kingdoms, the kingdom of Shule and the kingdom of Cohor, the son of Noah.
+
+3:59 [7:21]. And Cohor, the son of Noah, caused that his people should give battle unto Shule, in which Shule did beat them and did slay Cohor.
+
+3:60a [7:22a]. And now, Cohor had a son who was called Nimrod; and Nimrod gave up the kingdom of Cohor unto Shule, and he did gain favor in the eyes of Shule;
+
+3:60b [7:22b]. Wherefore, Shule did bestow great favors upon him; and he did do in the kingdom of Shule according to his desires;
+
+3:61 [7:23]. And also in the reign of Shule there came prophets among the people, who were sent from the Lord, prophesying that the wickedness and idolatry of the people was bringing a curse upon the land and they should be destroyed if they did not repent.
+
+3:62 [7:24a]. ¶ And it came to pass that the people did revile against the prophets and did mock them.
+
+3:63 [7:24b]. And it came to pass that King Shule did execute judgment against all those who did revile against the prophets;
+
+3:63 [7:25]. And he did execute a law throughout all the land which gave power unto the prophets that they should go whithersoever they would; and by this cause the people were brought unto repentance.
+
+3:64 [7:26a]. And because the people did repent of their iniquities and idolatries, the Lord did spare them; and they began to prosper again in the land.
+
+3:65 [7:26b]. And it came to pass that Shule begat sons and daughters in his old age.
+
+3:66a [7:27a]. And there were no more wars in the days of Shule;
+
+3:66b [7:27b]. And he remembered the great things that the Lord had done for his fathers in bringing them across the great deep into the promised land; wherefore, he did execute judgment in righteousness all his days.
+
+subchapter: [OPV Chapter 8]
+
+3:67 [8:1a]. ¶ And it came to pass that he begat Omer, and Omer reigned in his stead.
+
+3:68 [8:1b]. And Omer begat Jared; and Jared begat sons and daughters.
+
+3:69 [8:2a]. And Jared rebelled against his father and came and dwelt in the land of Heth.
+
+3:70 [8:2b]. And it came to pass that he did flatter many people because of his cunning words until he had gained the half of the kingdom.
+
+3:71 [8:3]. And when he had gained the half of the kingdom, he gave battle unto his father; and he did carry away his father into captivity and did make him serve in captivity.
+
+3:72 [8:4a]. And now, in the days of the reign of Omer, he was in captivity the half of his days.
+
+3:73a [8:4b]. And it came to pass that he begat sons and daughters, among whom were Esrom and Coriantumr;
+
+3:73b [8:5a]. And they were exceeding angry because of the doings of Jared, their brother, insomuch that they did raise an army and gave battle unto Jared.
+
+3:74 [8:5b]. And it came to pass that they did give battle unto him by night.
+
+3:75 [8:6a]. And it came to pass that when they had slain the army of Jared, they were about to slay him also; and he pled with them that they would not slay him, and he would give up the kingdom unto his father.
+
+3:76 [8:6b]. And it came to pass that they did grant unto him his life.
+
+3:77 [8:7]. And now, Jared became exceeding sorrowful because of the loss of the kingdom, for he had set his heart upon the kingdom and upon the glory of the world.
+
+3:78 [8:8]. Now the daughter of Jared, being exceeding expert and seeing the sorrow of her father, thought to devise a plan whereby she could redeem the kingdom unto her father.
+
+3:79a [8:9a]. Now the daughter of Jared was exceeding fair.
+
+3:79b [8:9b]. And it came to pass that she did talk with her father and said unto him: Whereby hath my father so much sorrow?
+
+3:80 [8:9c]. Hath he not read the record which our fathers brought across the great deep?
+
+3:81 [8:9d]. Behold, is there not an account concerning them of old, that they by their secret plans did obtain kingdoms and great glory?
+
+3:82a [8:10a]. And now, therefore, let my father send for Akish, the son of Kimnor; and behold, I am fair, and I will dance before him and I will please him, that he will desire me to wife;
+
+3:82b [8:10b]. Wherefore, if he shall desire of thee that ye shall give unto him me to wife, then shall ye say, I will give her if ye will bring unto me the head of my father, the king.
+
+3:83 [8:11a]. And now, Omer was a friend to Akish; wherefore, when Jared had sent for Akish, the daughter of Jared danced before him; and she pleased him, insomuch that he desired her to wife.
+
+3:84 [8:11b]. And it came to pass that he said unto Jared, Give her unto me to wife.
+
+3:85 [8:12]. And Jared said unto him, I will give her unto you if ye will bring unto me the head of my father, the king.
+
+3:86 [8:13]. And it came to pass that Akish gathered in unto the house of Jared all his kinsfolks and said unto them: Will ye swear unto me that ye will be faithful unto me in the thing which I shall desire of you?
+
+3:87 [8:14a]. And it came to pass that they all sware unto him by the God of heaven, and also by the heavens, and also by the earth, and by their heads that whoso should vary from the assistance which Akish desired should lose his head;
+
+3:88a [8:14b]. And whoso should divulge whatsoever thing Akish made known unto them, the same should lose his life.
+
+3:88b [8:15a]. And it came to pass that thus they did agree with Akish.
+
+3:89 [8:15b]. And Akish did administer unto them the oaths which were given by them of old who also sought power, which had been handed down even from Cain, who was a murderer from the beginning.
+
+3:90 [8:16]. And they were kept up by the power of the devil to administer these oaths unto the people, to keep them in darkness, to help such as sought power to gain power, and to murder, and to plunder, and to lie, and to commit all manner of wickedness and whoredoms.
+
+3:91a [8:17a]. And it was the daughter of Jared who put it into his heart to search up these things of old;
+
+3:91b [8:17b]. And Jared put it into the heart of Akish; wherefore, Akish administered it unto his kindreds and friends, leading them away by fair promises to do whatsoever thing he desired.
+
+3:92 [8:18]. And it came to pass that they formed a secret combination, even as they of old, which combination is most abominable and wicked above all in the sight of God;
+
+3:93 [8:19]. For the Lord worketh not in secret combinations; neither doth he will that man should shed blood, but in all things hath forbidden it from the beginning of man.
+
+3:94a [8:20]. And now, I, Moroni, do not write the manner of their oaths and combinations; for it hath been made known unto me that they are had among all people, and they are had among the Lamanites;
+
+3:94b [8:21]. And they have caused the destruction of this people of whom I am now speaking and also the destruction of the people of Nephi;
+
+3:95a [8:22a]. And whatsoever nation shall uphold such secret combinations to get power and gain until they shall spread over the nation, behold, they shall be destroyed;
+
+3:95b [8:22b]. For the Lord will not suffer that the blood of his saints, which shall be shed by them, shall always cry unto him from the ground for vengeance upon them and yet he avenge them not.
+
+3:96 [8:23]. Wherefore, O ye Gentiles, it is wisdom in God that these things should be shown unto you, that thereby ye may repent of your sins and suffer not that these murderous combinations shall get above you, which are built up to get power and gain, and the work, yea, even the work of destruction come upon you;
+
+3:97 [8:23b]. Yea, even the sword of the justice of the eternal God shall fall upon you, to your overthrow and destruction, if ye shall suffer these things to be.
+
+3:98a [8:24a]. Wherefore, the Lord commandeth you, when ye shall see these things come among you, that ye shall awake to a sense of your awful situation because of this secret combination which shall be among you;
+
+3:98b [8:24b]. Or wo be unto it because of the blood of them who have been slain; for they cry from the dust for vengeance upon it and also upon those who build it up.
+
+3:99 [8:25a]. For it cometh to pass that whoso buildeth it up seeketh to overthrow the freedom of all lands, nations, and countries.
+
+3:100 [8:25b]. And it bringeth to pass the destruction of all people; for it is built up by the devil, who is the father of all lies, even that same liar who beguiled our first parents,
+
+3:101 [8:25c]. Yea, even that same liar who hath caused man to commit murder from the beginning, who hath hardened the hearts of men, that they have murdered the prophets, and stoned them, and cast them out from the beginning.
+
+3:102a [8:26a]. Wherefore, I, Moroni, am commanded to write these things, that evil may be done away, and that the time may come that Satan may have no power upon the hearts of the children of men,
+
+3:102b [8:26b]. But that they may be persuaded to do good continually, that they may come unto the fountain of all righteousness and be saved.
+
+chapter:  Ether 4
+
+viewer-path: /book-of-mormon-universal/ether/4
+
+chapter-aka: [9-11 OPV]
+
+subchapter: [OPV Chapter 9]
+
+4:1 [9:1a]. And now, I, Moroni, proceed with my record.
+
+4:2a [9:1b]. Therefore, behold, it came to pass that because of the secret combinations of Akish and his friends, behold, they did overthrow the kingdom of Omer;
+
+4:2b [9:2]. Nevertheless, the Lord was merciful unto Omer, and also to his sons, and to his daughters who did not seek his destruction.
+
+4:3 [9:3a]. And the Lord warned Omer in a dream that he should depart out of the land; wherefore, Omer departed out of the land with his family, and traveled many days, and came over and passed by the hill of Shim,
+
+4:4 [9:3b]. And came over by the place where the Nephites were destroyed, and from thence eastward, and came to a place which was called Ablom, by the seashore; and there he pitched his tent, and also his sons and his daughters, and all his household, save it were Jared and his family.
+
+4:5 [9:4]. ¶ And it came to pass that Jared was anointed king over the people by the hand of wickedness; and he gave unto Akish his daughter to wife.
+
+4:6 [9:5]. And it came to pass that Akish sought the life of his father-in-law; and he applied unto those whom he had sworn by the oath of the ancients, and they obtained the head of his father-in-law as he sat upon his throne giving audience to his people;
+
+4:7 [9:6]. For so great had been the spreading of this wicked and secret society that it had corrupted the hearts of all the people; therefore, Jared was murdered upon his throne, and Akish reigned in his stead.
+
+4:8 [9:7]. And it came to pass that Akish began to be jealous of his son; therefore, he shut him up in prison and kept him upon little or no food until he had suffered death.
+
+4:9 [9:8]. And now, the brother of him that suffered death (and his name was Nimrah) was angry with his father because of that which his father had done unto his brother.
+
+4:10 [9:9]. And it came to pass that Nimrah gathered together a small number of men, and fled out of the land, and came over and dwelt with Omer.
+
+4:11 [9:10]. And it came to pass that Akish begat other sons; and they won the hearts of the people, notwithstanding they had sworn unto him to do all manner of iniquity, according to that which he desired.
+
+4:12 [9:11]. Now the people of Akish were desirous for gain, even as Akish was desirous for power; wherefore, the sons of Akish did offer them money, by which means they drew away the more part of the people after them;
+
+4:13 [9:12a]. And there began to be a war between the sons of Akish and Akish, which lasted for the space of many years, yea, unto the destruction of nearly all the people of the kingdom,
+
+4:14a [9:12b]. Yea, even all, save it were thirty souls and they who fled with the house of Omer;
+
+4:14b [9:13]. Wherefore, Omer was restored again to the land of his inheritance.
+
+4:15 [9:14]. And it came to pass that Omer began to be old; nevertheless, in his old age he begat Emer; and he anointed Emer to be king to reign in his stead.
+
+4:16 [9:15a]. And after that he had anointed Emer to be king, he saw peace in the land for the space of two years; and he died, having seen exceeding many days which were full of sorrow.
+
+4:17 [9:15b]. And it came to pass that Emer did reign in his stead and did fill the steps of his father.
+
+4:18 [9:16a]. And the Lord began again to take the curse from off the land, and the house of Emer did prosper exceedingly under the reign of Emer;
+
+4:19 [9:16b]. And in the space of sixty and two years, they had become exceeding strong, insomuch that they became exceeding rich,
+
+4:19 [9:17]. Having all manner of fruit and of grain, and of silks and of fine linen, and of gold and of silver, and of precious things;
+
+4:20 [9:18]. And also all manner of cattle, of oxen and cows, and of sheep, and of swine, and of goats, and also many other kinds of animals which were useful for the food of man;
+
+4:21 [9:19]. And they also had horses and asses; and there were elephants, and cureloms, and cumoms, all of which were useful unto man, and more especially the elephants, and cureloms, and cumoms.
+
+4:22a [9:20a]. And thus the Lord did pour out his blessings upon this land, which was choice above all other lands;
+
+4:22b [9:20b]. And he commanded that whoso should possess the land should possess it unto the Lord, or they should be destroyed when they were ripened in iniquity; for upon such, saith the Lord, I will pour out the fullness of my wrath.
+
+4:23 [9:21]. And Emer did execute judgment in righteousness all his days, and he begat many sons and daughters; and he begat Coriantum, and he anointed Coriantum to reign in his stead.
+
+4:24 [9:22]. And after he had anointed Coriantum to reign in his stead, he lived four years;
+
+4:24 [9:22]. And he saw peace in the land, yea, and he even saw the Son of Righteousness and did rejoice and glory in his day; and he died in peace.
+
+4:25 [9:23a]. And it came to pass that Coriantum did walk in the steps of his father, and did build many mighty cities, and did administer that which was good unto his people in all his days.
+
+4:26 [9:23b]. And it came to pass that he had no children, even until he was exceeding old.
+
+4:27 [9:24a]. And it came to pass that his wife died, being a hundred and two years old.
+
+4:28 [9:24b]. And it came to pass that Coriantum took to wife in his old age a young maid and begat sons and daughters; wherefore, he lived until he was a hundred and forty and two years old.
+
+4:29 [9:25]. And it came to pass that he begat Com, and Com reigned in his stead; and he reigned forty and nine years, and he begat Heth; and he also begat other sons and daughters.
+
+4:30a [9:26a]. And the people had spread again over all the face of the land; and there began again to be an exceeding great wickedness upon the face of the land;
+
+4:30b [9:26b]. And Heth began to embrace the secret plans again of old, to destroy his father.
+
+4:31 [9:27]. And it came to pass that he did dethrone his father; for he slew him with his own sword, and he did reign in his stead.
+
+4:32 [9:28]. And there came prophets in the land again, crying repentance unto them; that they must prepare the way of the Lord or there should come a curse upon the face of the land; yea, even there should be a great famine, in which they should be destroyed if they did not repent.
+
+4:33 [9:29a]. But the people believed not the words of the prophets, but they cast them out; and some of them they cast into pits and left them to perish.
+
+4:34 [9:29b]. And it came to pass that they did all these things according to the commandment of the king Heth.
+
+4:35a [9:30]. And it came to pass that there began to be a great dearth upon the land; and the inhabitants began to be destroyed exceeding fast because of the dearth, for there was no rain upon the face of the earth;
+
+4:35b [9:31a]. And there came forth poisonous serpents also upon the face of the land and did poison many people.
+
+4:36 [9:31b]. And it came to pass that their flocks began to flee before the poisonous serpents towards the land southward, which was called by the Nephites, Zarahemla.
+
+4:37 [9:32]. And it came to pass that there were many of them which did perish by the way; nevertheless, there were some which fled into the land southward.
+
+4:38 [9:33]. And it came to pass that the Lord did cause the serpents that they should pursue them no more, but that they should hedge up the way, that the people could not pass, that whoso should attempt to pass might fall by the poisonous serpents.
+
+4:39 [9:34a]. And it came to pass that the people did follow the course of the beasts and did devour the carcasses of them which fell by the way, until they had devoured them all.
+
+4:40 [9:34b]. Now when the people saw that they must perish, they began to repent of their iniquities and cry unto the Lord.
+
+4:41 [9:35a]. And it came to pass that when they had humbled themselves sufficiently before the Lord, he did send rain upon the face of the earth; and the people began to revive again, and there began to be fruit in the north countries and in all the countries round about.
+
+4:42 [9:35b]. And the Lord did show forth his power unto them in preserving them from famine.
+
+subchapter: [OPV Chapter 10]
+
+4:43 [10:1]. And it came to pass that Shez, who was a descendant of Heth, for Heth had perished by the famine and all his household, save it were Shez; wherefore, Shez began to build up again a broken people.
+
+4:44a [10:2a]. And it came to pass that Shez did remember the destruction of his fathers;
+
+4:44b [10:2b]. And he did build up a righteous kingdom, for he remembered what the Lord had done in bringing Jared and his brother across the deep; and he did walk in the ways of the Lord, and he begat sons and daughters.
+
+4:45a [10:3a]. And his eldest son, whose name was Shez, did rebel against him;
+
+4:45b [10:3b]. Nevertheless, Shez was smitten by the hand of a robber because of his exceeding riches, which brought peace again unto his father.
+
+4:46 [10:4a]. And it came to pass that his father did build up many cities upon the face of the land, and the people began again to spread over all the face of the land.
+
+4:47 [10:4b]. And Shez did live to an exceeding old age; and he begat Riplakish, and he died. And Riplakish reigned in his stead.
+
+4:48a [10:5a]. And it came to pass that Riplakish did not do that which was right in the sight of the Lord, for he did have many wives and concubines and did lay that upon men's shoulders which was grievous to be borne;
+
+4:48b [10:5b]. Yea, he did tax them with heavy taxes; and with the taxes he did build many spacious buildings.
+
+4:49 [10:6a]. And he did erect him an exceeding beautiful throne; and he did build many prisons; and whoso would not be subject unto taxes, he did cast into prison; and whoso was not able to pay taxes, he did cast into prison;
+
+4:50a [10:6b]. And he did cause that they should labor continually for their support; and whoso refused to labor, he did cause to be put to death;
+
+4:50b [10:7a]. Wherefore, he did obtain all his fine work, yea, even his fine gold he did cause to be refined in prison; and all manner of fine workmanship he did cause to be wrought in prison.
+
+4:51a [10:7b]. And it came to pass that he did afflict the people with his whoredoms and abominations;
+
+4:51b [10:8]. And when he had reigned for the space of forty and two years, the people did rise up in rebellion against him; and there began to be war again in the land, insomuch that Riplakish was killed, and his descendants were driven out of the land.
+
+4:52 [10:9a]. ¶ And it came to pass after the space of many years, Morianton (he being a descendant of Riplakish) gathered together an army of outcasts and went forth and gave battle unto the people; and he gained power over many cities;
+
+4:53 [10:9b]. And the war became exceeding sore and did last for the space of many years; and he did gain power over all the land and did establish himself king over all the land.
+
+4:54 [10:10]. And after that he had established himself king, he did ease the burden of the people, by which he did gain favor in the eyes of the people; and they did anoint him to be their king.
+
+4:55 [10:11]. And he did do justice unto the people but not unto himself because of his many whoredoms; wherefore, he was cut off from the presence of the Lord.
+
+4:56 [10:12]. And it came to pass that Morianton built up many cities; and the people became exceeding rich under his reign, both in buildings, and in gold, and in silver, and in raising grain, and in flocks, and herds, and such things which had been restored unto them.
+
+4:57 [10:13a]. And Morianton did live to an exceeding great age, and then he begat Kim; and Kim did reign in the stead of his father; and he did reign eight years, and his father died.
+
+4:58 [10:13b]. And it came to pass that Kim did not reign in righteousness; wherefore, he was not favored of the Lord.
+
+4:59a [10:14a]. And his brother did rise up in rebellion against him, by which he did bring him into captivity;
+
+4:59b [10:14b]. And he did remain in captivity all his days; and he begat sons and daughters in captivity; and in his old age he begat Levi, and he died.
+
+4:60 [10:15a]. ¶ And it came to pass that Levi did serve in captivity, after the death of his father, for the space of forty and two years.
+
+4:61 [10:15b]. And he did make war against the king of the land, by which he did obtain unto himself the kingdom.
+
+4:62a [10:16a]. And after he had obtained unto himself the kingdom, he did that which was right in the sight of the Lord; and the people did prosper in the land;
+
+4:62b [10:16b]. And he did live to a good old age and begat sons and daughters; and he also begat Corom, whom he anointed king in his stead.
+
+4:63a [10:17a]. And it came to pass that Corom did that which was good in the sight of the Lord all his days;
+
+4:63b [10:17b]. And he begat many sons and daughters; and after he had seen many days, he did pass away, even like unto the rest of the earth; and Kish reigned in his stead.
+
+4:64 [10:18]. And it came to pass that Kish passed away also, and Lib reigned in his stead.
+
+4:65 [10:19a]. And it came to pass that Lib also did that which was good in the sight of the Lord.
+
+4:66 [10:19b]. And in the days of Lib the poisonous serpents were destroyed; wherefore, they did go into the land southward to hunt food for the people of the land; for the land was covered with animals of the forest.
+
+4:67 [10:19c]. And Lib also himself became a great hunter.
+
+4:68 [10:20]. And they built a great city by the narrow neck of land, by the place where the sea divides the land.
+
+4:69 [10:21a]. And they did preserve the land southward for a wilderness to get game.
+
+4:70a [10:21b]. And the whole face of the land northward was covered with inhabitants;
+
+4:70b [10:22]. And they were exceeding industrious; and they did buy, and sell, and traffic one with another, that they might get gain.
+
+4:71a [10:23a]. And they did work in all manner of ore, and they did make gold, and silver, and iron, and brass, and all manner of metals; and they did dig it out of the earth;
+
+4:71b [10:23b]. Wherefore, they did cast up mighty heaps of earth for to get ore; of gold, and of silver, and of iron, and of copper.
+
+4:72 [10:23c]. And they did work all manner of fine work.
+
+4:73 [10:24]. And they did have silks and fine twined linen; and they did work all manner of cloth, that they might clothe themselves from their nakedness.
+
+4:74 [10:25]. And they did make all manner of tools to till the earth, both to plow and to sow, to reap and to hoe, and also to thrash.
+
+4:75 [10:26]. And they did make all manner of tools with which they did work their beasts.
+
+4:76 [10:27a]. And they did make all manner of weapons of war.
+
+4:77 [10:27b]. And they did work all manner of work of exceeding curious workmanship.
+
+4:78 [10:28a]. And never could be a people more blessed than were they, and more prospered by the hand of the Lord.
+
+4:79 [10:28b]. And they were in a land that was choice above all lands, for the Lord had spoken it.
+
+4:80 [10:29]. And it came to pass that Lib did live many years and begat sons and daughters; and he also begat Hearthom.
+
+4:81 [10:30a]. And it came to pass that Hearthom reigned in the stead of his father.
+
+4:82 [10:30b]. And when Hearthom had reigned twenty and four years, behold, the kingdom was taken away from him.
+
+4:83 [10:30c]. And he served many years in captivity, yea, even all the remainder of his days.
+
+4:84a [10:31a]. And he begat Heth, and Heth lived in captivity all his days.
+
+4:85b [10:31b]. And Heth begat Aaron, and Aaron dwelt in captivity all his days;
+
+4:85c [10:31c]. And he begat Amnigaddah, and Amnigaddah also dwelt in captivity all his days;
+
+4:85d [10:31d]. And he begat Coriantum, and Coriantum dwelt in captivity all his days; and he begat Com.
+
+4:86 [10:32a]. And it came to pass that Com drew away the half of the kingdom.
+
+4:87 [10:32b]. And he reigned over the half of the kingdom forty and two years; and he went to battle against the king Amgid, and they fought for the space of many years, during which time Com gained power over Amgid and obtained power over the remainder of the kingdom.
+
+4:88 [10:33]. And in the days of Com there began to be robbers in the land; and they adopted the old plans, and administered oaths after the manner of the ancients, and sought again to destroy the kingdom.
+
+4:89 [10:34]. Now Com did fight against them much; nevertheless, he did not prevail against them.
+
+subchapter: [OPV Chapter 11]
+
+4:90 [11:1]. And there came also in the days of Com many prophets and prophesied of the destruction of that great people, except they should repent, and turn unto the Lord, and forsake their murders and wickedness.
+
+4:91a [11:2]. ¶ And it came to pass that the prophets were rejected by the people; and they fled unto Com for protection, for the people sought to destroy them;
+
+4:91b [11:3]. And they prophesied unto Com many things; and he was blessed in all the remainder of his days.
+
+4:92 [11:4a]. And he lived to a good old age and begat Shiblom; and Shiblom reigned in his stead.
+
+4:93 [11:4b]. And the brother of Shiblom rebelled against him; and there began to be an exceeding great war in all the land.
+
+4:94 [11:5]. ¶ And it came to pass that the brother of Shiblom caused that all the prophets who prophesied of the destruction of the people should be put to death;
+
+4:95 [11:6a]. And there was great calamity in all the land, for they had testified that a greater curse should come upon the land and also upon the people, and that there should be a great destruction among them, such an one as never had been upon the face of the earth;
+
+4:96 [11:6b]. And their bones should become as heaps of earth upon the face of the land, except they should repent of their wickedness.
+
+4:97a [11:7a]. And they hearkened not unto the voice of the Lord because of their wicked combinations;
+
+4:97b [11:7b]. Wherefore, there began to be wars and contentions in all the land and also many famines and pestilences, insomuch that there was a great destruction, such an one as never had been known upon the face of the earth;
+
+4:97c [11:7c]. And all this came to pass in the days of Shiblom.
+
+4:98 [11:8]. And the people began to repent of their iniquity; and inasmuch as they did, the Lord did have mercy on them.
+
+4:99 [11:9]. ¶ And it came to pass that Shiblom was slain; and Seth was brought into captivity and did dwell in captivity all his days.
+
+4:100 [11:10a]. And it came to pass that Ahah, his son, did obtain the kingdom; and he did reign over the people all his days.
+
+4:101 [11:10b]. And he did do all manner of iniquity in his days, by which he did cause the shedding of much blood; and few were his days.
+
+4:102 [11:11]. And Ethem, being a descendant of Ahah, did obtain the kingdom; and he also did do that which was wicked in his days.
+
+4:103 [11:12]. And it came to pass in the days of Ethem, there came many prophets and prophesied again unto the people; yea, they did prophesy that the Lord would utterly destroy them from off the face of the earth, except they repented of their iniquities.
+
+4:104 [11:13]. And it came to pass that the people hardened their hearts and would not hearken unto their words; and the prophets mourned and withdrew from among the people.
+
+4:105 [11:14a]. ¶ And it came to pass that Ethem did execute judgment in wickedness all his days; and he begat Moron.
+
+4:106 [11:14b]. And it came to pass that Moron did reign in his stead; and Moron did that which was wicked before the Lord.
+
+4:107a [11:15a]. And it came to pass that there arose a rebellion among the people because of that secret combination which was built up to get power and gain;
+
+4:107b [11:15b]. And there arose a mighty man among them in iniquity and gave battle unto Moron, in which he did overthrow the half of the kingdom; and he did maintain the half of the kingdom for many years.
+
+4:108 [11:16]. And it came to pass that Moron did overthrow him and did obtain the kingdom again.
+
+4:109 [11:17]. And it came to pass that there arose another mighty man; and he was a descendant of the Brother of Jared.
+
+4:110 [11:18]. And it came to pass that he did overthrow Moron and obtain the kingdom; wherefore, Moron dwelt in captivity all the remainder of his days; and he begat Coriantor.
+
+4:111 [11:19]. ¶ And it came to pass that Coriantor dwelt in captivity all his days.
+
+4:112 [11:20]. And in the days of Coriantor there also came many prophets, and prophesied of great and marvelous things, and cried repentance unto the people; and except they should repent, the Lord God would execute judgment against them to their utter destruction,
+
+4:113 [11:21]. And that the Lord God would send, or bring forth, another people to possess the land, by his power, after the manner which he brought their fathers. 4:114 A[11:22] nd they did reject all the words of the prophets because of their secret society and wicked abominations.
+
+4:115 [11:23]. And it came to pass that Coriantor begat Ether; and he died, having dwelt in captivity all his days.
+
+chapter:  Ether 5
+
+viewer-path: /book-of-mormon-universal/ether/5
+
+chapter-aka: [12 OPV]
+
+subchapter: [OPV Chapter 12]
+
+5:1 [12:1]. And it came to pass that the days of Ether were in the days of Coriantumr; and Coriantumr was king over all the land.
+
+5:2 [12:2]. And Ether was a prophet of the Lord; wherefore, Ether came forth in the days of Coriantumr and began to prophesy unto the people, for he could not be restrained because of the Spirit of the Lord which was in him;
+
+5:3 [12:3]. For he did cry from the morning even until the going down of the sun, exhorting the people to believe in God unto repentance, lest they should be destroyed, saying unto them that by faith all things are fulfilled;
+
+5:4a [12:4a]. Wherefore, whoso believeth in God might with surety hope for a better world, yea, even a place at the right hand of God,
+
+5:4b [12:4b]. Which hope cometh of faith, maketh an anchor to the souls of men, which would make them sure and steadfast, always abounding in good works, being led to glorify God.
+
+5:5 [12:5]. And it came to pass that Ether did prophesy great and marvelous things unto the people which they did not believe because they saw them not.
+
+5:6 [12:6a]. And now, I, Moroni, would speak somewhat concerning these things; I would show unto the world that faith is things which are hoped for and not seen;
+
+5:7 [12:6b]. Wherefore, dispute not because ye see not, for ye receive no witness until after the trial of your faith; for it was by faith that Christ showed himself unto our fathers after he had risen from the dead;
+
+5:8 [12:7]. And he showed not himself unto them until after they had faith in him; wherefore, it must needs be that some had faith in him, for he showed himself not unto the world.
+
+5:9 [12:8]. But because of the faith of men, he has shown himself unto the world, and glorified the name of the Father, and prepared a way that thereby others might be partakers of the heavenly gift, that they might hope for those things which they have not seen;
+
+5:10 [12:9]. Wherefore, ye may also have hope and be partakers of the gift if ye will but have faith.
+
+5:11 [12:10]. Behold, it was by faith that they of old were called after the holy order of God;
+
+5:11 [12:11a]. Wherefore, by faith was the law of Moses given.
+
+5:12 [12:11b]. But in the gift of his Son hath God prepared a more excellent way; and it is by faith that it hath been fulfilled;
+
+5:13 [12:12]. For if there be no faith among the children of men, God can do no miracle among them; wherefore, he showed not himself until after their faith.
+
+5:14 [12:13]. Behold, it was the faith of Alma and Amulek that caused the prison to tumble to the earth.
+
+5:15 [12:14]. Behold, it was the faith of Nephi and Lehi that wrought the change upon the Lamanites, that they were baptized with fire and with the Holy Ghost.
+
+5:16a [12:15]. Behold, it was the faith of Ammon and his brethren which wrought so great a miracle among the Lamanites;
+
+5:16b [12:16]. Yea, and even all they who wrought miracles wrought them by faith, even those who were before Christ and also them who were after.
+
+5:17 [12:17]. And it was by faith that the three disciples obtained a promise that they should not taste of death; and they obtained not the promise until after their faith.
+
+5:18 [12:18]. And neither at any time hath any wrought miracles until after their faith; wherefore, they first believed in the Son of God.
+
+5:19 [12:19]. And there were many whose faith was so exceeding strong even before Christ came, who could not be kept from within the veil, but truly saw with their eyes the things which they had beheld with an eye of faith, and they were glad.
+
+5:20a [12:20a]. And behold, we have seen in this record that one of these was the Brother of Jared;
+
+5:20b [12:20b]. For so great was his faith in God that when God put forth his finger, he could not hide it from the sight of the Brother of Jared because of his word which he had spoken unto him, which word he had obtained by faith.
+
+5:21a [12:21a]. And after the Brother of Jared had beheld the finger of the Lord because of the promise which the Brother of Jared had obtained by faith, the Lord could not withhold anything from his sight;
+
+5:21b [12:21b]. Wherefore, he showed him all things, for he could no longer be kept without the veil.
+
+5:22 [12:22]. And it is by faith that my fathers have obtained the promise that these things should come unto their brethren through the Gentiles; therefore, the Lord hath commanded me, yea, even Jesus Christ.
+
+5:23 [12:23a]. And I said unto him, Lord, the Gentiles will mock at these things because of our weakness in writing; for, Lord, thou hast made us mighty in word by faith, but thou hast not made us mighty in writing;
+
+5:24a [12:23b]. For thou hast made all this people that they could speak much because of the Holy Ghost which thou hast given them;
+
+5:24b [12:24a]. And thou hast made us that we could write but little because of the awkwardness of our hands.
+
+5:25 [12:24b]. Behold, thou hast not made us mighty in writing like unto the Brother of Jared, for thou madest him that the things which he wrote were mighty, even as thou art, unto the overpowering of man to read them.
+
+5:26a [12:25a]. Thou hast also made our words powerful and great, even that we cannot write them;
+
+5:26b [12:25b]. Wherefore, when we write, we behold our weakness, and stumble because of the placing of our words; and I fear, lest the Gentiles shall mock at our words.
+
+5:27a [12:26a]. And when I had said this, the Lord spake unto me, saying, Fools mock, but they shall mourn;
+
+5:27b [12:26b]. And my grace is sufficient for the meek, that they shall take no advantage of your weakness; and if men come unto me, I will show unto them their weakness.
+
+5:27c [12:26c]. And if men come unto me, I will show unto them their weakness.
+
+5:28a [12:27a]. I give unto men weakness, that they may be humble; and my grace is sufficient for all men that humble themselves before me;
+
+5:28b [12:27b]. For if they humble themselves before me and have faith in me, then will I make weak things become strong unto them.
+
+5:29 [12:28]. Behold, I will show unto the Gentiles their weakness; and I will show unto them that faith, hope, and charity bringeth unto me the fountain of all righteousness.
+
+5:30a [12:29]. And I, Moroni, having heard these words, was comforted and said: O Lord, thy righteous will be done, for I know that thou workest unto the children of men according to their faith;
+
+5:30b [12:30a]. For the Brother of Jared said unto the mountain Zerin, Remove, and it was removed.
+
+5:31a [12:30b]. And if he had not had faith, it would not have moved; wherefore, thou workest after men have faith;
+
+5:31b [12:31a]. For thus did thou manifest thyself unto thy disciples.
+
+5:32 [12:31b]. For after they had faith and did speak in thy name, thou didst show thyself unto them in great power;
+
+5:32a [12:32a]. And I also remember that thou hast said that thou hast prepared a house for man, yea, even among the mansions of thy Father, in which man might have a more excellent hope;
+
+5:32b [12:32b]. Wherefore, man must hope or he cannot receive an inheritance in the place which thou hast prepared.
+
+5:33 [12:33]. And again, I remember that thou hast said that thou hast loved the world, even unto the laying down of thy life for the world, that thou mightest take it again to prepare a place for the children of men.
+
+5:34 [12:34]. And now, I know that this love which thou hast had for the children of men is charity; wherefore, except men shall have charity, they cannot inherit that place which thou hast prepared in the mansions of thy Father.
+
+5:35 [12:35]. Wherefore, I know by this thing which thou hast said, that if the Gentiles have not charity because of our weakness, that thou wilt prove them and take away their talent, yea, even that which they have received, and give unto them who shall have more abundantly.
+
+5:36 [12:36]. ¶ And it came to pass that I prayed unto the Lord that he would give unto the Gentiles grace, that they might have charity.
+
+5:37 [12:37a]. And it came to pass that the Lord said unto me, If they have not charity, it mattereth not unto thee; thou hast been faithful; wherefore, thy garments shall be made clean.
+
+5:38 [12:37b]. And because thou hast seen thy weakness, thou shalt be made strong, even unto the sitting down in the place which I have prepared in the mansions of my Father.
+
+5:39 [12:38]. And now, I, Moroni, bid farewell unto the Gentiles, yea, and also unto my brethren whom I love, until we shall meet before the judgment seat of Christ, where all men shall know that my garments are not spotted with your blood;
+
+5:40a [12:39]. And then shall ye know that I have seen Jesus, and that he hath talked with me face to face, and that he told me in plain humility, even as a man telleth another in mine own language, concerning these things;
+
+5:40b [12:40]. And only a few have I written because of my weakness in writing.
+
+5:41 [12:41]. And now, I would commend you to seek this Jesus of whom the prophets and apostles have written, that the grace of God, the Father, and also the Lord Jesus Christ, and the Holy Ghost, which beareth record of them, may be and abide in you forever. Amen.
+
+chapter:  Ether 6
+
+viewer-path: /book-of-mormon-universal/ether/6
+
+chapter-aka: [13-15 OPV]
+
+subchapter: [OPV Chapter 13]
+
+6:1 [13:1]. And now, I, Moroni, proceed to finish my record concerning the destruction of the people of whom I have been writing.
+
+6:2 [13:2a]. For behold, they rejected all the words of Ether; for he truly told them of all things from the beginning of man; and that after the waters had receded from off the face of this land, it became a choice land above all other lands, a chosen land of the Lord;
+
+6:3a [13:2b]. Wherefore, the Lord would have that all men should serve him, who dwell upon the face thereof;
+
+6:3b [13:3]. And that it was the place of the New Jerusalem, which should come down out of heaven, and the holy sanctuary of the Lord.
+
+6:4a [13:4]. Behold, Ether saw the days of Christ, and he spake concerning a New Jerusalem upon this land;
+
+6:4b [13:5a]. Behold, Ether saw the days of Christ, and he spake concerning a New Jerusalem upon this land; and he spake also concerning the house of Israel and the Jerusalem from whence Lehi should come; after it should be destroyed, it should be built up again, a holy city unto the Lord;
+
+6:5 [13:5b]. Wherefore, it could not be a New Jerusalem, for it had been in a time of old; but it should be built up again and become a holy city of the Lord; and it should be built up unto the house of Israel;
+
+6:6a [13:6]. And that a New Jerusalem should be built up upon this land, unto the remnant of the seed of Joseph, for which things there has been a type;
+
+6:6b [13:7a]. For as Joseph brought his father down into the land of Egypt, even so he died there.
+
+6:7 [13:7b]. Wherefore, the Lord brought a remnant of the seed of Joseph out of the land of Jerusalem, that he might be merciful unto the seed of Joseph, that they should perish not, even as he was merciful unto the father of Joseph, that he should perish not;
+
+6:8a [13:8a]. Wherefore, the remnant of the house of Joseph shall be built up upon this land; and it shall be a land of their inheritance;
+
+6:8b [13:8b]. And they shall build up a holy city unto the Lord, like unto the Jerusalem of old; and they shall no more be confounded until the end come, when the earth shall pass away.
+
+6:9 [13:9]. And there shall be a new heaven and a new earth; and they shall be like unto the old, save the old have passed away and all things have become new.
+
+6:10a [13:10a]. And then cometh the New Jerusalem; and blessed are they who dwell therein, for it is they whose garments are white through the blood of the Lamb;.
+
+6:10b [13:10b]. And they are they who are numbered among the remnant of the seed of Joseph, who were of the house of Israel.
+
+6:11 [13:11a]. And then also cometh the Jerusalem of old; and the inhabitants thereof, blessed are they, for they have been washed in the blood of the Lamb;
+
+6:12 [13:11b]. And they are they who were scattered and gathered in from the four quarters of the earth, and from the north countries, and are partakers of the fulfilling of the covenant which God made with their father Abraham.
+
+6:13 [13:12]. And when these things come, bringeth to pass the scripture which saith: There are they who were first, who shall be last; and there are they who were last, who shall be first.
+
+6:14a [13:13a]. ¶ And I was about to write more, but I am forbidden; but great and marvelous were the prophecies of Ether;
+
+6:14b [13:13b]. But they esteemed him as naught and cast him out; and he hid himself in the cavity of a rock by day, and by night he went forth viewing the things which should come upon the people.
+
+6:15 [13:14]. And as he dwelt in the cavity of a rock, he made the remainder of this record, viewing the destructions which came upon the people by night.
+
+6:16a [13:15a]. And it came to pass that in that same year which he was cast out from among the people, there began to be a great war among the people;
+
+6:16b [13:15b]. For there were many who rose up, who were mighty men and sought to destroy Coriantumr by their secret plans of wickedness, of which hath been spoken.
+
+6:17 [13:16]. And now, Coriantumr, having studied himself in all the arts of war and all the cunning of the world, wherefore, he gave battle unto them who sought to destroy him;
+
+6:18 [13:17]. But he repented not, neither his fair sons nor daughters; neither the fair sons and daughters of Cohor; neither the fair sons and daughters of Corihor; and, in fine, there was none of the fair sons and daughters upon the face of the whole earth who repented of their sins;
+
+6:19 [13:18]. Wherefore, it came to pass that in the first year that Ether dwelt in the cavity of a rock, there were many people who were slain by the sword of those secret combinations fighting against Coriantumr, that they might obtain the kingdom.
+
+6:20 [13:19]. And it came to pass that the sons of Coriantumr fought much and bled much.
+
+6:21 [13:20]. And in the second year, the word of the Lord came to Ether that he should go and prophesy unto Coriantumr, that if he would repent and all his household, the Lord would give unto him his kingdom and spare the people;
+
+6:22 [13:21a]. Otherwise, they should be destroyed and all his household, save it were himself; and he should only live to see the fulfilling of the prophecies which had been spoken concerning another people receiving the land for their inheritance;
+
+6:23 [13:21b]. And Coriantumr should receive a burial by them; and every soul should be destroyed, save it were Coriantumr.
+
+6:24 [13:22]. And it came to pass that Coriantumr repented not, neither his household, neither the people; and the wars ceased not; and they sought to kill Ether, but he fled from before them and hid again in the cavity of the rock.
+
+6:25 [13:23]. And it came to pass that there arose up Shared, and he also gave battle unto Coriantumr; and he did beat him, insomuch that in the third year he did bring him unto captivity.
+
+6:26 [13:24]. And the sons of Coriantumr in the fourth year did beat Shared and did obtain the kingdom again unto their father.
+
+6:27 [13:25]. Now there began to be a war upon all the face of the land, every man with his band, fighting for that which he desired.
+
+6:28 [13:26]. And there were robbers and, in fine, all manner of wickedness upon all the face of the land.
+
+6:29 [13:27]. And it came to pass that Coriantumr was exceeding angry with Shared, and he went against him with his armies to battle; and they did meet in great anger; and they did meet in the valley of Gilgal, and the battle became exceeding sore.
+
+6:30 [13:28a]. And it came to pass that Shared fought against him for the space of three days.
+
+6:31 [13:28b]. And it came to pass that Coriantumr beat him and did pursue him until he came to the plains of Heshlon.
+
+6:32 [13:29]. And it came to pass that Shared gave him battle again upon the plains; and behold, he did beat Coriantumr and drove him back again to the valley of Gilgal.
+
+6:33 [13:30]. And Coriantumr gave Shared battle again in the valley of Gilgal, in which he beat Shared and slew him.
+
+6:34 [13:31]. And Shared wounded Coriantumr in his thigh, that he did not go to battle again for the space of two years, in which time all the people upon all the face of the land were shedding blood; and there was none to restrain them.
+
+subchapter: [OPV Chapter 14]
+
+6:35 [14:1]. And now, there began to be a great curse upon the land because of the iniquity of the people, in which if a man should lay his tool or his sword upon the shelf or upon the place whither he would keep it, and behold, upon the morrow he could not find it, so great was the curse upon the land.
+
+6:36a [14:2a]. Wherefore, every man did cleave unto that which was his own with his hands and would not borrow; neither would he lend;
+
+6:36b [14:2b]. And every man kept the hilt of his sword thereof in his right hand in the defense of his property, and his own life, and of his wives and children.
+
+6:37 [14:3]. And now, after the space of two years and after the death of Shared, behold, there arose the brother of Shared; and he gave battle unto Coriantumr, in which Coriantumr did beat him and did pursue him to the wilderness of Akish.
+
+6:38 [14:4]. And it came to pass that the brother of Shared did give battle unto him in the wilderness of Akish; and the battle became exceeding sore, and many thousands fell by the sword.
+
+6:39 [14:5]. And it came to pass that Coriantumr did lay siege to the wilderness, and the brother of Shared did march forth out of the wilderness by night and slew a part of the army of Coriantumr as they were drunken.
+
+6:40 [14:6]. And he came forth to the land of Moron and placed himself upon the throne of Coriantumr.
+
+6:41 [14:7]. And it came to pass that Coriantumr dwelt with his army in the wilderness for the space of two years, in which he did receive great strength to his army.
+
+6:42 [14:8]. Now the brother of Shared, whose name was Gilead, also received great strength to his army because of secret combinations.
+
+6:43 [14:9]. And it came to pass that his high priest murdered him as he sat upon his throne.
+
+6:44 [14:10]. And it came to pass that one of the secret combinations murdered him in a secret pass and obtained unto himself the kingdom; and his name was Lib; and Lib was a man of great stature, more than any other man among all the people.
+
+6:45 [14:11]. And it came to pass that in the first year of Lib, Coriantumr came up unto the land of Moron and gave battle unto Lib.
+
+6:46 [14:12]. And it came to pass that he fought with Lib, in which Lib did smite upon his arm that he was wounded; nevertheless, the army of Coriantumr did press forward upon Lib, that he fled to the borders upon the seashore.
+
+6:47 [14:13]. And it came to pass that Coriantumr pursued him; and Lib gave battle unto him upon the seashore.
+
+6:48 [14:14]. And it came to pass that Lib did smite the army of Coriantumr, that they fled again to the wilderness of Akish.
+
+6:49 [14:15a]. And it came to pass that Lib did pursue him until he came to the plains of Agosh.
+
+6:50 [14:15b]. And Coriantumr had taken all the people with him as he fled before Lib in that quarter of the land whither he fled.
+
+6:51a [14:16a]. And when he had come to the plains of Agosh, he gave battle unto Lib, and he smote upon him until he died;
+
+6:51b [14:16b]. Nevertheless, the brother of Lib did come against Coriantumr in the stead thereof; and the battle became exceeding sore, in the which Coriantumr fled again before the army of the brother of Lib.
+
+6:52 [14:17a]. Now the name of the brother of Lib was called Shiz.
+
+6:53 [14:17b]. And it came to pass that Shiz pursued after Coriantumr, and he did overthrow many cities; and he did slay both women and children, and he did burn the cities thereof;
+
+6:54 [14:18]. And there went a fear of Shiz throughout all the land; yea, a cry went forth throughout the land: Who can stand before the army of Shiz? Behold, he sweepeth the earth before him!
+
+6:55 [14:19]. And it came to pass that the people began to flock together in armies throughout all the face of the land.
+
+6:56 [14:20]. And they were divided, and a part of them fled to the army of Shiz, and a part of them fled to the army of Coriantumr.
+
+6:57 [14:21]. And so great and lasting had been the war, and so long had been the scene of bloodshed and carnage, that the whole face of the land was covered with the bodies of the dead;
+
+6:58 [14:22]. And so swift and speedy was the war, that there was none left to bury the dead; but they did march forth from the shedding of blood to the shedding of blood, leaving the bodies of both men, women, and children strewed upon the face of the land to become a prey to the worms of the flesh.
+
+6:59 [14:23]. And the scent thereof went forth upon the face of the land, even upon all the face of the land; wherefore, the people became troubled by day and by night because of the scent thereof;
+
+6:60 [14:24]. Nevertheless, Shiz did not cease to pursue Coriantumr, for he had sworn to avenge himself upon Coriantumr of the blood of his brother who had been slain; and the word of the Lord came to Ether that Coriantumr should not fall by the sword.
+
+6:61 [14:25]. And thus we see that the Lord did visit them in the fullness of his wrath, and their wickedness and abominations had prepared a way for their everlasting destruction.
+
+6:62 [14:26]. And it came to pass that Shiz did pursue Coriantumr eastward, even to the borders of the seashore; and there he gave battle unto Shiz for the space of three days,
+
+6:63 [14:27a]. And so terrible was the destruction among the armies of Shiz that the people began to be frightened and began to flee before the armies of Coriantumr;
+
+6:64a [14:27b]. And they fled to the land of Corihor and swept off the inhabitants before them, all they that would not join them;
+
+6:64b [14:28a]. And they pitched their tents in the valley of Corihor.
+
+6:65 [14:28b]. And Coriantumr pitched his tents in the valley of Shurr.
+
+6:66 [14:28c]. Now the valley of Shurr was near the hill Comnor; wherefore, Coriantumr did gather his armies together upon the hill Comnor and did sound a trumpet unto the armies of Shiz to invite them forth to battle.
+
+6:67 [14:29a]. And it came to pass that they came forth, but were driven again; and they came the second time, and they were driven again the second time.
+
+6:68 [14:29b]. And it came to pass that they came again the third time, and the battle became exceeding sore.
+
+6:69 [14:30a]. And it came to pass that Shiz smote upon Coriantumr, that he gave him many deep wounds.
+
+6:70 [14:30b]. And Coriantumr, having lost his blood, fainted and was carried away as though he were dead.
+
+6:71 [14:31]. Now the loss of men, women, and children on both sides was so great that Shiz commanded his people that they should not pursue the armies of Coriantumr; wherefore, they returned to their camp.
+
+subchapter: [OPV Chapter 15]
+
+6:72 [15:1]. ¶ And it came to pass when Coriantumr had recovered of his wounds, he began to remember the words which Ether had spoken unto him;
+
+6:73 [15:2]. He saw that there had been slain by the sword already nearly two millions of his people, and he began to sorrow in his heart; yea, there had been slain two millions of mighty men, and also their wives, and their children.
+
+6:74 [15:3]. He began to repent of the evil which he had done; he began to remember the words which had been spoken by the mouth of all the prophets; and he saw them that they were fulfilled, thus far, every whit; and his soul mourned and refused to be comforted.
+
+6:75 [15:4]. And it came to pass that he wrote an epistle unto Shiz, desiring him that he would spare the people; and he would give up the kingdom for the sake of the lives of the people.
+
+6:76 [15:5]. And it came to pass that when Shiz had received his epistle, he wrote an epistle unto Coriantumr, that if he would give himself up that he might slay him with his own sword, that he would spare the lives of the people.
+
+6:77 [15:6a]. And it came to pass that the people repented not of their iniquity; and the people of Coriantumr were stirred up to anger against the people of Shiz;
+
+6:78 [15:6b]. And the people of Shiz were stirred up to anger against the people of Coriantumr; wherefore, the people of Shiz did give battle unto the people of Coriantumr.
+
+6:79 [15:7]. And when Coriantumr saw that he was about to fall, he fled again before the people of Shiz.
+
+6:80a [15:8a]. And it came to pass that he came to the waters of Ripliancum, which, by interpretation is large, or to exceed all
+
+6:80b [15:8b]. Wherefore, when they came to these waters, they pitched their tents;
+
+6:80c [15:8c]. And Shiz also pitched his tents near unto them; and, therefore, on the morrow they did come to battle.
+
+6:81 [15:9]. And it came to pass that they fought an exceeding sore battle, in which Coriantumr was wounded again, and he fainted with the loss of blood.
+
+6:82a [15:10a]. And it came to pass that the armies of Coriantumr did press upon the armies of Shiz, that they beat them, that they caused them to flee before them;
+
+6:82b [15:10b]. And they did flee southward and did pitch their tents in a place which was called Ogath.
+
+6:83 [15:11]. And it came to pass that the army of Coriantumr did pitch their tents by the hill Ramah; and it was that same hill where my father Mormon did hide up the records unto the Lord which were sacred.
+
+6:84 [15:12]. And it came to pass that they did gather together all the people upon all the face of the land who had not been slain, save it was Ether.
+
+6:85a [15:13a]. And it came to pass that Ether did behold all the doings of the people;
+
+6:85b [15:13b]. And he beheld that the people who were for Coriantumr were gathered together to the army of Coriantumr; and the people who were for Shiz were gathered together to the army of Shiz;
+
+6:86 [15:14]. Wherefore, they were for the space of four years gathering together the people, that they might get all who were upon the face of the land, and that they might receive all the strength which it was possible that they could receive.
+
+6:87a [15:15a]. And it came to pass that when they were all gathered together, every one to the army which he would, with their wives and their children;
+
+6:87b [15:15b]. Both men, women, and children, being armed with weapons of war, having shields, and breastplates, and headplates, and being clothed after the manner of war, they did march forth one against another to battle; and they fought all that day and conquered not.
+
+6:88a [15:16a]. And it came to pass that when it was night, they were weary and retired to their camps; and after they had retired to their camps, they took up a howling and a lamentation for the loss of the slain of their people;
+
+6:88b [15:16b]. And so great were their cries, their howlings, and lamentations, that it did rend the air exceedingly.
+
+6:89 [15:17a]. And it came to pass that on the morrow they did go again to battle, and great and terrible was that day;
+
+6:90 [15:17b]. Nevertheless, they conquered not; and when the night came again, they did rend the air with their cries, and their howlings, and their mournings for the loss of the slain of their people.
+
+6:91 [15:18]. ¶ And it came to pass that Coriantumr wrote again an epistle unto Shiz, desiring that he would not come again to battle, but that he would take the kingdom and spare the lives of the people.
+
+6:92a [15:19a]. But behold, the Spirit of the Lord had ceased striving with them, and Satan had full power over the hearts of the people;
+
+6:92b [15:19b]. For they were given up unto the hardness of their hearts and the blindness of their minds, that they might be destroyed; wherefore, they went again to battle.
+
+6:93a [15:20]. And it came to pass that they fought all that day; and when the night came, they slept upon their swords;
+
+6:93b [15:21]. And on the morrow they fought even until the night came;
+
+6:94a [15:22]. And when the night came, they were drunken with anger, even as a man who is drunken with wine; and they slept again upon their swords; and on the morrow they fought again;
+
+6:94b [15:23a]. And on the morrow they fought again;
+
+6:95 [15:23b]. And when the night came, they had all fallen by the sword, save it were fifty and two of the people of Coriantumr and sixty and nine of the people of Shiz.
+
+6:96 [15:24]. And it came to pass that they slept upon their swords that night, and on the morrow they fought again; and they contended in their mights with their swords and with their shields all that day;
+
+6:97 [15:25]. And when the night came, there were thirty and two of the people of Shiz and twenty and seven of the people of Coriantumr.
+
+6:98 [15:26a]. And it came to pass that they ate, and slept, and prepared for death on the morrow.
+
+6:99 [15:26b]. And they were large and mighty men, as to the strength of men.
+
+6:100 [15:27]. And it came to pass that they fought for the space of three hours, and they fainted with the loss of blood.
+
+6:101a [15:28a]. And it came to pass that when the men of Coriantumr had received sufficient strength that they could walk, they were about to flee for their lives;
+
+6:101b [15:28b]. But behold, Shiz arose, and also his men; and he swore in his wrath that he would slay Coriantumr or he would perish by the sword;
+
+6:102 [15:29a]. Wherefore, he did pursue them, and on the morrow he did overtake them; and they fought again with the sword.
+
+6:103 [15:29b]. And it came to pass that when they had all fallen by the sword, save it were Coriantumr and Shiz, behold, Shiz had fainted with the loss of blood.
+
+6:104 [15:30]. And it came to pass that when Coriantumr had leaned upon his sword, that he rested a little, he smote off the head of Shiz.
+
+6:105 [15:31]. And it came to pass that after he had smitten off the head of Shiz, that Shiz rose upon his hands and fell; and after that he had struggled for breath, he died.
+
+6:106 [15:32]. And it came to pass that Coriantumr fell to the earth and became as if he had no life.
+
+6:107 [15:33a]. And the Lord spake unto Ether and said unto him: Go forth.
+
+6:108a [15:33b]. And he went forth and beheld that the words of the Lord had all been fulfilled;
+
+6:108b [15:33c]. And he finished his record (and the hundredth part I have not written); and he hid them in a manner that the people of Limhi did find them.
+
+6:109 [15:34]. Now the last words which are written by Ether are these: Whether the Lord will that I be translated or that I suffer the will of the Lord in the flesh, it mattereth not if it so be that I am saved in the kingdom of God. Amen.
